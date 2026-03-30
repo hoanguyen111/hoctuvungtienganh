@@ -1,1 +1,398 @@
-
+[
+  {
+    "unit": "1",
+    "id": "hi",
+    "word": "hi",
+    "pronunciation": "/həˈləʊ/",
+    "meaning": "xin chào",
+    "voice": "",
+    "sentence": "Hello, how are you today? Xin chào, hôm nay bạn thế nào?"
+  },
+  {
+    "unit": "1",
+    "id": "name",
+    "word": "name",
+    "pronunciation": "/həˈləʊ/",
+    "meaning": "xin chào",
+    "voice": "",
+    "sentence": "Hello, how are you today? Xin chào, hôm nay bạn thế nào?"
+  },
+  {
+    "unit": "1",
+    "id": "your",
+    "word": "your",
+    "pronunciation": "/həˈləʊ/",
+    "meaning": "xin chào",
+    "voice": "",
+    "sentence": "Hello, how are you today? Xin chào, hôm nay bạn thế nào?"
+  },
+  {
+    "unit": "1",
+    "id": "what",
+    "word": "what",
+    "pronunciation": "/həˈləʊ/",
+    "meaning": "xin chào",
+    "voice": "",
+    "sentence": "Hello, how are you today? Xin chào, hôm nay bạn thế nào?"
+  },
+  {
+    "unit": "1",
+    "id": "company",
+    "word": "company",
+    "pronunciation": "/həˈləʊ/",
+    "meaning": "xin chào",
+    "voice": "",
+    "sentence": "Hello, how are you today? Xin chào, hôm nay bạn thế nào?"
+  },
+  {
+    "unit": "2",
+    "id": "umbrella",
+    "word": "umbrella",
+    "pronunciation": "/həˈləʊ/",
+    "meaning": "xin chào",
+    "voice": "",
+    "sentence": "Hello, how are you today? Xin chào, hôm nay bạn thế nào?"
+  },
+  {
+    "unit": "2",
+    "id": "hello7",
+    "word": "hello7",
+    "pronunciation": "/həˈləʊ/",
+    "meaning": "xin chào",
+    "voice": "",
+    "sentence": "Hello, how are you today? Xin chào, hôm nay bạn thế nào?"
+  },
+  {
+    "unit": "2",
+    "id": "hello8",
+    "word": "hello8",
+    "pronunciation": "/həˈləʊ/",
+    "meaning": "xin chào",
+    "voice": "",
+    "sentence": "Hello, how are you today? Xin chào, hôm nay bạn thế nào?"
+  },
+  {
+    "unit": "2",
+    "id": "hello9",
+    "word": "hello9",
+    "pronunciation": "/həˈləʊ/",
+    "meaning": "xin chào",
+    "voice": "",
+    "sentence": "Hello, how are you today? Xin chào, hôm nay bạn thế nào?"
+  },
+  {
+    "unit": "3",
+    "id": "hello10",
+    "word": "hello10",
+    "pronunciation": "/həˈləʊ/",
+    "meaning": "xin chào",
+    "voice": "",
+    "sentence": "Hello, how are you today? Xin chào, hôm nay bạn thế nào?"
+  },
+  {
+    "unit": "3",
+    "id": "hello11",
+    "word": "hello11",
+    "pronunciation": "/həˈləʊ/",
+    "meaning": "xin chào",
+    "voice": "",
+    "sentence": "Hello, how are you today? Xin chào, hôm nay bạn thế nào?"
+  },
+  {
+    "unit": "3",
+    "id": "hello12",
+    "word": "hello12",
+    "pronunciation": "/həˈləʊ/",
+    "meaning": "xin chào",
+    "voice": "",
+    "sentence": "Hello, how are you today? Xin chào, hôm nay bạn thế nào?"
+  },
+  {
+    "unit": "3",
+    "id": "hello13",
+    "word": "hello13",
+    "pronunciation": "/həˈləʊ/",
+    "meaning": "xin chào",
+    "voice": "",
+    "sentence": "Hello, how are you today? Xin chào, hôm nay bạn thế nào?"
+  },
+  {
+    "unit": "3",
+    "id": "hello14",
+    "word": "hello14",
+    "pronunciation": "/həˈləʊ/",
+    "meaning": "xin chào",
+    "voice": "",
+    "sentence": "Hello, how are you today? Xin chào, hôm nay bạn thế nào?"
+  },
+  {
+    "unit": "3",
+    "id": "hello15",
+    "word": "hello15",
+    "pronunciation": "/həˈləʊ/",
+    "meaning": "xin chào",
+    "voice": "",
+    "sentence": "Hello, how are you today? Xin chào, hôm nay bạn thế nào?"
+  },
+  {
+    "unit": "4",
+    "id": "hello16",
+    "word": "hello16",
+    "pronunciation": "/həˈləʊ/",
+    "meaning": "xin chào",
+    "voice": "",
+    "sentence": "Hello, how are you today? Xin chào, hôm nay bạn thế nào?"
+  },
+  {
+    "unit": "4",
+    "id": "hello17",
+    "word": "hello17",
+    "pronunciation": "/həˈləʊ/",
+    "meaning": "xin chào",
+    "voice": "",
+    "sentence": "Hello, how are you today? Xin chào, hôm nay bạn thế nào?"
+  },
+  {
+    "unit": "4",
+    "id": "hello18",
+    "word": "hello18",
+    "pronunciation": "/həˈləʊ/",
+    "meaning": "xin chào",
+    "voice": "",
+    "sentence": "Hello, how are you today? Xin chào, hôm nay bạn thế nào?"
+  },
+  {
+    "unit": "4",
+    "id": "hello19",
+    "word": "hello19",
+    "pronunciation": "/həˈləʊ/",
+    "meaning": "xin chào",
+    "voice": "",
+    "sentence": "Hello, how are you today? Xin chào, hôm nay bạn thế nào?"
+  },
+  {
+    "unit": "4",
+    "id": "hello20",
+    "word": "hello20",
+    "pronunciation": "/həˈləʊ/",
+    "meaning": "xin chào",
+    "voice": "",
+    "sentence": "Hello, how are you today? Xin chào, hôm nay bạn thế nào?"
+  },
+  {
+    "unit": "4",
+    "id": "hello21",
+    "word": "hello21",
+    "pronunciation": "/həˈləʊ/",
+    "meaning": "xin chào",
+    "voice": "",
+    "sentence": "Hello, how are you today? Xin chào, hôm nay bạn thế nào?"
+  },
+  {
+    "unit": "4",
+    "id": "hello22",
+    "word": "hello22",
+    "pronunciation": "/həˈləʊ/",
+    "meaning": "xin chào",
+    "voice": "",
+    "sentence": "Hello, how are you today? Xin chào, hôm nay bạn thế nào?"
+  },
+  {
+    "unit": "5",
+    "id": "hi1",
+    "word": "hi1",
+    "pronunciation": "hi",
+    "meaning": "chào",
+    "voice": "",
+    "sentence": "hi hihi"
+  },
+  {
+    "unit": "5",
+    "id": "hi2",
+    "word": "hi2",
+    "pronunciation": "hi",
+    "meaning": "chào",
+    "voice": "",
+    "sentence": "hi hihi"
+  },
+  {
+    "unit": "5",
+    "id": "hi3",
+    "word": "hi3",
+    "pronunciation": "hi",
+    "meaning": "chào",
+    "voice": "",
+    "sentence": "hi hihi"
+  },
+  {
+    "unit": "5",
+    "id": "hi4",
+    "word": "hi4",
+    "pronunciation": "hi",
+    "meaning": "chào",
+    "voice": "",
+    "sentence": "hi hihi"
+  },
+  {
+    "unit": "5",
+    "id": "hi5",
+    "word": "hi5",
+    "pronunciation": "hi",
+    "meaning": "chào",
+    "voice": "",
+    "sentence": "hi hihi"
+  },
+  {
+    "unit": "5",
+    "id": "hi6",
+    "word": "hi6",
+    "pronunciation": "hi",
+    "meaning": "chào",
+    "voice": "",
+    "sentence": "hi hihi"
+  },
+  {
+    "unit": "5",
+    "id": "hi7",
+    "word": "hi7",
+    "pronunciation": "hi",
+    "meaning": "chào",
+    "voice": "",
+    "sentence": "hi hihi"
+  },
+  {
+    "unit": "5",
+    "id": "hi8",
+    "word": "hi8",
+    "pronunciation": "hi",
+    "meaning": "chào",
+    "voice": "",
+    "sentence": "hi hihi"
+  },
+  {
+    "unit": "6",
+    "id": "hi9",
+    "word": "hi9",
+    "pronunciation": "hi",
+    "meaning": "chào",
+    "voice": "",
+    "sentence": "hi hihi"
+  },
+  {
+    "unit": "6",
+    "id": "hi10",
+    "word": "hi10",
+    "pronunciation": "hi",
+    "meaning": "chào",
+    "voice": "",
+    "sentence": "hi hihi"
+  },
+  {
+    "unit": "6",
+    "id": "hi11",
+    "word": "hi11",
+    "pronunciation": "hi",
+    "meaning": "chào",
+    "voice": "",
+    "sentence": "hi hihi"
+  },
+  {
+    "unit": "6",
+    "id": "hi12",
+    "word": "hi12",
+    "pronunciation": "hi",
+    "meaning": "chào",
+    "voice": "",
+    "sentence": "hi hihi"
+  },
+  {
+    "unit": "6",
+    "id": "hi13",
+    "word": "hi13",
+    "pronunciation": "hi",
+    "meaning": "chào",
+    "voice": "",
+    "sentence": "hi hihi"
+  },
+  {
+    "unit": "6",
+    "id": "hi14",
+    "word": "hi14",
+    "pronunciation": "hi",
+    "meaning": "chào",
+    "voice": "",
+    "sentence": "hi hihi"
+  },
+  {
+    "unit": "6",
+    "id": "hi15",
+    "word": "hi15",
+    "pronunciation": "hi",
+    "meaning": "chào",
+    "voice": "",
+    "sentence": "hi hihi"
+  },
+  {
+    "unit": "6",
+    "id": "hi16",
+    "word": "hi16",
+    "pronunciation": "hi",
+    "meaning": "chào",
+    "voice": "",
+    "sentence": "hi hihi"
+  },
+  {
+    "unit": "6",
+    "id": "hi17",
+    "word": "hi17",
+    "pronunciation": "hi",
+    "meaning": "chào",
+    "voice": "",
+    "sentence": "hi hihi"
+  },
+  {
+    "unit": "6",
+    "id": "hi18",
+    "word": "hi18",
+    "pronunciation": "hi",
+    "meaning": "chào",
+    "voice": "",
+    "sentence": "hi hihi"
+  },
+  {
+    "unit": "6",
+    "id": "hi19",
+    "word": "hi19",
+    "pronunciation": "hi",
+    "meaning": "chào",
+    "voice": "",
+    "sentence": "hi hihi"
+  },
+  {
+    "unit": "6",
+    "id": "hi20",
+    "word": "hi20",
+    "pronunciation": "hi",
+    "meaning": "chào",
+    "voice": "",
+    "sentence": "hi hihi"
+  },
+  {
+    "unit": "6",
+    "id": "hi21",
+    "word": "hi21",
+    "pronunciation": "hi",
+    "meaning": "chào",
+    "voice": "",
+    "sentence": "hi hihi"
+  },
+  {
+    "unit": "6",
+    "id": "hi22",
+    "word": "hi22",
+    "pronunciation": "hi",
+    "meaning": "chào",
+    "voice": "",
+    "sentence": "hi hihi"
+  }
+]
