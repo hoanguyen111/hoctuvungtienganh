@@ -1,1 +1,442 @@
-
+[
+  {
+    "unit": "1",
+    "id": "hi",
+    "từ vựng": "hi",
+    "phiên âm": "/həˈləʊ/",
+    "dịch nghĩa": "xin chào",
+    "voice": "",
+    "mẫu câu": "Hello, how are you today? Xin chào, hôm nay bạn thế nào?",
+    "": ""
+  },
+  {
+    "unit": "1",
+    "id": "name",
+    "từ vựng": "name",
+    "phiên âm": "/həˈləʊ/",
+    "dịch nghĩa": "xin chào",
+    "voice": "",
+    "mẫu câu": "Hello, how are you today? Xin chào, hôm nay bạn thế nào?",
+    "": ""
+  },
+  {
+    "unit": "1",
+    "id": "your",
+    "từ vựng": "your",
+    "phiên âm": "/həˈləʊ/",
+    "dịch nghĩa": "xin chào",
+    "voice": "",
+    "mẫu câu": "Hello, how are you today? Xin chào, hôm nay bạn thế nào?",
+    "": ""
+  },
+  {
+    "unit": "1",
+    "id": "what",
+    "từ vựng": "what",
+    "phiên âm": "/həˈləʊ/",
+    "dịch nghĩa": "xin chào",
+    "voice": "",
+    "mẫu câu": "Hello, how are you today? Xin chào, hôm nay bạn thế nào?",
+    "": ""
+  },
+  {
+    "unit": "1",
+    "id": "company",
+    "từ vựng": "company",
+    "phiên âm": "/həˈləʊ/",
+    "dịch nghĩa": "xin chào",
+    "voice": "",
+    "mẫu câu": "Hello, how are you today? Xin chào, hôm nay bạn thế nào?",
+    "": ""
+  },
+  {
+    "unit": "2",
+    "id": "umbrella",
+    "từ vựng": "umbrella",
+    "phiên âm": "/həˈləʊ/",
+    "dịch nghĩa": "xin chào",
+    "voice": "",
+    "mẫu câu": "Hello, how are you today? Xin chào, hôm nay bạn thế nào?",
+    "": ""
+  },
+  {
+    "unit": "2",
+    "id": "hello7",
+    "từ vựng": "hello7",
+    "phiên âm": "/həˈləʊ/",
+    "dịch nghĩa": "xin chào",
+    "voice": "",
+    "mẫu câu": "Hello, how are you today? Xin chào, hôm nay bạn thế nào?",
+    "": ""
+  },
+  {
+    "unit": "2",
+    "id": "hello8",
+    "từ vựng": "hello8",
+    "phiên âm": "/həˈləʊ/",
+    "dịch nghĩa": "xin chào",
+    "voice": "",
+    "mẫu câu": "Hello, how are you today? Xin chào, hôm nay bạn thế nào?",
+    "": ""
+  },
+  {
+    "unit": "2",
+    "id": "hello9",
+    "từ vựng": "hello9",
+    "phiên âm": "/həˈləʊ/",
+    "dịch nghĩa": "xin chào",
+    "voice": "",
+    "mẫu câu": "Hello, how are you today? Xin chào, hôm nay bạn thế nào?",
+    "": ""
+  },
+  {
+    "unit": "3",
+    "id": "hello10",
+    "từ vựng": "hello10",
+    "phiên âm": "/həˈləʊ/",
+    "dịch nghĩa": "xin chào",
+    "voice": "",
+    "mẫu câu": "Hello, how are you today? Xin chào, hôm nay bạn thế nào?",
+    "": ""
+  },
+  {
+    "unit": "3",
+    "id": "hello11",
+    "từ vựng": "hello11",
+    "phiên âm": "/həˈləʊ/",
+    "dịch nghĩa": "xin chào",
+    "voice": "",
+    "mẫu câu": "Hello, how are you today? Xin chào, hôm nay bạn thế nào?",
+    "": ""
+  },
+  {
+    "unit": "3",
+    "id": "hello12",
+    "từ vựng": "hello12",
+    "phiên âm": "/həˈləʊ/",
+    "dịch nghĩa": "xin chào",
+    "voice": "",
+    "mẫu câu": "Hello, how are you today? Xin chào, hôm nay bạn thế nào?",
+    "": ""
+  },
+  {
+    "unit": "3",
+    "id": "hello13",
+    "từ vựng": "hello13",
+    "phiên âm": "/həˈləʊ/",
+    "dịch nghĩa": "xin chào",
+    "voice": "",
+    "mẫu câu": "Hello, how are you today? Xin chào, hôm nay bạn thế nào?",
+    "": ""
+  },
+  {
+    "unit": "3",
+    "id": "hello14",
+    "từ vựng": "hello14",
+    "phiên âm": "/həˈləʊ/",
+    "dịch nghĩa": "xin chào",
+    "voice": "",
+    "mẫu câu": "Hello, how are you today? Xin chào, hôm nay bạn thế nào?",
+    "": ""
+  },
+  {
+    "unit": "3",
+    "id": "hello15",
+    "từ vựng": "hello15",
+    "phiên âm": "/həˈləʊ/",
+    "dịch nghĩa": "xin chào",
+    "voice": "",
+    "mẫu câu": "Hello, how are you today? Xin chào, hôm nay bạn thế nào?",
+    "": ""
+  },
+  {
+    "unit": "4",
+    "id": "hello16",
+    "từ vựng": "hello16",
+    "phiên âm": "/həˈləʊ/",
+    "dịch nghĩa": "xin chào",
+    "voice": "",
+    "mẫu câu": "Hello, how are you today? Xin chào, hôm nay bạn thế nào?",
+    "": ""
+  },
+  {
+    "unit": "4",
+    "id": "hello17",
+    "từ vựng": "hello17",
+    "phiên âm": "/həˈləʊ/",
+    "dịch nghĩa": "xin chào",
+    "voice": "",
+    "mẫu câu": "Hello, how are you today? Xin chào, hôm nay bạn thế nào?",
+    "": ""
+  },
+  {
+    "unit": "4",
+    "id": "hello18",
+    "từ vựng": "hello18",
+    "phiên âm": "/həˈləʊ/",
+    "dịch nghĩa": "xin chào",
+    "voice": "",
+    "mẫu câu": "Hello, how are you today? Xin chào, hôm nay bạn thế nào?",
+    "": ""
+  },
+  {
+    "unit": "4",
+    "id": "hello19",
+    "từ vựng": "hello19",
+    "phiên âm": "/həˈləʊ/",
+    "dịch nghĩa": "xin chào",
+    "voice": "",
+    "mẫu câu": "Hello, how are you today? Xin chào, hôm nay bạn thế nào?",
+    "": ""
+  },
+  {
+    "unit": "4",
+    "id": "hello20",
+    "từ vựng": "hello20",
+    "phiên âm": "/həˈləʊ/",
+    "dịch nghĩa": "xin chào",
+    "voice": "",
+    "mẫu câu": "Hello, how are you today? Xin chào, hôm nay bạn thế nào?",
+    "": ""
+  },
+  {
+    "unit": "4",
+    "id": "hello21",
+    "từ vựng": "hello21",
+    "phiên âm": "/həˈləʊ/",
+    "dịch nghĩa": "xin chào",
+    "voice": "",
+    "mẫu câu": "Hello, how are you today? Xin chào, hôm nay bạn thế nào?",
+    "": ""
+  },
+  {
+    "unit": "4",
+    "id": "hello22",
+    "từ vựng": "hello22",
+    "phiên âm": "/həˈləʊ/",
+    "dịch nghĩa": "xin chào",
+    "voice": "",
+    "mẫu câu": "Hello, how are you today? Xin chào, hôm nay bạn thế nào?",
+    "": ""
+  },
+  {
+    "unit": "5",
+    "id": "hi1",
+    "từ vựng": "hi1",
+    "phiên âm": "hi",
+    "dịch nghĩa": "chào",
+    "voice": "",
+    "mẫu câu": "hi hihi",
+    "": ""
+  },
+  {
+    "unit": "5",
+    "id": "hi2",
+    "từ vựng": "hi2",
+    "phiên âm": "hi",
+    "dịch nghĩa": "chào",
+    "voice": "",
+    "mẫu câu": "hi hihi",
+    "": ""
+  },
+  {
+    "unit": "5",
+    "id": "hi3",
+    "từ vựng": "hi3",
+    "phiên âm": "hi",
+    "dịch nghĩa": "chào",
+    "voice": "",
+    "mẫu câu": "hi hihi",
+    "": ""
+  },
+  {
+    "unit": "5",
+    "id": "hi4",
+    "từ vựng": "hi4",
+    "phiên âm": "hi",
+    "dịch nghĩa": "chào",
+    "voice": "",
+    "mẫu câu": "hi hihi",
+    "": ""
+  },
+  {
+    "unit": "5",
+    "id": "hi5",
+    "từ vựng": "hi5",
+    "phiên âm": "hi",
+    "dịch nghĩa": "chào",
+    "voice": "",
+    "mẫu câu": "hi hihi",
+    "": ""
+  },
+  {
+    "unit": "5",
+    "id": "hi6",
+    "từ vựng": "hi6",
+    "phiên âm": "hi",
+    "dịch nghĩa": "chào",
+    "voice": "",
+    "mẫu câu": "hi hihi",
+    "": ""
+  },
+  {
+    "unit": "5",
+    "id": "hi7",
+    "từ vựng": "hi7",
+    "phiên âm": "hi",
+    "dịch nghĩa": "chào",
+    "voice": "",
+    "mẫu câu": "hi hihi",
+    "": ""
+  },
+  {
+    "unit": "5",
+    "id": "hi8",
+    "từ vựng": "hi8",
+    "phiên âm": "hi",
+    "dịch nghĩa": "chào",
+    "voice": "",
+    "mẫu câu": "hi hihi",
+    "": ""
+  },
+  {
+    "unit": "6",
+    "id": "hi9",
+    "từ vựng": "hi9",
+    "phiên âm": "hi",
+    "dịch nghĩa": "chào",
+    "voice": "",
+    "mẫu câu": "hi hihi",
+    "": ""
+  },
+  {
+    "unit": "6",
+    "id": "hi10",
+    "từ vựng": "hi10",
+    "phiên âm": "hi",
+    "dịch nghĩa": "chào",
+    "voice": "",
+    "mẫu câu": "hi hihi",
+    "": ""
+  },
+  {
+    "unit": "6",
+    "id": "hi11",
+    "từ vựng": "hi11",
+    "phiên âm": "hi",
+    "dịch nghĩa": "chào",
+    "voice": "",
+    "mẫu câu": "hi hihi",
+    "": ""
+  },
+  {
+    "unit": "6",
+    "id": "hi12",
+    "từ vựng": "hi12",
+    "phiên âm": "hi",
+    "dịch nghĩa": "chào",
+    "voice": "",
+    "mẫu câu": "hi hihi",
+    "": ""
+  },
+  {
+    "unit": "6",
+    "id": "hi13",
+    "từ vựng": "hi13",
+    "phiên âm": "hi",
+    "dịch nghĩa": "chào",
+    "voice": "",
+    "mẫu câu": "hi hihi",
+    "": ""
+  },
+  {
+    "unit": "6",
+    "id": "hi14",
+    "từ vựng": "hi14",
+    "phiên âm": "hi",
+    "dịch nghĩa": "chào",
+    "voice": "",
+    "mẫu câu": "hi hihi",
+    "": ""
+  },
+  {
+    "unit": "6",
+    "id": "hi15",
+    "từ vựng": "hi15",
+    "phiên âm": "hi",
+    "dịch nghĩa": "chào",
+    "voice": "",
+    "mẫu câu": "hi hihi",
+    "": ""
+  },
+  {
+    "unit": "6",
+    "id": "hi16",
+    "từ vựng": "hi16",
+    "phiên âm": "hi",
+    "dịch nghĩa": "chào",
+    "voice": "",
+    "mẫu câu": "hi hihi",
+    "": ""
+  },
+  {
+    "unit": "6",
+    "id": "hi17",
+    "từ vựng": "hi17",
+    "phiên âm": "hi",
+    "dịch nghĩa": "chào",
+    "voice": "",
+    "mẫu câu": "hi hihi",
+    "": ""
+  },
+  {
+    "unit": "6",
+    "id": "hi18",
+    "từ vựng": "hi18",
+    "phiên âm": "hi",
+    "dịch nghĩa": "chào",
+    "voice": "",
+    "mẫu câu": "hi hihi",
+    "": ""
+  },
+  {
+    "unit": "6",
+    "id": "hi19",
+    "từ vựng": "hi19",
+    "phiên âm": "hi",
+    "dịch nghĩa": "chào",
+    "voice": "",
+    "mẫu câu": "hi hihi",
+    "": ""
+  },
+  {
+    "unit": "6",
+    "id": "hi20",
+    "từ vựng": "hi20",
+    "phiên âm": "hi",
+    "dịch nghĩa": "chào",
+    "voice": "",
+    "mẫu câu": "hi hihi",
+    "": ""
+  },
+  {
+    "unit": "6",
+    "id": "hi21",
+    "từ vựng": "hi21",
+    "phiên âm": "hi",
+    "dịch nghĩa": "chào",
+    "voice": "",
+    "mẫu câu": "hi hihi",
+    "": ""
+  },
+  {
+    "unit": "6",
+    "id": "hi22",
+    "từ vựng": "hi22",
+    "phiên âm": "hi",
+    "dịch nghĩa": "chào",
+    "voice": "",
+    "mẫu câu": "hi hihi",
+    "": ""
+  }
+]
