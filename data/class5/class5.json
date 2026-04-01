@@ -1,398 +1,3162 @@
 [
   {
     "unit": "1",
-    "id": "hi",
-    "word": "hi",
-    "pronunciation": "/həˈləʊ/",
-    "meaning": "xin chào",
+    "id": "countryside",
+    "word": "countryside",
+    "type": "noun",
+    "pronunciation": "/ˈkʌn.tri.saɪd/",
+    "meaning": "miền quê, nông thôn",
     "voice": "",
-    "sentence": "Hello, how are you today? Xin chào, hôm nay bạn thế nào?"
+    "sentence": "I visit the countryside on weekends."
   },
   {
     "unit": "1",
-    "id": "name",
-    "word": "name",
-    "pronunciation": "/həˈləʊ/",
-    "meaning": "xin chào",
+    "id": "city",
+    "word": "city",
+    "type": "noun",
+    "pronunciation": "/ˈsɪt.i/",
+    "meaning": "thành phố",
     "voice": "",
-    "sentence": "Hello, how are you today? Xin chào, hôm nay bạn thế nào?"
+    "sentence": "I live in a big city."
   },
   {
     "unit": "1",
-    "id": "your",
-    "word": "your",
-    "pronunciation": "/həˈləʊ/",
-    "meaning": "xin chào",
+    "id": "grade",
+    "word": "grade",
+    "type": "noun",
+    "pronunciation": "/ɡreɪd/",
+    "meaning": "điểm số",
     "voice": "",
-    "sentence": "Hello, how are you today? Xin chào, hôm nay bạn thế nào?"
+    "sentence": "I am in grade five."
   },
   {
     "unit": "1",
-    "id": "what",
-    "word": "what",
-    "pronunciation": "/həˈləʊ/",
-    "meaning": "xin chào",
+    "id": "yourself",
+    "word": "yourself",
+    "type": "pronoun",
+    "pronunciation": "/jɔːrˈself/",
+    "meaning": "bản thân bạn",
     "voice": "",
-    "sentence": "Hello, how are you today? Xin chào, hôm nay bạn thế nào?"
+    "sentence": "Please introduce yourself."
   },
   {
     "unit": "1",
-    "id": "company",
-    "word": "company",
-    "pronunciation": "/həˈləʊ/",
-    "meaning": "xin chào",
+    "id": "favourite",
+    "word": "favourite",
+    "type": "adjective",
+    "pronunciation": "/ˈfeɪ.vər.ɪt/",
+    "meaning": "yêu thích nhất",
     "voice": "",
-    "sentence": "Hello, how are you today? Xin chào, hôm nay bạn thế nào?"
+    "sentence": "My favourite subject is English."
+  },
+  {
+    "unit": "1",
+    "id": "basketball",
+    "word": "basketball",
+    "type": "noun",
+    "pronunciation": "/ˈbæs.kɪt.bɔːl/",
+    "meaning": "bóng rổ",
+    "voice": "",
+    "sentence": "I play basketball after school."
+  },
+  {
+    "unit": "1",
+    "id": "swimming",
+    "word": "swimming",
+    "type": "noun",
+    "pronunciation": "/ˈswɪm.ɪŋ/",
+    "meaning": "bơi lội",
+    "voice": "",
+    "sentence": "I like swimming in the pool."
+  },
+  {
+    "unit": "1",
+    "id": "table tennis",
+    "word": "table tennis",
+    "type": "noun phrase",
+    "pronunciation": "/ˈteɪ.bəl ˌten.ɪs/",
+    "meaning": "bóng bàn",
+    "voice": "",
+    "sentence": "I play table tennis with my friend."
+  },
+  {
+    "unit": "1",
+    "id": "animal",
+    "word": "animal",
+    "type": "noun",
+    "pronunciation": "/ˈæn.ɪ.məl/",
+    "meaning": "động vật",
+    "voice": "",
+    "sentence": "The tiger is a wild animal."
+  },
+  {
+    "unit": "1",
+    "id": "dolphin",
+    "word": "dolphin",
+    "type": "noun",
+    "pronunciation": "/ˈdɒl.fɪn/",
+    "meaning": "cá heo",
+    "voice": "",
+    "sentence": "The dolphin swims fast."
+  },
+  {
+    "unit": "1",
+    "id": "sandwich",
+    "word": "sandwich",
+    "type": "noun",
+    "pronunciation": "/ˈsæn.wɪdʒ/",
+    "meaning": "bánh mì kẹp",
+    "voice": "",
+    "sentence": "I eat a sandwich for lunch."
+  },
+  {
+    "unit": "1",
+    "id": "panda",
+    "word": "panda",
+    "type": "noun",
+    "pronunciation": "/ˈpæn.də/",
+    "meaning": "gấu trúc",
+    "voice": "",
+    "sentence": "The panda eats bamboo."
+  },
+  {
+    "unit": "1",
+    "id": "football",
+    "word": "football",
+    "type": "noun",
+    "pronunciation": "/ˈfʊt.bɔːl/",
+    "meaning": "bóng đá",
+    "voice": "",
+    "sentence": "I play football in the playground."
+  },
+  {
+    "unit": "1",
+    "id": "fish and chips",
+    "word": "fish and chips",
+    "type": "noun phrase",
+    "pronunciation": "/ˌfɪʃ ən ˈtʃɪps/",
+    "meaning": "món cá và khoai tây chiên",
+    "voice": "",
+    "sentence": "I like fish and chips."
+  },
+  {
+    "unit": "1",
+    "id": "baseball",
+    "word": "baseball",
+    "type": "noun",
+    "pronunciation": "/ˈbeɪs.bɔːl/",
+    "meaning": "bóng chày",
+    "voice": "",
+    "sentence": "He plays baseball at school."
+  },
+  {
+    "unit": "1",
+    "id": "introduce",
+    "word": "introduce",
+    "type": "verb",
+    "pronunciation": "/ˌɪn.trəˈdjuːs/",
+    "meaning": "giới thiệu",
+    "voice": "",
+    "sentence": "I introduce my friend to the class."
+  },
+  {
+    "unit": "1",
+    "id": "beautifully",
+    "word": "beautifully",
+    "type": "adverb",
+    "pronunciation": "/ˈbjuː.tɪ.fəl.i/",
+    "meaning": "một cách đẹp đẽ",
+    "voice": "",
+    "sentence": "She sings beautifully."
   },
   {
     "unit": "2",
-    "id": "umbrella",
-    "word": "umbrella",
-    "pronunciation": "/həˈləʊ/",
-    "meaning": "xin chào",
+    "id": "building",
+    "word": "building",
+    "type": "noun",
+    "pronunciation": "/ˈbɪl.dɪŋ/",
+    "meaning": "tòa nhà",
     "voice": "",
-    "sentence": "Hello, how are you today? Xin chào, hôm nay bạn thế nào?"
+    "sentence": "The building is very tall."
   },
   {
     "unit": "2",
-    "id": "hello7",
-    "word": "hello7",
-    "pronunciation": "/həˈləʊ/",
-    "meaning": "xin chào",
+    "id": "flat",
+    "word": "flat",
+    "type": "noun",
+    "pronunciation": "/flæt/",
+    "meaning": "căn hộ",
     "voice": "",
-    "sentence": "Hello, how are you today? Xin chào, hôm nay bạn thế nào?"
+    "sentence": "My aunt lives in a flat."
   },
   {
     "unit": "2",
-    "id": "hello8",
-    "word": "hello8",
-    "pronunciation": "/həˈləʊ/",
-    "meaning": "xin chào",
+    "id": "tower",
+    "word": "tower",
+    "type": "noun",
+    "pronunciation": "/ˈtaʊ.ər/",
+    "meaning": "tháp",
     "voice": "",
-    "sentence": "Hello, how are you today? Xin chào, hôm nay bạn thế nào?"
+    "sentence": "The tower is very high."
   },
   {
     "unit": "2",
-    "id": "hello9",
-    "word": "hello9",
-    "pronunciation": "/həˈləʊ/",
-    "meaning": "xin chào",
+    "id": "address",
+    "word": "address",
+    "type": "noun",
+    "pronunciation": "/əˈdres/",
+    "meaning": "địa chỉ",
     "voice": "",
-    "sentence": "Hello, how are you today? Xin chào, hôm nay bạn thế nào?"
+    "sentence": "My address is on this street."
+  },
+  {
+    "unit": "2",
+    "id": "street",
+    "word": "street",
+    "type": "noun",
+    "pronunciation": "/striːt/",
+    "meaning": "đường phố",
+    "voice": "",
+    "sentence": "My house is on Green Street."
+  },
+  {
+    "unit": "2",
+    "id": "kilometre",
+    "word": "kilometre",
+    "type": "noun",
+    "pronunciation": "/ˈkɪl.əˌmiː.tər/",
+    "meaning": "ki-lô-mét",
+    "voice": "",
+    "sentence": "The school is two kilometres away."
+  },
+  {
+    "unit": "2",
+    "id": "district",
+    "word": "district",
+    "type": "noun",
+    "pronunciation": "/ˈdɪs.trɪkt/",
+    "meaning": "quận, huyện",
+    "voice": "",
+    "sentence": "I live in this district."
+  },
+  {
+    "unit": "2",
+    "id": "far",
+    "word": "far",
+    "type": "adjective",
+    "pronunciation": "/fɑːr/",
+    "meaning": "xa",
+    "voice": "",
+    "sentence": "My house is far from school."
+  },
+  {
+    "unit": "2",
+    "id": "near",
+    "word": "near",
+    "type": "adjective",
+    "pronunciation": "/nɪər/",
+    "meaning": "gần",
+    "voice": "",
+    "sentence": "The park is near my house."
+  },
+  {
+    "unit": "2",
+    "id": "live",
+    "word": "live",
+    "type": "verb",
+    "pronunciation": "/lɪv/",
+    "meaning": "sống, cư trú",
+    "voice": "",
+    "sentence": "I live in Hanoi."
+  },
+  {
+    "unit": "2",
+    "id": "house",
+    "word": "house",
+    "type": "noun",
+    "pronunciation": "/haʊs/",
+    "meaning": "ngôi nhà",
+    "voice": "",
+    "sentence": "My house is small but nice."
   },
   {
     "unit": "3",
-    "id": "hello10",
-    "word": "hello10",
-    "pronunciation": "/həˈləʊ/",
-    "meaning": "xin chào",
+    "id": "foreign",
+    "word": "foreign",
+    "type": "adjective",
+    "pronunciation": "/ˈfɒr.ən/",
+    "meaning": "nước ngoài",
     "voice": "",
-    "sentence": "Hello, how are you today? Xin chào, hôm nay bạn thế nào?"
+    "sentence": "He learns a foreign language."
   },
   {
     "unit": "3",
-    "id": "hello11",
-    "word": "hello11",
-    "pronunciation": "/həˈləʊ/",
-    "meaning": "xin chào",
+    "id": "nationality",
+    "word": "nationality",
+    "type": "noun",
+    "pronunciation": "/ˌnæʃ.əˈnæl.ə.ti/",
+    "meaning": "quốc tịch",
     "voice": "",
-    "sentence": "Hello, how are you today? Xin chào, hôm nay bạn thế nào?"
+    "sentence": "Her nationality is Vietnamese."
   },
   {
     "unit": "3",
-    "id": "hello12",
-    "word": "hello12",
-    "pronunciation": "/həˈləʊ/",
-    "meaning": "xin chào",
+    "id": "Australian",
+    "word": "Australian",
+    "type": "noun",
+    "pronunciation": "/ɒsˈtreɪ.li.ən/",
+    "meaning": "người Úc",
     "voice": "",
-    "sentence": "Hello, how are you today? Xin chào, hôm nay bạn thế nào?"
+    "sentence": "He is Australian."
   },
   {
     "unit": "3",
-    "id": "hello13",
-    "word": "hello13",
-    "pronunciation": "/həˈləʊ/",
-    "meaning": "xin chào",
+    "id": "Malaysian",
+    "word": "Malaysian",
+    "type": "noun",
+    "pronunciation": "/məˈleɪ.zi.ən/",
+    "meaning": "người Malaysia",
     "voice": "",
-    "sentence": "Hello, how are you today? Xin chào, hôm nay bạn thế nào?"
+    "sentence": "My friend is Malaysian."
   },
   {
     "unit": "3",
-    "id": "hello14",
-    "word": "hello14",
-    "pronunciation": "/həˈləʊ/",
-    "meaning": "xin chào",
+    "id": "American",
+    "word": "American",
+    "type": "noun",
+    "pronunciation": "/əˈmer.ɪ.kən/",
+    "meaning": "người Mỹ",
     "voice": "",
-    "sentence": "Hello, how are you today? Xin chào, hôm nay bạn thế nào?"
+    "sentence": "She is American."
   },
   {
     "unit": "3",
-    "id": "hello15",
-    "word": "hello15",
-    "pronunciation": "/həˈləʊ/",
-    "meaning": "xin chào",
+    "id": "Japanese",
+    "word": "Japanese",
+    "type": "noun",
+    "pronunciation": "/ˌdʒæp.əˈniːz/",
+    "meaning": "người Nhật",
     "voice": "",
-    "sentence": "Hello, how are you today? Xin chào, hôm nay bạn thế nào?"
+    "sentence": "He is Japanese."
+  },
+  {
+    "unit": "3",
+    "id": "British",
+    "word": "British",
+    "type": "noun",
+    "pronunciation": "/ˈbrɪt.ɪʃ/",
+    "meaning": "người Anh",
+    "voice": "",
+    "sentence": "My teacher is British."
+  },
+  {
+    "unit": "3",
+    "id": "Indian",
+    "word": "Indian",
+    "type": "noun",
+    "pronunciation": "/ˈɪn.di.ən/",
+    "meaning": "người Ấn Độ",
+    "voice": "",
+    "sentence": "The boy is Indian."
+  },
+  {
+    "unit": "3",
+    "id": "Chinese",
+    "word": "Chinese",
+    "type": "noun",
+    "pronunciation": "/tʃaɪˈniːz/",
+    "meaning": "người Trung Quốc",
+    "voice": "",
+    "sentence": "The girl is Chinese."
+  },
+  {
+    "unit": "3",
+    "id": "friendly",
+    "word": "friendly",
+    "type": "adjective",
+    "pronunciation": "/ˈfrend.li/",
+    "meaning": "thân thiện",
+    "voice": "",
+    "sentence": "My classmates are friendly."
+  },
+  {
+    "unit": "3",
+    "id": "helpful",
+    "word": "helpful",
+    "type": "adjective",
+    "pronunciation": "/ˈhelp.fəl/",
+    "meaning": "hữu ích, sẵn sàng giúp đỡ",
+    "voice": "",
+    "sentence": "My teacher is helpful."
+  },
+  {
+    "unit": "3",
+    "id": "clever",
+    "word": "clever",
+    "type": "adjective",
+    "pronunciation": "/ˈklev.ər/",
+    "meaning": "thông minh",
+    "voice": "",
+    "sentence": "The student is very clever."
+  },
+  {
+    "unit": "3",
+    "id": "active",
+    "word": "active",
+    "type": "adjective",
+    "pronunciation": "/ˈæk.tɪv/",
+    "meaning": "năng động",
+    "voice": "",
+    "sentence": "She is an active pupil."
+  },
+  {
+    "unit": "3",
+    "id": "classmate",
+    "word": "classmate",
+    "type": "noun",
+    "pronunciation": "/ˈklɑːs.meɪt/",
+    "meaning": "bạn cùng lớp",
+    "voice": "",
+    "sentence": "Lan is my classmate."
+  },
+  {
+    "unit": "3",
+    "id": "age",
+    "word": "age",
+    "type": "noun",
+    "pronunciation": "/eɪdʒ/",
+    "meaning": "tuổi tác",
+    "voice": "",
+    "sentence": "My age is ten."
+  },
+  {
+    "unit": "3",
+    "id": "appearance",
+    "word": "appearance",
+    "type": "noun",
+    "pronunciation": "/əˈpɪə.rəns/",
+    "meaning": "ngoại hình",
+    "voice": "",
+    "sentence": "Her appearance is nice."
+  },
+  {
+    "unit": "3",
+    "id": "personality",
+    "word": "personality",
+    "type": "noun",
+    "pronunciation": "/ˌpɜː.sənˈæl.ə.ti/",
+    "meaning": "tính cách",
+    "voice": "",
+    "sentence": "He has a kind personality."
   },
   {
     "unit": "4",
-    "id": "hello16",
-    "word": "hello16",
-    "pronunciation": "/həˈləʊ/",
-    "meaning": "xin chào",
+    "id": "watch cartoons",
+    "word": "watch cartoons",
+    "type": "phrase",
+    "pronunciation": "/wɒtʃ kɑːˈtuːnz/",
+    "meaning": "xem phim hoạt hình",
     "voice": "",
-    "sentence": "Hello, how are you today? Xin chào, hôm nay bạn thế nào?"
+    "sentence": "I watch cartoons in the evening."
   },
   {
     "unit": "4",
-    "id": "hello17",
-    "word": "hello17",
-    "pronunciation": "/həˈləʊ/",
-    "meaning": "xin chào",
+    "id": "play the violin",
+    "word": "play the violin",
+    "type": "phrase",
+    "pronunciation": "/pleɪ ðə ˌvaɪəˈlɪn/",
+    "meaning": "chơi đàn vi-ô-lông",
     "voice": "",
-    "sentence": "Hello, how are you today? Xin chào, hôm nay bạn thế nào?"
+    "sentence": "She can play the violin."
   },
   {
     "unit": "4",
-    "id": "hello18",
-    "word": "hello18",
-    "pronunciation": "/həˈləʊ/",
-    "meaning": "xin chào",
+    "id": "surf the Internet",
+    "word": "surf the Internet",
+    "type": "phrase",
+    "pronunciation": "/sɜːf ði ˈɪn.tə.net/",
+    "meaning": "lướt Internet",
     "voice": "",
-    "sentence": "Hello, how are you today? Xin chào, hôm nay bạn thế nào?"
+    "sentence": "I surf the Internet on weekends."
   },
   {
     "unit": "4",
-    "id": "hello19",
-    "word": "hello19",
-    "pronunciation": "/həˈləʊ/",
-    "meaning": "xin chào",
+    "id": "water the flowers",
+    "word": "water the flowers",
+    "type": "phrase",
+    "pronunciation": "/ˈwɔː.tər ðə ˈflaʊ.ərz/",
+    "meaning": "tưới hoa",
     "voice": "",
-    "sentence": "Hello, how are you today? Xin chào, hôm nay bạn thế nào?"
+    "sentence": "I water the flowers every day."
   },
   {
     "unit": "4",
-    "id": "hello20",
-    "word": "hello20",
-    "pronunciation": "/həˈləʊ/",
-    "meaning": "xin chào",
+    "id": "go for a walk",
+    "word": "go for a walk",
+    "type": "phrase",
+    "pronunciation": "/ɡəʊ fər ə wɔːk/",
+    "meaning": "đi dạo",
     "voice": "",
-    "sentence": "Hello, how are you today? Xin chào, hôm nay bạn thế nào?"
+    "sentence": "My family goes for a walk."
   },
   {
     "unit": "4",
-    "id": "hello21",
-    "word": "hello21",
-    "pronunciation": "/həˈləʊ/",
-    "meaning": "xin chào",
+    "id": "read a book",
+    "word": "read a book",
+    "type": "phrase",
+    "pronunciation": "/riːd ə bʊk/",
+    "meaning": "đọc sách",
     "voice": "",
-    "sentence": "Hello, how are you today? Xin chào, hôm nay bạn thế nào?"
+    "sentence": "I read a book before bed."
   },
   {
     "unit": "4",
-    "id": "hello22",
-    "word": "hello22",
-    "pronunciation": "/həˈləʊ/",
-    "meaning": "xin chào",
+    "id": "listen to music",
+    "word": "listen to music",
+    "type": "phrase",
+    "pronunciation": "/ˈlɪs.ən tə ˈmjuː.zɪk/",
+    "meaning": "nghe nhạc",
     "voice": "",
-    "sentence": "Hello, how are you today? Xin chào, hôm nay bạn thế nào?"
+    "sentence": "I listen to music after school."
+  },
+  {
+    "unit": "4",
+    "id": "ride a bike",
+    "word": "ride a bike",
+    "type": "phrase",
+    "pronunciation": "/raɪd ə baɪk/",
+    "meaning": "đi xe đạp",
+    "voice": "",
+    "sentence": "I ride a bike to the park."
+  },
+  {
+    "unit": "4",
+    "id": "weekend",
+    "word": "weekend",
+    "type": "noun",
+    "pronunciation": "/ˈwiːk.end/",
+    "meaning": "cuối tuần",
+    "voice": "",
+    "sentence": "I relax on the weekend."
+  },
+  {
+    "unit": "4",
+    "id": "volleyball",
+    "word": "volleyball",
+    "type": "noun",
+    "pronunciation": "/ˈvɒl.i.bɔːl/",
+    "meaning": "bóng chuyền",
+    "voice": "",
+    "sentence": "I play volleyball at school."
+  },
+  {
+    "unit": "4",
+    "id": "entertain",
+    "word": "entertain",
+    "type": "verb",
+    "pronunciation": "/ˌen.təˈteɪn/",
+    "meaning": "giải trí",
+    "voice": "",
+    "sentence": "The clown entertains the children."
+  },
+  {
+    "unit": "4",
+    "id": "shopping",
+    "word": "shopping",
+    "type": "noun",
+    "pronunciation": "/ˈʃɒp.ɪŋ/",
+    "meaning": "mua sắm",
+    "voice": "",
+    "sentence": "My mom goes shopping."
+  },
+  {
+    "unit": "4",
+    "id": "cooking",
+    "word": "cooking",
+    "type": "noun",
+    "pronunciation": "/ˈkʊk.ɪŋ/",
+    "meaning": "nấu ăn",
+    "voice": "",
+    "sentence": "My hobby is cooking."
+  },
+  {
+    "unit": "4",
+    "id": "roller skating",
+    "word": "roller skating",
+    "type": "noun phrase",
+    "pronunciation": "/ˈrəʊ.lər ˌskeɪ.tɪŋ/",
+    "meaning": "trượt patin",
+    "voice": "",
+    "sentence": "I like roller skating."
+  },
+  {
+    "unit": "4",
+    "id": "always",
+    "word": "always",
+    "type": "adverb",
+    "pronunciation": "/ˈɔːl.weɪz/",
+    "meaning": "luôn luôn",
+    "voice": "",
+    "sentence": "I always do my homework."
+  },
+  {
+    "unit": "4",
+    "id": "sometimes",
+    "word": "sometimes",
+    "type": "adverb",
+    "pronunciation": "/ˈsʌm.taɪmz/",
+    "meaning": "đôi khi",
+    "voice": "",
+    "sentence": "I sometimes watch TV."
+  },
+  {
+    "unit": "4",
+    "id": "usually",
+    "word": "usually",
+    "type": "adverb",
+    "pronunciation": "/ˈjuː.ʒu.ə.li/",
+    "meaning": "thường xuyên",
+    "voice": "",
+    "sentence": "I usually get up early."
+  },
+  {
+    "unit": "4",
+    "id": "rarely",
+    "word": "rarely",
+    "type": "adverb",
+    "pronunciation": "/ˈreə.li/",
+    "meaning": "hiếm khi",
+    "voice": "",
+    "sentence": "I rarely eat fast food."
   },
   {
     "unit": "5",
-    "id": "hi1",
-    "word": "hi1",
-    "pronunciation": "hi",
-    "meaning": "chào",
+    "id": "doctor",
+    "word": "doctor",
+    "type": "noun",
+    "pronunciation": "/ˈdɒk.tər/",
+    "meaning": "bác sĩ",
     "voice": "",
-    "sentence": "hi hihi"
+    "sentence": "My father is a doctor."
   },
   {
     "unit": "5",
-    "id": "hi2",
-    "word": "hi2",
-    "pronunciation": "hi",
-    "meaning": "chào",
+    "id": "firefighter",
+    "word": "firefighter",
+    "type": "noun",
+    "pronunciation": "/ˈfaɪəˌfaɪ.tər/",
+    "meaning": "lính cứu hỏa",
     "voice": "",
-    "sentence": "hi hihi"
+    "sentence": "The firefighter helps people."
   },
   {
     "unit": "5",
-    "id": "hi3",
-    "word": "hi3",
-    "pronunciation": "hi",
-    "meaning": "chào",
+    "id": "reporter",
+    "word": "reporter",
+    "type": "noun",
+    "pronunciation": "/rɪˈpɔː.tər/",
+    "meaning": "phóng viên",
     "voice": "",
-    "sentence": "hi hihi"
+    "sentence": "The reporter writes news."
   },
   {
     "unit": "5",
-    "id": "hi4",
-    "word": "hi4",
-    "pronunciation": "hi",
-    "meaning": "chào",
+    "id": "gardener",
+    "word": "gardener",
+    "type": "noun",
+    "pronunciation": "/ˈɡɑː.dən.ər/",
+    "meaning": "người làm vườn",
     "voice": "",
-    "sentence": "hi hihi"
+    "sentence": "The gardener waters plants."
   },
   {
     "unit": "5",
-    "id": "hi5",
-    "word": "hi5",
-    "pronunciation": "hi",
-    "meaning": "chào",
+    "id": "writer",
+    "word": "writer",
+    "type": "noun",
+    "pronunciation": "/ˈraɪ.tər/",
+    "meaning": "nhà văn",
     "voice": "",
-    "sentence": "hi hihi"
+    "sentence": "The writer writes stories."
   },
   {
     "unit": "5",
-    "id": "hi6",
-    "word": "hi6",
-    "pronunciation": "hi",
-    "meaning": "chào",
+    "id": "job fair",
+    "word": "job fair",
+    "type": "noun phrase",
+    "pronunciation": "/ˈdʒɒb feər/",
+    "meaning": "hội chợ việc làm",
     "voice": "",
-    "sentence": "hi hihi"
+    "sentence": "We visit a job fair."
   },
   {
     "unit": "5",
-    "id": "hi7",
-    "word": "hi7",
-    "pronunciation": "hi",
-    "meaning": "chào",
+    "id": "artist",
+    "word": "artist",
+    "type": "noun",
+    "pronunciation": "/ˈɑː.tɪst/",
+    "meaning": "nghệ sĩ",
     "voice": "",
-    "sentence": "hi hihi"
+    "sentence": "The artist paints pictures."
   },
   {
     "unit": "5",
-    "id": "hi8",
-    "word": "hi8",
-    "pronunciation": "hi",
-    "meaning": "chào",
+    "id": "dentist",
+    "word": "dentist",
+    "type": "noun",
+    "pronunciation": "/ˈden.tɪst/",
+    "meaning": "nha sĩ",
     "voice": "",
-    "sentence": "hi hihi"
+    "sentence": "The dentist checks my teeth."
+  },
+  {
+    "unit": "5",
+    "id": "farmer",
+    "word": "farmer",
+    "type": "noun",
+    "pronunciation": "/ˈfɑː.mər/",
+    "meaning": "nông dân",
+    "voice": "",
+    "sentence": "The farmer works on a farm."
+  },
+  {
+    "unit": "5",
+    "id": "prefer",
+    "word": "prefer",
+    "type": "verb",
+    "pronunciation": "/prɪˈfɜːr/",
+    "meaning": "thích hơn",
+    "voice": "",
+    "sentence": "I prefer tea to coffee."
+  },
+  {
+    "unit": "5",
+    "id": "survey",
+    "word": "survey",
+    "type": "noun",
+    "pronunciation": "/ˈsɜː.veɪ/",
+    "meaning": "khảo sát",
+    "voice": "",
+    "sentence": "We do a class survey."
+  },
+  {
+    "unit": "5",
+    "id": "take care of",
+    "word": "take care of",
+    "type": "phrase",
+    "pronunciation": "/teɪk keər əv/",
+    "meaning": "chăm sóc",
+    "voice": "",
+    "sentence": "I take care of my pet."
   },
   {
     "unit": "6",
-    "id": "hi9",
-    "word": "hi9",
-    "pronunciation": "hi",
-    "meaning": "chào",
+    "id": "around",
+    "word": "around",
+    "type": "preposition",
+    "pronunciation": "/əˈraʊnd/",
+    "meaning": "xung quanh",
     "voice": "",
-    "sentence": "hi hihi"
+    "sentence": "We walk around the park."
   },
   {
     "unit": "6",
-    "id": "hi10",
-    "word": "hi10",
-    "pronunciation": "hi",
-    "meaning": "chào",
+    "id": "library",
+    "word": "library",
+    "type": "noun",
+    "pronunciation": "/ˈlaɪ.brər.i/",
+    "meaning": "thư viện",
     "voice": "",
-    "sentence": "hi hihi"
+    "sentence": "I read books in the library."
   },
   {
     "unit": "6",
-    "id": "hi11",
-    "word": "hi11",
-    "pronunciation": "hi",
-    "meaning": "chào",
+    "id": "ground/first/second/… floor",
+    "word": "ground/first/second/… floor",
+    "type": "noun phrase",
+    "pronunciation": "/ɡraʊnd/ˈfɜːst/ˈsek.ənd flɔːr/",
+    "meaning": "tầng trệt/tầng 1/tầng 2/...",
     "voice": "",
-    "sentence": "hi hihi"
+    "sentence": "My classroom is on the second floor."
   },
   {
     "unit": "6",
-    "id": "hi12",
-    "word": "hi12",
-    "pronunciation": "hi",
-    "meaning": "chào",
+    "id": "art",
+    "word": "art",
+    "type": "noun",
+    "pronunciation": "/ɑːrt/",
+    "meaning": "nghệ thuật",
     "voice": "",
-    "sentence": "hi hihi"
+    "sentence": "I like art."
   },
   {
     "unit": "6",
-    "id": "hi13",
-    "word": "hi13",
-    "pronunciation": "hi",
-    "meaning": "chào",
+    "id": "music",
+    "word": "music",
+    "type": "noun",
+    "pronunciation": "/ˈmjuː.zɪk/",
+    "meaning": "âm nhạc",
     "voice": "",
-    "sentence": "hi hihi"
+    "sentence": "I learn music at school."
   },
   {
     "unit": "6",
-    "id": "hi14",
-    "word": "hi14",
-    "pronunciation": "hi",
-    "meaning": "chào",
+    "id": "computer",
+    "word": "computer",
+    "type": "noun",
+    "pronunciation": "/kəmˈpjuː.tər/",
+    "meaning": "máy tính",
     "voice": "",
-    "sentence": "hi hihi"
+    "sentence": "I use the computer to study."
   },
   {
     "unit": "6",
-    "id": "hi15",
-    "word": "hi15",
-    "pronunciation": "hi",
-    "meaning": "chào",
+    "id": "way",
+    "word": "way",
+    "type": "noun",
+    "pronunciation": "/weɪ/",
+    "meaning": "con đường, cách",
     "voice": "",
-    "sentence": "hi hihi"
+    "sentence": "This is the way to school."
   },
   {
     "unit": "6",
-    "id": "hi16",
-    "word": "hi16",
-    "pronunciation": "hi",
-    "meaning": "chào",
+    "id": "upstairs",
+    "word": "upstairs",
+    "type": "adverb",
+    "pronunciation": "/ˌʌpˈsteəz/",
+    "meaning": "trên lầu",
     "voice": "",
-    "sentence": "hi hihi"
+    "sentence": "My bedroom is upstairs."
   },
   {
     "unit": "6",
-    "id": "hi17",
-    "word": "hi17",
-    "pronunciation": "hi",
-    "meaning": "chào",
+    "id": "downstairs",
+    "word": "downstairs",
+    "type": "adverb",
+    "pronunciation": "/ˌdaʊnˈsteəz/",
+    "meaning": "dưới lầu",
     "voice": "",
-    "sentence": "hi hihi"
+    "sentence": "The kitchen is downstairs."
   },
   {
     "unit": "6",
-    "id": "hi18",
-    "word": "hi18",
-    "pronunciation": "hi",
-    "meaning": "chào",
+    "id": "along",
+    "word": "along",
+    "type": "preposition",
+    "pronunciation": "/əˈlɒŋ/",
+    "meaning": "dọc theo",
     "voice": "",
-    "sentence": "hi hihi"
+    "sentence": "Walk along the road."
   },
   {
     "unit": "6",
-    "id": "hi19",
-    "word": "hi19",
-    "pronunciation": "hi",
-    "meaning": "chào",
+    "id": "past",
+    "word": "past",
+    "type": "preposition",
+    "pronunciation": "/pɑːst/",
+    "meaning": "ngang qua",
     "voice": "",
-    "sentence": "hi hihi"
+    "sentence": "Go past the school."
   },
   {
     "unit": "6",
-    "id": "hi20",
-    "word": "hi20",
-    "pronunciation": "hi",
-    "meaning": "chào",
+    "id": "corridor",
+    "word": "corridor",
+    "type": "noun",
+    "pronunciation": "/ˈkɒr.ɪ.dɔːr/",
+    "meaning": "hành lang",
     "voice": "",
-    "sentence": "hi hihi"
+    "sentence": "The corridor is long."
   },
   {
     "unit": "6",
-    "id": "hi21",
-    "word": "hi21",
-    "pronunciation": "hi",
-    "meaning": "chào",
+    "id": "turn",
+    "word": "turn",
+    "type": "verb",
+    "pronunciation": "/tɜːn/",
+    "meaning": "rẽ, quay",
     "voice": "",
-    "sentence": "hi hihi"
+    "sentence": "Turn left here."
   },
   {
     "unit": "6",
-    "id": "hi22",
-    "word": "hi22",
-    "pronunciation": "hi",
-    "meaning": "chào",
+    "id": "break time",
+    "word": "break time",
+    "type": "noun phrase",
+    "pronunciation": "/breɪk taɪm/",
+    "meaning": "giờ giải lao",
     "voice": "",
-    "sentence": "hi hihi"
+    "sentence": "We play games at break time."
+  },
+  {
+    "unit": "6",
+    "id": "left",
+    "word": "left",
+    "type": "adverb",
+    "pronunciation": "/left/",
+    "meaning": "bên trái",
+    "voice": "",
+    "sentence": "Turn left at the corner."
+  },
+  {
+    "unit": "6",
+    "id": "right",
+    "word": "right",
+    "type": "adverb",
+    "pronunciation": "/raɪt/",
+    "meaning": "bên phải",
+    "voice": "",
+    "sentence": "Turn right at the shop."
+  },
+  {
+    "unit": "7",
+    "id": "activity",
+    "word": "activity",
+    "type": "noun",
+    "pronunciation": "/ækˈtɪv.ɪ.ti/",
+    "meaning": "hoạt động",
+    "voice": "",
+    "sentence": "This activity is fun."
+  },
+  {
+    "unit": "7",
+    "id": "solve",
+    "word": "solve",
+    "type": "verb",
+    "pronunciation": "/sɒlv/",
+    "meaning": "giải quyết",
+    "voice": "",
+    "sentence": "I solve the math problem."
+  },
+  {
+    "unit": "7",
+    "id": "math",
+    "word": "math",
+    "type": "noun",
+    "pronunciation": "/mæθ/",
+    "meaning": "toán học",
+    "voice": "",
+    "sentence": "I like math."
+  },
+  {
+    "unit": "7",
+    "id": "problem",
+    "word": "problem",
+    "type": "noun",
+    "pronunciation": "/ˈprɒb.ləm/",
+    "meaning": "vấn đề",
+    "voice": "",
+    "sentence": "This problem is easy."
+  },
+  {
+    "unit": "7",
+    "id": "project",
+    "word": "project",
+    "type": "noun",
+    "pronunciation": "/ˈprɒdʒ.ekt/",
+    "meaning": "dự án",
+    "voice": "",
+    "sentence": "Our class does a science project."
+  },
+  {
+    "unit": "7",
+    "id": "game",
+    "word": "game",
+    "type": "noun",
+    "pronunciation": "/ɡeɪm/",
+    "meaning": "trò chơi",
+    "voice": "",
+    "sentence": "I play a game with friends."
+  },
+  {
+    "unit": "7",
+    "id": "guitar",
+    "word": "guitar",
+    "type": "noun",
+    "pronunciation": "/ɡɪˈtɑːr/",
+    "meaning": "đàn guitar",
+    "voice": "",
+    "sentence": "I play the guitar."
+  },
+  {
+    "unit": "7",
+    "id": "group work",
+    "word": "group work",
+    "type": "noun phrase",
+    "pronunciation": "/ɡruːp wɜːk/",
+    "meaning": "làm việc nhóm",
+    "voice": "",
+    "sentence": "We do group work in class."
+  },
+  {
+    "unit": "7",
+    "id": "fun",
+    "word": "fun",
+    "type": "adjective",
+    "pronunciation": "/fʌn/",
+    "meaning": "vui vẻ",
+    "voice": "",
+    "sentence": "The game is fun."
+  },
+  {
+    "unit": "7",
+    "id": "interesting",
+    "word": "interesting",
+    "type": "adjective",
+    "pronunciation": "/ˈɪn.trəs.tɪŋ/",
+    "meaning": "thú vị",
+    "voice": "",
+    "sentence": "The lesson is interesting."
+  },
+  {
+    "unit": "7",
+    "id": "useful",
+    "word": "useful",
+    "type": "adjective",
+    "pronunciation": "/ˈjuːs.fəl/",
+    "meaning": "hữu ích",
+    "voice": "",
+    "sentence": "This book is useful."
+  },
+  {
+    "unit": "7",
+    "id": "enjoy",
+    "word": "enjoy",
+    "type": "verb",
+    "pronunciation": "/ɪnˈdʒɔɪ/",
+    "meaning": "tận hưởng",
+    "voice": "",
+    "sentence": "I enjoy reading books."
+  },
+  {
+    "unit": "7",
+    "id": "draw",
+    "word": "draw",
+    "type": "verb",
+    "pronunciation": "/drɔː/",
+    "meaning": "vẽ",
+    "voice": "",
+    "sentence": "I draw a picture."
+  },
+  {
+    "unit": "7",
+    "id": "paint",
+    "word": "paint",
+    "type": "verb",
+    "pronunciation": "/peɪnt/",
+    "meaning": "tô màu, vẽ tranh",
+    "voice": "",
+    "sentence": "I paint a flower."
+  },
+  {
+    "unit": "7",
+    "id": "dance",
+    "word": "dance",
+    "type": "verb",
+    "pronunciation": "/dɑːns/",
+    "meaning": "nhảy múa",
+    "voice": "",
+    "sentence": "I dance with my friends."
+  },
+  {
+    "unit": "7",
+    "id": "sing",
+    "word": "sing",
+    "type": "verb",
+    "pronunciation": "/sɪŋ/",
+    "meaning": "hát",
+    "voice": "",
+    "sentence": "I sing a song."
+  },
+  {
+    "unit": "7",
+    "id": "scientist",
+    "word": "scientist",
+    "type": "noun",
+    "pronunciation": "/ˈsaɪən.tɪst/",
+    "meaning": "nhà khoa học",
+    "voice": "",
+    "sentence": "The scientist studies plants."
+  },
+  {
+    "unit": "7",
+    "id": "chess",
+    "word": "chess",
+    "type": "noun",
+    "pronunciation": "/tʃes/",
+    "meaning": "cờ vua",
+    "voice": "",
+    "sentence": "I play chess with my father."
+  },
+  {
+    "unit": "7",
+    "id": "champion",
+    "word": "champion",
+    "type": "noun",
+    "pronunciation": "/ˈtʃæm.pi.ən/",
+    "meaning": "nhà vô địch",
+    "voice": "",
+    "sentence": "He is a chess champion."
+  },
+  {
+    "unit": "8",
+    "id": "map",
+    "word": "map",
+    "type": "noun",
+    "pronunciation": "/mæp/",
+    "meaning": "bản đồ",
+    "voice": "",
+    "sentence": "I look at the map."
+  },
+  {
+    "unit": "8",
+    "id": "board",
+    "word": "board",
+    "type": "noun",
+    "pronunciation": "/bɔːd/",
+    "meaning": "bảng",
+    "voice": "",
+    "sentence": "The teacher writes on the board."
+  },
+  {
+    "unit": "8",
+    "id": "pencil",
+    "word": "pencil",
+    "type": "noun",
+    "pronunciation": "/ˈpen.səl/",
+    "meaning": "bút chì",
+    "voice": "",
+    "sentence": "I write with a pencil."
+  },
+  {
+    "unit": "8",
+    "id": "book",
+    "word": "book",
+    "type": "noun",
+    "pronunciation": "/bʊk/",
+    "meaning": "sách",
+    "voice": "",
+    "sentence": "I read a book."
+  },
+  {
+    "unit": "8",
+    "id": "eraser",
+    "word": "eraser",
+    "type": "noun",
+    "pronunciation": "/ɪˈreɪ.zər/",
+    "meaning": "cục tẩy",
+    "voice": "",
+    "sentence": "I use an eraser."
+  },
+  {
+    "unit": "8",
+    "id": "desk",
+    "word": "desk",
+    "type": "noun",
+    "pronunciation": "/desk/",
+    "meaning": "bàn làm việc",
+    "voice": "",
+    "sentence": "My book is on the desk."
+  },
+  {
+    "unit": "8",
+    "id": "picture",
+    "word": "picture",
+    "type": "noun",
+    "pronunciation": "/ˈpɪk.tʃər/",
+    "meaning": "bức tranh",
+    "voice": "",
+    "sentence": "I draw a picture."
+  },
+  {
+    "unit": "8",
+    "id": "window",
+    "word": "window",
+    "type": "noun",
+    "pronunciation": "/ˈwɪn.dəʊ/",
+    "meaning": "cửa sổ",
+    "voice": "",
+    "sentence": "The window is open."
+  },
+  {
+    "unit": "8",
+    "id": "pen",
+    "word": "pen",
+    "type": "noun",
+    "pronunciation": "/pen/",
+    "meaning": "bút mực",
+    "voice": "",
+    "sentence": "I write with a pen."
+  },
+  {
+    "unit": "8",
+    "id": "clock",
+    "word": "clock",
+    "type": "noun",
+    "pronunciation": "/klɒk/",
+    "meaning": "đồng hồ",
+    "voice": "",
+    "sentence": "The clock shows the time."
+  },
+  {
+    "unit": "8",
+    "id": "notebook",
+    "word": "notebook",
+    "type": "noun",
+    "pronunciation": "/ˈnəʊt.bʊk/",
+    "meaning": "sổ tay, vở ghi chép",
+    "voice": "",
+    "sentence": "I write in my notebook."
+  },
+  {
+    "unit": "8",
+    "id": "pencil sharpener",
+    "word": "pencil sharpener",
+    "type": "noun phrase",
+    "pronunciation": "/ˈpen.səl ˈʃɑːp.nər/",
+    "meaning": "đồ gọt bút chì",
+    "voice": "",
+    "sentence": "I use a pencil sharpener."
+  },
+  {
+    "unit": "8",
+    "id": "bookcase",
+    "word": "bookcase",
+    "type": "noun",
+    "pronunciation": "/ˈbʊk.keɪs/",
+    "meaning": "giá sách",
+    "voice": "",
+    "sentence": "The books are in the bookcase."
+  },
+  {
+    "unit": "8",
+    "id": "chair",
+    "word": "chair",
+    "type": "noun",
+    "pronunciation": "/tʃeər/",
+    "meaning": "ghế",
+    "voice": "",
+    "sentence": "I sit on the chair."
+  },
+  {
+    "unit": "8",
+    "id": "crayon",
+    "word": "crayon",
+    "type": "noun",
+    "pronunciation": "/ˈkreɪ.ɒn/",
+    "meaning": "bút sáp màu",
+    "voice": "",
+    "sentence": "I colour with crayons."
+  },
+  {
+    "unit": "8",
+    "id": "glue stick",
+    "word": "glue stick",
+    "type": "noun phrase",
+    "pronunciation": "/ɡluː stɪk/",
+    "meaning": "keo dán dạng thỏi",
+    "voice": "",
+    "sentence": "I use a glue stick."
+  },
+  {
+    "unit": "8",
+    "id": "set square",
+    "word": "set square",
+    "type": "noun phrase",
+    "pronunciation": "/ˈset skweər/",
+    "meaning": "thước ê ke",
+    "voice": "",
+    "sentence": "I draw with a set square."
+  },
+  {
+    "unit": "8",
+    "id": "school bag",
+    "word": "school bag",
+    "type": "noun phrase",
+    "pronunciation": "/ˈskuːl bæɡ/",
+    "meaning": "cặp sách",
+    "voice": "",
+    "sentence": "My school bag is heavy."
+  },
+  {
+    "unit": "8",
+    "id": "story book",
+    "word": "story book",
+    "type": "noun phrase",
+    "pronunciation": "/ˈstɔː.ri bʊk/",
+    "meaning": "sách truyện",
+    "voice": "",
+    "sentence": "I read a story book."
+  },
+  {
+    "unit": "8",
+    "id": "tidy",
+    "word": "tidy",
+    "type": "adjective",
+    "pronunciation": "/ˈtaɪ.di/",
+    "meaning": "gọn gàng",
+    "voice": "",
+    "sentence": "I keep my desk tidy."
+  },
+  {
+    "unit": "8",
+    "id": "beside",
+    "word": "beside",
+    "type": "preposition",
+    "pronunciation": "/bɪˈsaɪd/",
+    "meaning": "bên cạnh",
+    "voice": "",
+    "sentence": "The bag is beside the chair."
+  },
+  {
+    "unit": "8",
+    "id": "under",
+    "word": "under",
+    "type": "preposition",
+    "pronunciation": "/ˈʌn.dər/",
+    "meaning": "dưới",
+    "voice": "",
+    "sentence": "The cat is under the table."
+  },
+  {
+    "unit": "8",
+    "id": "above",
+    "word": "above",
+    "type": "preposition",
+    "pronunciation": "/əˈbʌv/",
+    "meaning": "phía trên",
+    "voice": "",
+    "sentence": "The clock is above the door."
+  },
+  {
+    "unit": "8",
+    "id": "in front of",
+    "word": "in front of",
+    "type": "preposition",
+    "pronunciation": "/ɪn frʌnt əv/",
+    "meaning": "phía trước",
+    "voice": "",
+    "sentence": "The car is in front of the house."
+  },
+  {
+    "unit": "9",
+    "id": "campsite",
+    "word": "campsite",
+    "type": "noun",
+    "pronunciation": "/ˈkæmp.saɪt/",
+    "meaning": "khu cắm trại",
+    "voice": "",
+    "sentence": "We stay at a campsite."
+  },
+  {
+    "unit": "9",
+    "id": "visit",
+    "word": "visit",
+    "type": "verb",
+    "pronunciation": "/ˈvɪz.ɪt/",
+    "meaning": "thăm, viếng thăm",
+    "voice": "",
+    "sentence": "I visit my grandparents."
+  },
+  {
+    "unit": "9",
+    "id": "cook",
+    "word": "cook",
+    "type": "verb",
+    "pronunciation": "/kʊk/",
+    "meaning": "nấu ăn",
+    "voice": "",
+    "sentence": "I cook lunch with my mom."
+  },
+  {
+    "unit": "9",
+    "id": "lunch",
+    "word": "lunch",
+    "type": "noun",
+    "pronunciation": "/lʌntʃ/",
+    "meaning": "bữa trưa",
+    "voice": "",
+    "sentence": "I eat lunch at noon."
+  },
+  {
+    "unit": "9",
+    "id": "theatre",
+    "word": "theatre",
+    "type": "noun",
+    "pronunciation": "/ˈθɪə.tər/",
+    "meaning": "nhà hát, rạp chiếu phim",
+    "voice": "",
+    "sentence": "I watch a play at the theatre."
+  },
+  {
+    "unit": "9",
+    "id": "aquarium",
+    "word": "aquarium",
+    "type": "noun",
+    "pronunciation": "/əˈkweə.ri.əm/",
+    "meaning": "thủy cung",
+    "voice": "",
+    "sentence": "I see fish at the aquarium."
+  },
+  {
+    "unit": "9",
+    "id": "funfair",
+    "word": "funfair",
+    "type": "noun",
+    "pronunciation": "/ˈfʌn.feər/",
+    "meaning": "hội chợ giải trí",
+    "voice": "",
+    "sentence": "I play games at the funfair."
+  },
+  {
+    "unit": "9",
+    "id": "cinema",
+    "word": "cinema",
+    "type": "noun",
+    "pronunciation": "/ˈsɪn.ɪ.mə/",
+    "meaning": "rạp chiếu phim",
+    "voice": "",
+    "sentence": "I watch a film at the cinema."
+  },
+  {
+    "unit": "9",
+    "id": "sports centre",
+    "word": "sports centre",
+    "type": "noun phrase",
+    "pronunciation": "/spɔːts ˈsen.tər/",
+    "meaning": "trung tâm thể thao",
+    "voice": "",
+    "sentence": "I play sports at the sports centre."
+  },
+  {
+    "unit": "9",
+    "id": "badminton",
+    "word": "badminton",
+    "type": "noun",
+    "pronunciation": "/ˈbæd.mɪn.tən/",
+    "meaning": "cầu lông",
+    "voice": "",
+    "sentence": "I play badminton."
+  },
+  {
+    "unit": "9",
+    "id": "farm",
+    "word": "farm",
+    "type": "noun",
+    "pronunciation": "/fɑːm/",
+    "meaning": "trang trại",
+    "voice": "",
+    "sentence": "I visit a farm."
+  },
+  {
+    "unit": "9",
+    "id": "bakery",
+    "word": "bakery",
+    "type": "noun",
+    "pronunciation": "/ˈbeɪ.kər.i/",
+    "meaning": "tiệm bánh",
+    "voice": "",
+    "sentence": "I buy bread at the bakery."
+  },
+  {
+    "unit": "9",
+    "id": "pagoda",
+    "word": "pagoda",
+    "type": "noun",
+    "pronunciation": "/pəˈɡəʊ.də/",
+    "meaning": "chùa",
+    "voice": "",
+    "sentence": "I visit the pagoda."
+  },
+  {
+    "unit": "9",
+    "id": "stadium",
+    "word": "stadium",
+    "type": "noun",
+    "pronunciation": "/ˈsteɪ.di.əm/",
+    "meaning": "sân vận động",
+    "voice": "",
+    "sentence": "The match is at the stadium."
+  },
+  {
+    "unit": "9",
+    "id": "yesterday",
+    "word": "yesterday",
+    "type": "adverb",
+    "pronunciation": "/ˈjes.tə.deɪ/",
+    "meaning": "hôm qua",
+    "voice": "",
+    "sentence": "I went to the zoo yesterday."
+  },
+  {
+    "unit": "9",
+    "id": "tomorrow",
+    "word": "tomorrow",
+    "type": "adverb",
+    "pronunciation": "/təˈmɒr.əʊ/",
+    "meaning": "ngày mai",
+    "voice": "",
+    "sentence": "I will visit my friend tomorrow."
+  },
+  {
+    "unit": "9",
+    "id": "film",
+    "word": "film",
+    "type": "noun",
+    "pronunciation": "/fɪlm/",
+    "meaning": "bộ phim",
+    "voice": "",
+    "sentence": "I watch a film."
+  },
+  {
+    "unit": "9",
+    "id": "delicious",
+    "word": "delicious",
+    "type": "adjective",
+    "pronunciation": "/dɪˈlɪʃ.əs/",
+    "meaning": "ngon miệng",
+    "voice": "",
+    "sentence": "The cake is delicious."
+  },
+  {
+    "unit": "9",
+    "id": "jog",
+    "word": "jog",
+    "type": "verb",
+    "pronunciation": "/dʒɒɡ/",
+    "meaning": "chạy bộ",
+    "voice": "",
+    "sentence": "I jog in the morning."
+  },
+  {
+    "unit": "9",
+    "id": "party",
+    "word": "party",
+    "type": "noun",
+    "pronunciation": "/ˈpɑː.ti/",
+    "meaning": "buổi tiệc",
+    "voice": "",
+    "sentence": "I go to a party."
+  },
+  {
+    "unit": "9",
+    "id": "restaurant",
+    "word": "restaurant",
+    "type": "noun",
+    "pronunciation": "/ˈres.trɒnt/",
+    "meaning": "nhà hàng",
+    "voice": "",
+    "sentence": "We eat at a restaurant."
+  },
+  {
+    "unit": "9",
+    "id": "wonderful",
+    "word": "wonderful",
+    "type": "adjective",
+    "pronunciation": "/ˈwʌn.də.fəl/",
+    "meaning": "tuyệt vời",
+    "voice": "",
+    "sentence": "The trip is wonderful."
+  },
+  {
+    "unit": "10",
+    "id": "trip",
+    "word": "trip",
+    "type": "noun",
+    "pronunciation": "/trɪp/",
+    "meaning": "chuyến đi",
+    "voice": "",
+    "sentence": "My family has a trip."
+  },
+  {
+    "unit": "10",
+    "id": "hill",
+    "word": "hill",
+    "type": "noun",
+    "pronunciation": "/hɪl/",
+    "meaning": "đồi",
+    "voice": "",
+    "sentence": "The hill is green."
+  },
+  {
+    "unit": "10",
+    "id": "lake",
+    "word": "lake",
+    "type": "noun",
+    "pronunciation": "/leɪk/",
+    "meaning": "hồ",
+    "voice": "",
+    "sentence": "The lake is beautiful."
+  },
+  {
+    "unit": "10",
+    "id": "theme park",
+    "word": "theme park",
+    "type": "noun phrase",
+    "pronunciation": "/θiːm pɑːk/",
+    "meaning": "công viên giải trí",
+    "voice": "",
+    "sentence": "I visit a theme park."
+  },
+  {
+    "unit": "10",
+    "id": "market",
+    "word": "market",
+    "type": "noun",
+    "pronunciation": "/ˈmɑː.kɪt/",
+    "meaning": "chợ",
+    "voice": "",
+    "sentence": "My mom goes to the market."
+  },
+  {
+    "unit": "10",
+    "id": "eco-tour",
+    "word": "eco-tour",
+    "type": "noun",
+    "pronunciation": "/ˈiː.kəʊ tʊər/",
+    "meaning": "du lịch sinh thái",
+    "voice": "",
+    "sentence": "We join an eco-tour."
+  },
+  {
+    "unit": "10",
+    "id": "arrive",
+    "word": "arrive",
+    "type": "verb",
+    "pronunciation": "/əˈraɪv/",
+    "meaning": "đến nơi",
+    "voice": "",
+    "sentence": "We arrive at the hotel."
+  },
+  {
+    "unit": "10",
+    "id": "vegetable",
+    "word": "vegetable",
+    "type": "noun",
+    "pronunciation": "/ˈvedʒ.tə.bəl/",
+    "meaning": "rau củ",
+    "voice": "",
+    "sentence": "I eat vegetables."
+  },
+  {
+    "unit": "10",
+    "id": "beautiful",
+    "word": "beautiful",
+    "type": "adjective",
+    "pronunciation": "/ˈbjuː.tɪ.fəl/",
+    "meaning": "xinh đẹp",
+    "voice": "",
+    "sentence": "The beach is beautiful."
+  },
+  {
+    "unit": "10",
+    "id": "great",
+    "word": "great",
+    "type": "adjective",
+    "pronunciation": "/ɡreɪt/",
+    "meaning": "tuyệt vời",
+    "voice": "",
+    "sentence": "The food is great."
+  },
+  {
+    "unit": "11",
+    "id": "beach",
+    "word": "beach",
+    "type": "noun",
+    "pronunciation": "/biːtʃ/",
+    "meaning": "bãi biển",
+    "voice": "",
+    "sentence": "I walk on the beach."
+  },
+  {
+    "unit": "11",
+    "id": "collect",
+    "word": "collect",
+    "type": "verb",
+    "pronunciation": "/kəˈlekt/",
+    "meaning": "thu thập, sưu tầm",
+    "voice": "",
+    "sentence": "I collect seashells."
+  },
+  {
+    "unit": "11",
+    "id": "seashell",
+    "word": "seashell",
+    "type": "noun",
+    "pronunciation": "/ˈsiː.ʃel/",
+    "meaning": "vỏ sò",
+    "voice": "",
+    "sentence": "I find a seashell."
+  },
+  {
+    "unit": "11",
+    "id": "summer",
+    "word": "summer",
+    "type": "noun",
+    "pronunciation": "/ˈsʌm.ər/",
+    "meaning": "mùa hè",
+    "voice": "",
+    "sentence": "I like summer."
+  },
+  {
+    "unit": "11",
+    "id": "bay",
+    "word": "bay",
+    "type": "noun",
+    "pronunciation": "/beɪ/",
+    "meaning": "vịnh",
+    "voice": "",
+    "sentence": "The bay is blue."
+  },
+  {
+    "unit": "11",
+    "id": "postcard",
+    "word": "postcard",
+    "type": "noun",
+    "pronunciation": "/ˈpəʊst.kɑːd/",
+    "meaning": "bưu thiếp",
+    "voice": "",
+    "sentence": "I send a postcard."
+  },
+  {
+    "unit": "11",
+    "id": "boat trip",
+    "word": "boat trip",
+    "type": "noun phrase",
+    "pronunciation": "/bəʊt trɪp/",
+    "meaning": "chuyến du thuyền",
+    "voice": "",
+    "sentence": "We take a boat trip."
+  },
+  {
+    "unit": "11",
+    "id": "seafood",
+    "word": "seafood",
+    "type": "noun",
+    "pronunciation": "/ˈsiː.fuːd/",
+    "meaning": "hải sản",
+    "voice": "",
+    "sentence": "I eat seafood."
+  },
+  {
+    "unit": "11",
+    "id": "souvenir",
+    "word": "souvenir",
+    "type": "noun",
+    "pronunciation": "/ˌsuː.vənˈɪər/",
+    "meaning": "quà lưu niệm",
+    "voice": "",
+    "sentence": "I buy a souvenir."
+  },
+  {
+    "unit": "11",
+    "id": "stay",
+    "word": "stay",
+    "type": "verb",
+    "pronunciation": "/steɪ/",
+    "meaning": "ở lại",
+    "voice": "",
+    "sentence": "We stay at a hotel."
+  },
+  {
+    "unit": "11",
+    "id": "hotel",
+    "word": "hotel",
+    "type": "noun",
+    "pronunciation": "/həʊˈtel/",
+    "meaning": "khách sạn",
+    "voice": "",
+    "sentence": "The hotel is big."
+  },
+  {
+    "unit": "11",
+    "id": "sunbath",
+    "word": "sunbath",
+    "type": "verb",
+    "pronunciation": "/ˈsʌn.bɑːθ/",
+    "meaning": "tắm nắng",
+    "voice": "",
+    "sentence": "I sunbath on the beach."
+  },
+  {
+    "unit": "11",
+    "id": "explore",
+    "word": "explore",
+    "type": "verb",
+    "pronunciation": "/ɪkˈsplɔːr/",
+    "meaning": "khám phá",
+    "voice": "",
+    "sentence": "I explore the island."
+  },
+  {
+    "unit": "11",
+    "id": "journey",
+    "word": "journey",
+    "type": "noun",
+    "pronunciation": "/ˈdʒɜː.ni/",
+    "meaning": "chuyến đi",
+    "voice": "",
+    "sentence": "The journey is long."
+  },
+  {
+    "unit": "12",
+    "id": "pretty",
+    "word": "pretty",
+    "type": "adjective",
+    "pronunciation": "/ˈprɪt.i/",
+    "meaning": "xinh đẹp",
+    "voice": "",
+    "sentence": "The flower is pretty."
+  },
+  {
+    "unit": "12",
+    "id": "peach",
+    "word": "peach",
+    "type": "noun",
+    "pronunciation": "/piːtʃ/",
+    "meaning": "quả đào",
+    "voice": "",
+    "sentence": "The peach is sweet."
+  },
+  {
+    "unit": "12",
+    "id": "blossom",
+    "word": "blossom",
+    "type": "noun",
+    "pronunciation": "/ˈblɒs.əm/",
+    "meaning": "hoa",
+    "voice": "",
+    "sentence": "The peach blossom is pink."
+  },
+  {
+    "unit": "12",
+    "id": "branch",
+    "word": "branch",
+    "type": "noun",
+    "pronunciation": "/brɑːntʃ/",
+    "meaning": "cành cây",
+    "voice": "",
+    "sentence": "The bird sits on a branch."
+  },
+  {
+    "unit": "12",
+    "id": "luck",
+    "word": "luck",
+    "type": "noun",
+    "pronunciation": "/lʌk/",
+    "meaning": "may mắn",
+    "voice": "",
+    "sentence": "I wish you good luck."
+  },
+  {
+    "unit": "12",
+    "id": "decorate",
+    "word": "decorate",
+    "type": "verb",
+    "pronunciation": "/ˈdek.ə.reɪt/",
+    "meaning": "trang trí",
+    "voice": "",
+    "sentence": "We decorate the house."
+  },
+  {
+    "unit": "12",
+    "id": "spring roll",
+    "word": "spring roll",
+    "type": "noun phrase",
+    "pronunciation": "/sprɪŋ rəʊl/",
+    "meaning": "chả giò, nem rán",
+    "voice": "",
+    "sentence": "I eat spring rolls."
+  },
+  {
+    "unit": "12",
+    "id": "rose",
+    "word": "rose",
+    "type": "noun",
+    "pronunciation": "/rəʊz/",
+    "meaning": "hoa hồng",
+    "voice": "",
+    "sentence": "The rose is red."
+  },
+  {
+    "unit": "12",
+    "id": "grandparents",
+    "word": "grandparents",
+    "type": "noun",
+    "pronunciation": "/ˈɡræn.peə.rənts/",
+    "meaning": "ông bà",
+    "voice": "",
+    "sentence": "I visit my grandparents."
+  },
+  {
+    "unit": "12",
+    "id": "firework",
+    "word": "firework",
+    "type": "noun",
+    "pronunciation": "/ˈfaɪə.wɜːk/",
+    "meaning": "pháo hoa",
+    "voice": "",
+    "sentence": "I watch fireworks."
+  },
+  {
+    "unit": "12",
+    "id": "festival",
+    "word": "festival",
+    "type": "noun",
+    "pronunciation": "/ˈfes.tɪ.vəl/",
+    "meaning": "lễ hội",
+    "voice": "",
+    "sentence": "The festival is fun."
+  },
+  {
+    "unit": "12",
+    "id": "wear",
+    "word": "wear",
+    "type": "verb",
+    "pronunciation": "/weər/",
+    "meaning": "mặc, đeo",
+    "voice": "",
+    "sentence": "I wear new clothes."
+  },
+  {
+    "unit": "12",
+    "id": "clothes",
+    "word": "clothes",
+    "type": "noun",
+    "pronunciation": "/kləʊðz/",
+    "meaning": "quần áo",
+    "voice": "",
+    "sentence": "My clothes are clean."
+  },
+  {
+    "unit": "12",
+    "id": "clean",
+    "word": "clean",
+    "type": "adjective",
+    "pronunciation": "/kliːn/",
+    "meaning": "sạch sẽ",
+    "voice": "",
+    "sentence": "I clean my room."
+  },
+  {
+    "unit": "12",
+    "id": "excited",
+    "word": "excited",
+    "type": "adjective",
+    "pronunciation": "/ɪkˈsaɪ.tɪd/",
+    "meaning": "phấn khích, hào hứng",
+    "voice": "",
+    "sentence": "I am excited today."
+  },
+  {
+    "unit": "13",
+    "id": "Children’s Day",
+    "word": "Children’s Day",
+    "type": "noun phrase",
+    "pronunciation": "/ˈtʃɪl.drənz deɪ/",
+    "meaning": "Ngày Quốc tế Thiếu nhi",
+    "voice": "",
+    "sentence": "I celebrate Children’s Day."
+  },
+  {
+    "unit": "13",
+    "id": "Teacher’s Day",
+    "word": "Teacher’s Day",
+    "type": "noun phrase",
+    "pronunciation": "/ˈtiː.tʃərz deɪ/",
+    "meaning": "Ngày Nhà giáo",
+    "voice": "",
+    "sentence": "I give flowers on Teacher’s Day."
+  },
+  {
+    "unit": "13",
+    "id": "Sports Day",
+    "word": "Sports Day",
+    "type": "noun phrase",
+    "pronunciation": "/spɔːts deɪ/",
+    "meaning": "Ngày Thể thao",
+    "voice": "",
+    "sentence": "My school has Sports Day."
+  },
+  {
+    "unit": "13",
+    "id": "Mid-Autumn Festival",
+    "word": "Mid-Autumn Festival",
+    "type": "noun phrase",
+    "pronunciation": "/mɪd ˈɔː.təm ˈfes.tɪ.vəl/",
+    "meaning": "Tết Trung Thu",
+    "voice": "",
+    "sentence": "I enjoy the Mid-Autumn Festival."
+  },
+  {
+    "unit": "13",
+    "id": "birthday party",
+    "word": "birthday party",
+    "type": "noun phrase",
+    "pronunciation": "/ˈbɜːθ.deɪ ˈpɑː.ti/",
+    "meaning": "tiệc sinh nhật",
+    "voice": "",
+    "sentence": "I go to a birthday party."
+  },
+  {
+    "unit": "13",
+    "id": "fruit juice",
+    "word": "fruit juice",
+    "type": "noun phrase",
+    "pronunciation": "/fruːt dʒuːs/",
+    "meaning": "nước ép trái cây",
+    "voice": "",
+    "sentence": "I drink fruit juice."
+  },
+  {
+    "unit": "13",
+    "id": "milk tea",
+    "word": "milk tea",
+    "type": "noun phrase",
+    "pronunciation": "/mɪlk tiː/",
+    "meaning": "trà sữa",
+    "voice": "",
+    "sentence": "I drink milk tea."
+  },
+  {
+    "unit": "13",
+    "id": "pizza",
+    "word": "pizza",
+    "type": "noun",
+    "pronunciation": "/ˈpiːt.sə/",
+    "meaning": "bánh pizza",
+    "voice": "",
+    "sentence": "I eat pizza."
+  },
+  {
+    "unit": "13",
+    "id": "burgers",
+    "word": "burgers",
+    "type": "noun",
+    "pronunciation": "/ˈbɜː.ɡərz/",
+    "meaning": "bánh mì kẹp thịt",
+    "voice": "",
+    "sentence": "I eat burgers."
+  },
+  {
+    "unit": "13",
+    "id": "lemonade",
+    "word": "lemonade",
+    "type": "noun",
+    "pronunciation": "/ˌlem.əˈneɪd/",
+    "meaning": "nước chanh",
+    "voice": "",
+    "sentence": "I drink lemonade."
+  },
+  {
+    "unit": "13",
+    "id": "cake",
+    "word": "cake",
+    "type": "noun",
+    "pronunciation": "/keɪk/",
+    "meaning": "bánh ngọt",
+    "voice": "",
+    "sentence": "I eat cake."
+  },
+  {
+    "unit": "13",
+    "id": "sweet",
+    "word": "sweet",
+    "type": "noun",
+    "pronunciation": "/swiːt/",
+    "meaning": "kẹo",
+    "voice": "",
+    "sentence": "The candy is sweet."
+  },
+  {
+    "unit": "13",
+    "id": "bingo",
+    "word": "bingo",
+    "type": "noun",
+    "pronunciation": "/ˈbɪŋ.ɡəʊ/",
+    "meaning": "trò chơi Bingo",
+    "voice": "",
+    "sentence": "We play bingo."
+  },
+  {
+    "unit": "13",
+    "id": "tic-tac-toe",
+    "word": "tic-tac-toe",
+    "type": "noun",
+    "pronunciation": "/ˌtɪk.tækˈtəʊ/",
+    "meaning": "trò chơi caro",
+    "voice": "",
+    "sentence": "I play tic-tac-toe."
+  },
+  {
+    "unit": "13",
+    "id": "charade",
+    "word": "charade",
+    "type": "noun",
+    "pronunciation": "/ʃəˈrɑːd/",
+    "meaning": "trò chơi đố chữ",
+    "voice": "",
+    "sentence": "We play charade."
+  },
+  {
+    "unit": "14",
+    "id": "healthy",
+    "word": "healthy",
+    "type": "adjective",
+    "pronunciation": "/ˈhel.θi/",
+    "meaning": "khỏe mạnh",
+    "voice": "",
+    "sentence": "Fruit is healthy."
+  },
+  {
+    "unit": "14",
+    "id": "morning exercise",
+    "word": "morning exercise",
+    "type": "noun phrase",
+    "pronunciation": "/ˈmɔː.nɪŋ ˈek.sə.saɪz/",
+    "meaning": "tập thể dục buổi sáng",
+    "voice": "",
+    "sentence": "I do morning exercise."
+  },
+  {
+    "unit": "14",
+    "id": "regularly",
+    "word": "regularly",
+    "type": "adverb",
+    "pronunciation": "/ˈreɡ.jə.lə.li/",
+    "meaning": "thường xuyên",
+    "voice": "",
+    "sentence": "I exercise regularly."
+  },
+  {
+    "unit": "14",
+    "id": "daily",
+    "word": "daily",
+    "type": "adverb",
+    "pronunciation": "/ˈdeɪ.li/",
+    "meaning": "hàng ngày",
+    "voice": "",
+    "sentence": "I read daily."
+  },
+  {
+    "unit": "14",
+    "id": "fresh",
+    "word": "fresh",
+    "type": "adjective",
+    "pronunciation": "/freʃ/",
+    "meaning": "tươi mới",
+    "voice": "",
+    "sentence": "The air is fresh."
+  },
+  {
+    "unit": "14",
+    "id": "strong",
+    "word": "strong",
+    "type": "adjective",
+    "pronunciation": "/strɒŋ/",
+    "meaning": "mạnh mẽ",
+    "voice": "",
+    "sentence": "Exercise makes us strong."
+  },
+  {
+    "unit": "14",
+    "id": "yoga",
+    "word": "yoga",
+    "type": "noun",
+    "pronunciation": "/ˈjəʊ.ɡə/",
+    "meaning": "yoga",
+    "voice": "",
+    "sentence": "My mom does yoga."
+  },
+  {
+    "unit": "14",
+    "id": "aerobics",
+    "word": "aerobics",
+    "type": "noun",
+    "pronunciation": "/eəˈrəʊ.bɪks/",
+    "meaning": "thể dục nhịp điệu",
+    "voice": "",
+    "sentence": "She does aerobics."
+  },
+  {
+    "unit": "14",
+    "id": "once",
+    "word": "once",
+    "type": "adverb",
+    "pronunciation": "/wʌns/",
+    "meaning": "một lần",
+    "voice": "",
+    "sentence": "I swim once a week."
+  },
+  {
+    "unit": "14",
+    "id": "twice",
+    "word": "twice",
+    "type": "adverb",
+    "pronunciation": "/twaɪs/",
+    "meaning": "hai lần",
+    "voice": "",
+    "sentence": "I run twice a week."
+  },
+  {
+    "unit": "14",
+    "id": "judo",
+    "word": "judo",
+    "type": "noun",
+    "pronunciation": "/ˈdʒuː.dəʊ/",
+    "meaning": "môn võ judo",
+    "voice": "",
+    "sentence": "I learn judo."
+  },
+  {
+    "unit": "14",
+    "id": "example",
+    "word": "example",
+    "type": "noun",
+    "pronunciation": "/ɪɡˈzɑːm.pəl/",
+    "meaning": "ví dụ",
+    "voice": "",
+    "sentence": "This is an example."
+  },
+  {
+    "unit": "15",
+    "id": "matter",
+    "word": "matter",
+    "type": "noun",
+    "pronunciation": "/ˈmæt.ər/",
+    "meaning": "vấn đề",
+    "voice": "",
+    "sentence": "It does not matter."
+  },
+  {
+    "unit": "15",
+    "id": "headache",
+    "word": "headache",
+    "type": "noun",
+    "pronunciation": "/ˈhed.eɪk/",
+    "meaning": "đau đầu",
+    "voice": "",
+    "sentence": "I have a headache."
+  },
+  {
+    "unit": "15",
+    "id": "toothache",
+    "word": "toothache",
+    "type": "noun",
+    "pronunciation": "/ˈtuːθ.eɪk/",
+    "meaning": "đau răng",
+    "voice": "",
+    "sentence": "I have a toothache."
+  },
+  {
+    "unit": "15",
+    "id": "sore throat",
+    "word": "sore throat",
+    "type": "noun phrase",
+    "pronunciation": "/sɔː θrəʊt/",
+    "meaning": "viêm họng, đau họng",
+    "voice": "",
+    "sentence": "I have a sore throat."
+  },
+  {
+    "unit": "15",
+    "id": "stomach ache",
+    "word": "stomach ache",
+    "type": "noun phrase",
+    "pronunciation": "/ˈstʌm.ək eɪk/",
+    "meaning": "đau bụng",
+    "voice": "",
+    "sentence": "I have a stomach ache."
+  },
+  {
+    "unit": "15",
+    "id": "tired",
+    "word": "tired",
+    "type": "adjective",
+    "pronunciation": "/taɪəd/",
+    "meaning": "mệt mỏi",
+    "voice": "",
+    "sentence": "I feel tired."
+  },
+  {
+    "unit": "15",
+    "id": "advice",
+    "word": "advice",
+    "type": "noun",
+    "pronunciation": "/ədˈvaɪs/",
+    "meaning": "lời khuyên",
+    "voice": "",
+    "sentence": "The doctor gives advice."
+  },
+  {
+    "unit": "15",
+    "id": "rest",
+    "word": "rest",
+    "type": "noun, verb",
+    "pronunciation": "/rest/",
+    "meaning": "sự nghỉ ngơi",
+    "voice": "",
+    "sentence": "I need to rest."
+  },
+  {
+    "unit": "15",
+    "id": "medicine",
+    "word": "medicine",
+    "type": "noun",
+    "pronunciation": "/ˈmed.ɪ.sən/",
+    "meaning": "thuốc",
+    "voice": "",
+    "sentence": "I take medicine."
+  },
+  {
+    "unit": "15",
+    "id": "salt water",
+    "word": "salt water",
+    "type": "noun phrase",
+    "pronunciation": "/sɔːlt ˈwɔː.tər/",
+    "meaning": "nước muối",
+    "voice": "",
+    "sentence": "I drink salt water."
+  },
+  {
+    "unit": "16",
+    "id": "cold",
+    "word": "cold",
+    "type": "adjective",
+    "pronunciation": "/kəʊld/",
+    "meaning": "lạnh",
+    "voice": "",
+    "sentence": "The weather is cold."
+  },
+  {
+    "unit": "16",
+    "id": "hot",
+    "word": "hot",
+    "type": "adjective",
+    "pronunciation": "/hɒt/",
+    "meaning": "nóng",
+    "voice": "",
+    "sentence": "The weather is hot."
+  },
+  {
+    "unit": "16",
+    "id": "cool",
+    "word": "cool",
+    "type": "adjective",
+    "pronunciation": "/kuːl/",
+    "meaning": "mát mẻ",
+    "voice": "",
+    "sentence": "It is cool today."
+  },
+  {
+    "unit": "16",
+    "id": "warm",
+    "word": "warm",
+    "type": "adjective",
+    "pronunciation": "/wɔːm/",
+    "meaning": "ấm áp",
+    "voice": "",
+    "sentence": "It is warm today."
+  },
+  {
+    "unit": "16",
+    "id": "sunny",
+    "word": "sunny",
+    "type": "adjective",
+    "pronunciation": "/ˈsʌn.i/",
+    "meaning": "có nắng",
+    "voice": "",
+    "sentence": "It is sunny."
+  },
+  {
+    "unit": "16",
+    "id": "dry",
+    "word": "dry",
+    "type": "adjective",
+    "pronunciation": "/draɪ/",
+    "meaning": "khô",
+    "voice": "",
+    "sentence": "The weather is dry."
+  },
+  {
+    "unit": "16",
+    "id": "rainy",
+    "word": "rainy",
+    "type": "adjective",
+    "pronunciation": "/ˈreɪ.ni/",
+    "meaning": "có mưa",
+    "voice": "",
+    "sentence": "It is rainy."
+  },
+  {
+    "unit": "16",
+    "id": "snowy",
+    "word": "snowy",
+    "type": "adjective",
+    "pronunciation": "/ˈsnəʊ.i/",
+    "meaning": "có tuyết",
+    "voice": "",
+    "sentence": "It is snowy."
+  },
+  {
+    "unit": "16",
+    "id": "humid",
+    "word": "humid",
+    "type": "adjective",
+    "pronunciation": "/ˈhjuː.mɪd/",
+    "meaning": "ẩm ướt",
+    "voice": "",
+    "sentence": "The weather is humid."
+  },
+  {
+    "unit": "16",
+    "id": "spring",
+    "word": "spring",
+    "type": "noun",
+    "pronunciation": "/sprɪŋ/",
+    "meaning": "mùa xuân",
+    "voice": "",
+    "sentence": "Spring is warm."
+  },
+  {
+    "unit": "16",
+    "id": "summer",
+    "word": "summer",
+    "type": "noun",
+    "pronunciation": "/ˈsʌm.ər/",
+    "meaning": "mùa hè",
+    "voice": "",
+    "sentence": "Summer is hot."
+  },
+  {
+    "unit": "16",
+    "id": "autumn",
+    "word": "autumn",
+    "type": "noun",
+    "pronunciation": "/ˈɔː.təm/",
+    "meaning": "mùa thu",
+    "voice": "",
+    "sentence": "Autumn is cool."
+  },
+  {
+    "unit": "16",
+    "id": "winter",
+    "word": "winter",
+    "type": "noun",
+    "pronunciation": "/ˈwɪn.tər/",
+    "meaning": "mùa đông",
+    "voice": "",
+    "sentence": "Winter is cold."
+  },
+  {
+    "unit": "16",
+    "id": "jumper",
+    "word": "jumper",
+    "type": "noun",
+    "pronunciation": "/ˈdʒʌm.pər/",
+    "meaning": "áo len chui đầu",
+    "voice": "",
+    "sentence": "I wear a jumper."
+  },
+  {
+    "unit": "16",
+    "id": "blouse",
+    "word": "blouse",
+    "type": "noun",
+    "pronunciation": "/blaʊz/",
+    "meaning": "áo sơ mi",
+    "voice": "",
+    "sentence": "She wears a blouse."
+  },
+  {
+    "unit": "16",
+    "id": "trousers",
+    "word": "trousers",
+    "type": "noun",
+    "pronunciation": "/ˈtraʊ.zəz/",
+    "meaning": "quần dài",
+    "voice": "",
+    "sentence": "I wear trousers."
+  },
+  {
+    "unit": "16",
+    "id": "jeans",
+    "word": "jeans",
+    "type": "noun",
+    "pronunciation": "/dʒiːnz/",
+    "meaning": "quần jeans",
+    "voice": "",
+    "sentence": "I wear jeans."
+  },
+  {
+    "unit": "16",
+    "id": "shorts",
+    "word": "shorts",
+    "type": "noun",
+    "pronunciation": "/ʃɔːts/",
+    "meaning": "quần ngắn",
+    "voice": "",
+    "sentence": "I wear shorts."
+  },
+  {
+    "unit": "16",
+    "id": "T-shirt",
+    "word": "T-shirt",
+    "type": "noun",
+    "pronunciation": "/ˈtiː.ʃɜːt/",
+    "meaning": "áo phông",
+    "voice": "",
+    "sentence": "I wear a T-shirt."
+  },
+  {
+    "unit": "16",
+    "id": "skirt",
+    "word": "skirt",
+    "type": "noun",
+    "pronunciation": "/skɜːt/",
+    "meaning": "váy",
+    "voice": "",
+    "sentence": "She wears a skirt."
+  },
+  {
+    "unit": "16",
+    "id": "coat",
+    "word": "coat",
+    "type": "noun",
+    "pronunciation": "/kəʊt/",
+    "meaning": "áo khoác",
+    "voice": "",
+    "sentence": "I wear a coat."
+  },
+  {
+    "unit": "16",
+    "id": "outfit",
+    "word": "outfit",
+    "type": "noun",
+    "pronunciation": "/ˈaʊt.fɪt/",
+    "meaning": "trang phục",
+    "voice": "",
+    "sentence": "Her outfit is nice."
+  },
+  {
+    "unit": "16",
+    "id": "dress",
+    "word": "dress",
+    "type": "noun",
+    "pronunciation": "/dres/",
+    "meaning": "váy đầm",
+    "voice": "",
+    "sentence": "She wears a dress."
+  },
+  {
+    "unit": "16",
+    "id": "hat",
+    "word": "hat",
+    "type": "noun",
+    "pronunciation": "/hæt/",
+    "meaning": "mũ",
+    "voice": "",
+    "sentence": "I wear a hat."
+  },
+  {
+    "unit": "16",
+    "id": "scraf",
+    "word": "scraf",
+    "type": "noun",
+    "pronunciation": "/skɑːf/",
+    "meaning": "khăn quàng cổ",
+    "voice": "",
+    "sentence": "I wear a scarf."
+  },
+  {
+    "unit": "16",
+    "id": "climate",
+    "word": "climate",
+    "type": "noun",
+    "pronunciation": "/ˈklaɪ.mət/",
+    "meaning": "khí hậu",
+    "voice": "",
+    "sentence": "The climate is warm."
+  },
+  {
+    "unit": "16",
+    "id": "north",
+    "word": "north",
+    "type": "noun",
+    "pronunciation": "/nɔːθ/",
+    "meaning": "miền bắc",
+    "voice": "",
+    "sentence": "The north is cold."
+  },
+  {
+    "unit": "16",
+    "id": "south",
+    "word": "south",
+    "type": "noun",
+    "pronunciation": "/saʊθ/",
+    "meaning": "miền nam",
+    "voice": "",
+    "sentence": "The south is hot."
+  },
+  {
+    "unit": "16",
+    "id": "bloom",
+    "word": "bloom",
+    "type": "verb",
+    "pronunciation": "/bluːm/",
+    "meaning": "nở hoa",
+    "voice": "",
+    "sentence": "The flowers bloom in spring."
+  },
+  {
+    "unit": "16",
+    "id": "ideal",
+    "word": "ideal",
+    "type": "noun",
+    "pronunciation": "/aɪˈdɪəl/",
+    "meaning": "lý tưởng",
+    "voice": "",
+    "sentence": "This place is ideal for camping."
+  },
+  {
+    "unit": "17",
+    "id": "fairy tale",
+    "word": "fairy tale",
+    "type": "noun phrase",
+    "pronunciation": "/ˈfeə.ri teɪl/",
+    "meaning": "truyện cổ tích",
+    "voice": "",
+    "sentence": "I read a fairy tale."
+  },
+  {
+    "unit": "17",
+    "id": "main character",
+    "word": "main character",
+    "type": "noun phrase",
+    "pronunciation": "/meɪn ˈkær.ɪk.tər/",
+    "meaning": "nhân vật chính",
+    "voice": "",
+    "sentence": "The fox is the main character."
+  },
+  {
+    "unit": "17",
+    "id": "dwarf",
+    "word": "dwarf",
+    "type": "noun",
+    "pronunciation": "/dwɔːf/",
+    "meaning": "chú lùn",
+    "voice": "",
+    "sentence": "The dwarf is small."
+  },
+  {
+    "unit": "17",
+    "id": "ant",
+    "word": "ant",
+    "type": "noun",
+    "pronunciation": "/ænt/",
+    "meaning": "con kiến",
+    "voice": "",
+    "sentence": "The ant is tiny."
+  },
+  {
+    "unit": "17",
+    "id": "grasshopper",
+    "word": "grasshopper",
+    "type": "noun",
+    "pronunciation": "/ˈɡrɑːsˌhɒp.ər/",
+    "meaning": "con châu chấu",
+    "voice": "",
+    "sentence": "The grasshopper jumps."
+  },
+  {
+    "unit": "17",
+    "id": "tortoise",
+    "word": "tortoise",
+    "type": "noun",
+    "pronunciation": "/ˈtɔː.təs/",
+    "meaning": "con rùa",
+    "voice": "",
+    "sentence": "The tortoise walks slowly."
+  },
+  {
+    "unit": "17",
+    "id": "hare",
+    "word": "hare",
+    "type": "noun",
+    "pronunciation": "/heər/",
+    "meaning": "con thỏ rừng",
+    "voice": "",
+    "sentence": "The hare runs fast."
+  },
+  {
+    "unit": "17",
+    "id": "fox",
+    "word": "fox",
+    "type": "noun",
+    "pronunciation": "/fɒks/",
+    "meaning": "con cáo",
+    "voice": "",
+    "sentence": "The fox is clever."
+  },
+  {
+    "unit": "17",
+    "id": "crow",
+    "word": "crow",
+    "type": "noun",
+    "pronunciation": "/krəʊ/",
+    "meaning": "con quạ",
+    "voice": "",
+    "sentence": "The crow sits on the tree."
+  },
+  {
+    "unit": "17",
+    "id": "asleep",
+    "word": "asleep",
+    "type": "adjective",
+    "pronunciation": "/əˈsliːp/",
+    "meaning": "đang ngủ",
+    "voice": "",
+    "sentence": "The baby is asleep."
+  },
+  {
+    "unit": "17",
+    "id": "race",
+    "word": "race",
+    "type": "noun",
+    "pronunciation": "/reɪs/",
+    "meaning": "cuộc đua",
+    "voice": "",
+    "sentence": "The hare runs a race."
+  },
+  {
+    "unit": "17",
+    "id": "prince",
+    "word": "prince",
+    "type": "noun",
+    "pronunciation": "/prɪns/",
+    "meaning": "hoàng tử",
+    "voice": "",
+    "sentence": "The prince is brave."
+  },
+  {
+    "unit": "17",
+    "id": "intelligent",
+    "word": "intelligent",
+    "type": "adjective",
+    "pronunciation": "/ɪnˈtel.ɪ.dʒənt/",
+    "meaning": "thông minh",
+    "voice": "",
+    "sentence": "The fox is intelligent."
+  },
+  {
+    "unit": "17",
+    "id": "forest",
+    "word": "forest",
+    "type": "noun",
+    "pronunciation": "/ˈfɒr.ɪst/",
+    "meaning": "khu rừng",
+    "voice": "",
+    "sentence": "The animals live in the forest."
+  },
+  {
+    "unit": "17",
+    "id": "trick",
+    "word": "trick",
+    "type": "noun",
+    "pronunciation": "/trɪk/",
+    "meaning": "mánh khóe, trò lừa",
+    "voice": "",
+    "sentence": "The fox plays a trick."
+  },
+  {
+    "unit": "17",
+    "id": "lesson",
+    "word": "lesson",
+    "type": "noun",
+    "pronunciation": "/ˈles.ən/",
+    "meaning": "bài học",
+    "voice": "",
+    "sentence": "The story has a lesson."
+  },
+  {
+    "unit": "17",
+    "id": "trust",
+    "word": "trust",
+    "type": "noun",
+    "pronunciation": "/trʌst/",
+    "meaning": "sự tin tưởng",
+    "voice": "",
+    "sentence": "I trust my friend."
+  },
+  {
+    "unit": "17",
+    "id": "thought",
+    "word": "thought",
+    "type": "noun",
+    "pronunciation": "/θɔːt/",
+    "meaning": "suy nghĩ",
+    "voice": "",
+    "sentence": "I had a good thought."
+  },
+  {
+    "unit": "17",
+    "id": "action",
+    "word": "action",
+    "type": "noun",
+    "pronunciation": "/ˈæk.ʃən/",
+    "meaning": "hành động",
+    "voice": "",
+    "sentence": "His action is brave."
+  },
+  {
+    "unit": "18",
+    "id": "bridge",
+    "word": "bridge",
+    "type": "noun",
+    "pronunciation": "/brɪdʒ/",
+    "meaning": "cây cầu",
+    "voice": "",
+    "sentence": "The bridge is long."
+  },
+  {
+    "unit": "18",
+    "id": "square",
+    "word": "square",
+    "type": "noun",
+    "pronunciation": "/skweər/",
+    "meaning": "quảng trường",
+    "voice": "",
+    "sentence": "The square is large."
+  },
+  {
+    "unit": "18",
+    "id": "museum",
+    "word": "museum",
+    "type": "noun",
+    "pronunciation": "/mjuːˈziː.əm/",
+    "meaning": "bảo tàng",
+    "voice": "",
+    "sentence": "I visit the museum."
+  },
+  {
+    "unit": "18",
+    "id": "bus",
+    "word": "bus",
+    "type": "noun",
+    "pronunciation": "/bʌs/",
+    "meaning": "xe buýt",
+    "voice": "",
+    "sentence": "I go by bus."
+  },
+  {
+    "unit": "18",
+    "id": "bicycle",
+    "word": "bicycle",
+    "type": "noun",
+    "pronunciation": "/ˈbaɪ.sɪ.kl/",
+    "meaning": "xe đạp",
+    "voice": "",
+    "sentence": "I ride a bicycle."
+  },
+  {
+    "unit": "18",
+    "id": "taxi",
+    "word": "taxi",
+    "type": "noun",
+    "pronunciation": "/ˈtæk.si/",
+    "meaning": "xe taxi",
+    "voice": "",
+    "sentence": "I take a taxi."
+  },
+  {
+    "unit": "18",
+    "id": "on foot",
+    "word": "on foot",
+    "type": "phrase",
+    "pronunciation": "/ɒn fʊt/",
+    "meaning": "đi bộ",
+    "voice": "",
+    "sentence": "I go to school on foot."
+  },
+  {
+    "unit": "18",
+    "id": "island",
+    "word": "island",
+    "type": "noun",
+    "pronunciation": "/ˈaɪ.lənd/",
+    "meaning": "hòn đảo",
+    "voice": "",
+    "sentence": "The island is beautiful."
+  },
+  {
+    "unit": "18",
+    "id": "hop-on hop-off",
+    "word": "hop-on hop-off",
+    "type": "phrase",
+    "pronunciation": "/hɒp ɒn hɒp ɒf/",
+    "meaning": "xe buýt du lịch",
+    "voice": "",
+    "sentence": "I take a hop-on hop-off bus."
+  },
+  {
+    "unit": "18",
+    "id": "city centre",
+    "word": "city centre",
+    "type": "noun phrase",
+    "pronunciation": "/ˈsɪt.i ˈsen.tər/",
+    "meaning": "trung tâm thành phố",
+    "voice": "",
+    "sentence": "The city centre is busy."
+  },
+  {
+    "unit": "18",
+    "id": "ferry",
+    "word": "ferry",
+    "type": "noun",
+    "pronunciation": "/ˈfer.i/",
+    "meaning": "phà",
+    "voice": "",
+    "sentence": "I take a ferry."
+  },
+  {
+    "unit": "18",
+    "id": "quay",
+    "word": "quay",
+    "type": "noun",
+    "pronunciation": "/kiː/",
+    "meaning": "bến cảng",
+    "voice": "",
+    "sentence": "The boat stops at the quay."
+  },
+  {
+    "unit": "18",
+    "id": "sunset",
+    "word": "sunset",
+    "type": "noun",
+    "pronunciation": "/ˈsʌn.set/",
+    "meaning": "hoàng hôn",
+    "voice": "",
+    "sentence": "The sunset is beautiful."
+  },
+  {
+    "unit": "19",
+    "id": "waterfall",
+    "word": "waterfall",
+    "type": "noun",
+    "pronunciation": "/ˈwɔː.tə.fɔːl/",
+    "meaning": "thác nước",
+    "voice": "",
+    "sentence": "The waterfall is high."
+  },
+  {
+    "unit": "19",
+    "id": "old town",
+    "word": "old town",
+    "type": "noun phrase",
+    "pronunciation": "/əʊld taʊn/",
+    "meaning": "khu phố cổ",
+    "voice": "",
+    "sentence": "I walk in the old town."
+  },
+  {
+    "unit": "19",
+    "id": "twin tower",
+    "word": "twin tower",
+    "type": "noun phrase",
+    "pronunciation": "/twɪn ˈtaʊər/",
+    "meaning": "tòa tháp đôi",
+    "voice": "",
+    "sentence": "The twin towers are tall."
+  },
+  {
+    "unit": "19",
+    "id": "post office",
+    "word": "post office",
+    "type": "noun phrase",
+    "pronunciation": "/pəʊst ˈɒf.ɪs/",
+    "meaning": "bưu điện",
+    "voice": "",
+    "sentence": "I send a letter at the post office."
+  },
+  {
+    "unit": "19",
+    "id": "plane",
+    "word": "plane",
+    "type": "noun",
+    "pronunciation": "/pleɪn/",
+    "meaning": "máy bay",
+    "voice": "",
+    "sentence": "I travel by plane."
+  },
+  {
+    "unit": "19",
+    "id": "sandcastle",
+    "word": "sandcastle",
+    "type": "noun",
+    "pronunciation": "/ˈsændˌkɑː.səl/",
+    "meaning": "lâu đài cát",
+    "voice": "",
+    "sentence": "I build a sandcastle."
+  },
+  {
+    "unit": "19",
+    "id": "peaceful",
+    "word": "peaceful",
+    "type": "adjective",
+    "pronunciation": "/ˈpiːs.fəl/",
+    "meaning": "yên bình",
+    "voice": "",
+    "sentence": "The village is peaceful."
+  },
+  {
+    "unit": "19",
+    "id": "exciting",
+    "word": "exciting",
+    "type": "adjective",
+    "pronunciation": "/ɪkˈsaɪ.tɪŋ/",
+    "meaning": "thú vị",
+    "voice": "",
+    "sentence": "The trip is exciting."
+  },
+  {
+    "unit": "19",
+    "id": "fantastic",
+    "word": "fantastic",
+    "type": "adjective",
+    "pronunciation": "/fænˈtæs.tɪk/",
+    "meaning": "tuyệt vời",
+    "voice": "",
+    "sentence": "The view is fantastic."
+  },
+  {
+    "unit": "19",
+    "id": "famous",
+    "word": "famous",
+    "type": "adjective",
+    "pronunciation": "/ˈfeɪ.məs/",
+    "meaning": "nổi tiếng",
+    "voice": "",
+    "sentence": "The city is famous."
+  },
+  {
+    "unit": "20",
+    "id": "river",
+    "word": "river",
+    "type": "noun",
+    "pronunciation": "/ˈrɪv.ər/",
+    "meaning": "con sông",
+    "voice": "",
+    "sentence": "The river is long."
+  },
+  {
+    "unit": "20",
+    "id": "cave",
+    "word": "cave",
+    "type": "noun",
+    "pronunciation": "/keɪv/",
+    "meaning": "hang động",
+    "voice": "",
+    "sentence": "The cave is dark."
+  },
+  {
+    "unit": "20",
+    "id": "mountain",
+    "word": "mountain",
+    "type": "noun",
+    "pronunciation": "/ˈmaʊn.tɪn/",
+    "meaning": "ngọn núi",
+    "voice": "",
+    "sentence": "The mountain is high."
+  },
+  {
+    "unit": "20",
+    "id": "plan",
+    "word": "plan",
+    "type": "noun, verb",
+    "pronunciation": "/plæn/",
+    "meaning": "kế hoạch, lập kế hoạch",
+    "voice": "",
+    "sentence": "I plan my holiday."
+  },
+  {
+    "unit": "20",
+    "id": "holiday",
+    "word": "holiday",
+    "type": "noun",
+    "pronunciation": "/ˈhɒl.ɪ.deɪ/",
+    "meaning": "kỳ nghỉ",
+    "voice": "",
+    "sentence": "I have a holiday."
+  },
+  {
+    "unit": "20",
+    "id": "join",
+    "word": "join",
+    "type": "verb",
+    "pronunciation": "/dʒɔɪn/",
+    "meaning": "tham gia",
+    "voice": "",
+    "sentence": "I join the club."
+  },
+  {
+    "unit": "20",
+    "id": "music club",
+    "word": "music club",
+    "type": "noun phrase",
+    "pronunciation": "/ˈmjuː.zɪk klʌb/",
+    "meaning": "câu lạc bộ âm nhạc",
+    "voice": "",
+    "sentence": "I join the music club."
+  },
+  {
+    "unit": "20",
+    "id": "guitar club",
+    "word": "guitar club",
+    "type": "noun phrase",
+    "pronunciation": "/ɡɪˈtɑː klʌb/",
+    "meaning": "câu lạc bộ guitar",
+    "voice": "",
+    "sentence": "I join the guitar club."
+  },
+  {
+    "unit": "20",
+    "id": "camping",
+    "word": "camping",
+    "type": "noun",
+    "pronunciation": "/ˈkæm.pɪŋ/",
+    "meaning": "cắm trại",
+    "voice": "",
+    "sentence": "I go camping."
+  },
+  {
+    "unit": "20",
+    "id": "eco-farm",
+    "word": "eco-farm",
+    "type": "noun",
+    "pronunciation": "/ˈiː.kəʊ fɑːm/",
+    "meaning": "nông trại sinh thái",
+    "voice": "",
+    "sentence": "I visit an eco-farm."
+  },
+  {
+    "unit": "20",
+    "id": "practise",
+    "word": "practise",
+    "type": "verb",
+    "pronunciation": "/ˈpræk.tɪs/",
+    "meaning": "luyện tập",
+    "voice": "",
+    "sentence": "I practise English."
+  },
+  {
+    "unit": "20",
+    "id": "foreign language",
+    "word": "foreign language",
+    "type": "noun phrase",
+    "pronunciation": "/ˈfɒr.ɪn ˈlæŋ.ɡwɪdʒ/",
+    "meaning": "ngoại ngữ",
+    "voice": "",
+    "sentence": "I learn a foreign language."
   }
 ]
