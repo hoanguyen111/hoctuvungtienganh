@@ -1,1 +1,1397 @@
-
+[
+  {
+    "unit": "1",
+    "id": "Pasta",
+    "word": "Pasta",
+    "pronunciation": "/ˈpæstə/",
+    "meaning": "mì ống",
+    "voice": "",
+    "sentence": "I eat pasta for lunch."
+  },
+  {
+    "unit": "1",
+    "id": "Popcorn",
+    "word": "Popcorn",
+    "pronunciation": "/ˈpɒpkɔːrn/",
+    "meaning": "bỏng ngô",
+    "voice": "",
+    "sentence": "I eat popcorn at the movie."
+  },
+  {
+    "unit": "1",
+    "id": "Pizza",
+    "word": "Pizza",
+    "pronunciation": "/ˈpiːtsə/",
+    "meaning": "bánh pizza",
+    "voice": "",
+    "sentence": "I like pizza very much."
+  },
+  {
+    "unit": "1",
+    "id": "Cake",
+    "word": "Cake",
+    "pronunciation": "/keɪk/",
+    "meaning": "bánh kem",
+    "voice": "",
+    "sentence": "I eat cake at the party."
+  },
+  {
+    "unit": "1",
+    "id": "Balloon",
+    "word": "Balloon",
+    "pronunciation": "/bəˈluːn/",
+    "meaning": "bóng bay",
+    "voice": "",
+    "sentence": "The balloon is red."
+  },
+  {
+    "unit": "1",
+    "id": "Present",
+    "word": "Present",
+    "pronunciation": "/ˈpreznt/",
+    "meaning": "quà tặng",
+    "voice": "",
+    "sentence": "I get a present."
+  },
+  {
+    "unit": "1",
+    "id": "Party",
+    "word": "Party",
+    "pronunciation": "/ˈpɑːrti/",
+    "meaning": "bữa tiệc",
+    "voice": "",
+    "sentence": "I have a birthday party."
+  },
+  {
+    "unit": "1",
+    "id": "Hat",
+    "word": "Hat",
+    "pronunciation": "/hæt/",
+    "meaning": "mũ",
+    "voice": "",
+    "sentence": "I wear a hat."
+  },
+  {
+    "unit": "1",
+    "id": "Gift",
+    "word": "Gift",
+    "pronunciation": "/ɡɪft/",
+    "meaning": "quà",
+    "voice": "",
+    "sentence": "This gift is for you."
+  },
+  {
+    "unit": "2",
+    "id": "Kite",
+    "word": "Kite",
+    "pronunciation": "/kaɪt/",
+    "meaning": "diều",
+    "voice": "",
+    "sentence": "I fly a kite."
+  },
+  {
+    "unit": "2",
+    "id": "Bike",
+    "word": "Bike",
+    "pronunciation": "/baɪk/",
+    "meaning": "xe đạp",
+    "voice": "",
+    "sentence": "I ride my bike."
+  },
+  {
+    "unit": "2",
+    "id": "Kitten",
+    "word": "Kitten",
+    "pronunciation": "/ˈkɪtn/",
+    "meaning": "mèo con",
+    "voice": "",
+    "sentence": "The kitten is small."
+  },
+  {
+    "unit": "2",
+    "id": "Tree",
+    "word": "Tree",
+    "pronunciation": "/triː/",
+    "meaning": "cây",
+    "voice": "",
+    "sentence": "The tree is tall."
+  },
+  {
+    "unit": "2",
+    "id": "Grass",
+    "word": "Grass",
+    "pronunciation": "/ɡrɑːs/",
+    "meaning": "cỏ",
+    "voice": "",
+    "sentence": "The grass is green."
+  },
+  {
+    "unit": "2",
+    "id": "Flower",
+    "word": "Flower",
+    "pronunciation": "/ˈflaʊər/",
+    "meaning": "hoa",
+    "voice": "",
+    "sentence": "The flower is yellow."
+  },
+  {
+    "unit": "2",
+    "id": "Ball",
+    "word": "Ball",
+    "pronunciation": "/bɔːl/",
+    "meaning": "quả bóng",
+    "voice": "",
+    "sentence": "I play with a ball."
+  },
+  {
+    "unit": "2",
+    "id": "Bench",
+    "word": "Bench",
+    "pronunciation": "/bentʃ/",
+    "meaning": "ghế dài",
+    "voice": "",
+    "sentence": "I sit on the bench."
+  },
+  {
+    "unit": "2",
+    "id": "Fence",
+    "word": "Fence",
+    "pronunciation": "/fens/",
+    "meaning": "hàng rào",
+    "voice": "",
+    "sentence": "The fence is white."
+  },
+  {
+    "unit": "2",
+    "id": "Swing",
+    "word": "Swing",
+    "pronunciation": "/swɪŋ/",
+    "meaning": "xích đu",
+    "voice": "",
+    "sentence": "I play on the swing."
+  },
+  {
+    "unit": "3",
+    "id": "Sail",
+    "word": "Sail",
+    "pronunciation": "/seɪl/",
+    "meaning": "cánh buồm",
+    "voice": "",
+    "sentence": "The boat has a sail."
+  },
+  {
+    "unit": "3",
+    "id": "Sand",
+    "word": "Sand",
+    "pronunciation": "/sænd/",
+    "meaning": "cát",
+    "voice": "",
+    "sentence": "I play in the sand."
+  },
+  {
+    "unit": "3",
+    "id": "Sea",
+    "word": "Sea",
+    "pronunciation": "/siː/",
+    "meaning": "biển",
+    "voice": "",
+    "sentence": "The sea is blue."
+  },
+  {
+    "unit": "3",
+    "id": "Beach",
+    "word": "Beach",
+    "pronunciation": "/biːtʃ/",
+    "meaning": "bãi biển",
+    "voice": "",
+    "sentence": "I walk on the beach."
+  },
+  {
+    "unit": "3",
+    "id": "Sand",
+    "word": "Sand",
+    "pronunciation": "/sænd/",
+    "meaning": "cát",
+    "voice": "",
+    "sentence": "I dig in the sand."
+  },
+  {
+    "unit": "3",
+    "id": "Sun",
+    "word": "Sun",
+    "pronunciation": "/sʌn/",
+    "meaning": "mặt trời",
+    "voice": "",
+    "sentence": "The sun is bright."
+  },
+  {
+    "unit": "3",
+    "id": "Shell",
+    "word": "Shell",
+    "pronunciation": "/ʃel/",
+    "meaning": "vỏ sò",
+    "voice": "",
+    "sentence": "I find a shell."
+  },
+  {
+    "unit": "3",
+    "id": "Fish",
+    "word": "Fish",
+    "pronunciation": "/fɪʃ/",
+    "meaning": "cá",
+    "voice": "",
+    "sentence": "I see a fish."
+  },
+  {
+    "unit": "3",
+    "id": "Wave",
+    "word": "Wave",
+    "pronunciation": "/weɪv/",
+    "meaning": "sóng",
+    "voice": "",
+    "sentence": "The wave is big."
+  },
+  {
+    "unit": "3",
+    "id": "Boat",
+    "word": "Boat",
+    "pronunciation": "/bəʊt/",
+    "meaning": "thuyền",
+    "voice": "",
+    "sentence": "The boat is on the sea."
+  },
+  {
+    "unit": "4",
+    "id": "Rainbow",
+    "word": "Rainbow",
+    "pronunciation": "/ˈreɪnboʊ/",
+    "meaning": "cầu vồng",
+    "voice": "",
+    "sentence": "I see a rainbow."
+  },
+  {
+    "unit": "4",
+    "id": "River",
+    "word": "River",
+    "pronunciation": "/ˈrɪvər/",
+    "meaning": "sông",
+    "voice": "",
+    "sentence": "The river is long."
+  },
+  {
+    "unit": "4",
+    "id": "Road",
+    "word": "Road",
+    "pronunciation": "/roʊd/",
+    "meaning": "đường phố",
+    "voice": "",
+    "sentence": "The road is wide."
+  },
+  {
+    "unit": "4",
+    "id": "Field",
+    "word": "Field",
+    "pronunciation": "/fiːld/",
+    "meaning": "cánh đồng",
+    "voice": "",
+    "sentence": "The cows are in the field."
+  },
+  {
+    "unit": "4",
+    "id": "Farm",
+    "word": "Farm",
+    "pronunciation": "/fɑːrm/",
+    "meaning": "trang trại",
+    "voice": "",
+    "sentence": "I visit the farm."
+  },
+  {
+    "unit": "4",
+    "id": "Cow",
+    "word": "Cow",
+    "pronunciation": "/kaʊ/",
+    "meaning": "con bò",
+    "voice": "",
+    "sentence": "The cow eats grass."
+  },
+  {
+    "unit": "4",
+    "id": "Horse",
+    "word": "Horse",
+    "pronunciation": "/hɔːrs/",
+    "meaning": "con ngựa",
+    "voice": "",
+    "sentence": "The horse runs fast."
+  },
+  {
+    "unit": "4",
+    "id": "Tractor",
+    "word": "Tractor",
+    "pronunciation": "/ˈtræktər/",
+    "meaning": "máy kéo",
+    "voice": "",
+    "sentence": "The tractor works on the farm."
+  },
+  {
+    "unit": "4",
+    "id": "Barn",
+    "word": "Barn",
+    "pronunciation": "/bɑːrn/",
+    "meaning": "chuồng trại",
+    "voice": "",
+    "sentence": "The animals are in the barn."
+  },
+  {
+    "unit": "5",
+    "id": "Question",
+    "word": "Question",
+    "pronunciation": "/ˈkwɛsʧən/",
+    "meaning": "câu hỏi",
+    "voice": "",
+    "sentence": "I ask a question."
+  },
+  {
+    "unit": "5",
+    "id": "Square",
+    "word": "Square",
+    "pronunciation": "/skwɛər/",
+    "meaning": "hình vuông",
+    "voice": "",
+    "sentence": "Draw a square."
+  },
+  {
+    "unit": "5",
+    "id": "Quiz",
+    "word": "Quiz",
+    "pronunciation": "/kwɪz/",
+    "meaning": "trắc nghiệm",
+    "voice": "",
+    "sentence": "The teacher gives a quiz."
+  },
+  {
+    "unit": "5",
+    "id": "Desk",
+    "word": "Desk",
+    "pronunciation": "/desk/",
+    "meaning": "bàn học",
+    "voice": "",
+    "sentence": "My book is on the desk."
+  },
+  {
+    "unit": "5",
+    "id": "Book",
+    "word": "Book",
+    "pronunciation": "/bʊk/",
+    "meaning": "sách",
+    "voice": "",
+    "sentence": "I read a book."
+  },
+  {
+    "unit": "5",
+    "id": "Chair",
+    "word": "Chair",
+    "pronunciation": "/tʃeər/",
+    "meaning": "ghế",
+    "voice": "",
+    "sentence": "I sit on the chair."
+  },
+  {
+    "unit": "5",
+    "id": "Blackboard",
+    "word": "Blackboard",
+    "pronunciation": "/ˈblækbɔːrd/",
+    "meaning": "bảng đen",
+    "voice": "",
+    "sentence": "The teacher writes on the blackboard."
+  },
+  {
+    "unit": "5",
+    "id": "Pencil",
+    "word": "Pencil",
+    "pronunciation": "/ˈpensl/",
+    "meaning": "bút chì",
+    "voice": "",
+    "sentence": "I write with a pencil."
+  },
+  {
+    "unit": "5",
+    "id": "Ruler",
+    "word": "Ruler",
+    "pronunciation": "/ˈruːlər/",
+    "meaning": "thước kẻ",
+    "voice": "",
+    "sentence": "I use a ruler."
+  },
+  {
+    "unit": "5",
+    "id": "Teacher",
+    "word": "Teacher",
+    "pronunciation": "/ˈtiːtʃər/",
+    "meaning": "giáo viên",
+    "voice": "",
+    "sentence": "My teacher is kind."
+  },
+  {
+    "unit": "6",
+    "id": "Box",
+    "word": "Box",
+    "pronunciation": "/bɒks/",
+    "meaning": "hộp",
+    "voice": "",
+    "sentence": "The toy is in the box."
+  },
+  {
+    "unit": "6",
+    "id": "Fox",
+    "word": "Fox",
+    "pronunciation": "/fɒks/",
+    "meaning": "cáo",
+    "voice": "",
+    "sentence": "I see a fox."
+  },
+  {
+    "unit": "6",
+    "id": "Ox",
+    "word": "Ox",
+    "pronunciation": "/ɒks/",
+    "meaning": "bò đực",
+    "voice": "",
+    "sentence": "The ox is big."
+  },
+  {
+    "unit": "6",
+    "id": "Chicken",
+    "word": "Chicken",
+    "pronunciation": "/ˈtʃɪkɪn/",
+    "meaning": "con gà",
+    "voice": "",
+    "sentence": "The chicken eats corn."
+  },
+  {
+    "unit": "6",
+    "id": "Pig",
+    "word": "Pig",
+    "pronunciation": "/pɪɡ/",
+    "meaning": "con lợn",
+    "voice": "",
+    "sentence": "The pig is pink."
+  },
+  {
+    "unit": "6",
+    "id": "Sheep",
+    "word": "Sheep",
+    "pronunciation": "/ʃiːp/",
+    "meaning": "con cừu",
+    "voice": "",
+    "sentence": "The sheep eats grass."
+  },
+  {
+    "unit": "6",
+    "id": "Duck",
+    "word": "Duck",
+    "pronunciation": "/dʌk/",
+    "meaning": "con vịt",
+    "voice": "",
+    "sentence": "The duck swims."
+  },
+  {
+    "unit": "6",
+    "id": "Barn",
+    "word": "Barn",
+    "pronunciation": "/bɑːrn/",
+    "meaning": "chuồng trại",
+    "voice": "",
+    "sentence": "The horse is in the barn."
+  },
+  {
+    "unit": "6",
+    "id": "Farmer",
+    "word": "Farmer",
+    "pronunciation": "/ˈfɑːrmər/",
+    "meaning": "nông dân",
+    "voice": "",
+    "sentence": "The farmer works hard."
+  },
+  {
+    "unit": "6",
+    "id": "Hay",
+    "word": "Hay",
+    "pronunciation": "/heɪ/",
+    "meaning": "cỏ khô",
+    "voice": "",
+    "sentence": "The cow eats hay."
+  },
+  {
+    "unit": "7",
+    "id": "Juice",
+    "word": "Juice",
+    "pronunciation": "/dʒuːs/",
+    "meaning": "nước trái cây",
+    "voice": "",
+    "sentence": "I drink apple juice."
+  },
+  {
+    "unit": "7",
+    "id": "Jelly",
+    "word": "Jelly",
+    "pronunciation": "/ˈdʒɛli/",
+    "meaning": "thạch",
+    "voice": "",
+    "sentence": "I eat jelly."
+  },
+  {
+    "unit": "7",
+    "id": "Jam",
+    "word": "Jam",
+    "pronunciation": "/dʒæm/",
+    "meaning": "mứt trái cây",
+    "voice": "",
+    "sentence": "I eat jam with bread."
+  },
+  {
+    "unit": "7",
+    "id": "Spoon",
+    "word": "Spoon",
+    "pronunciation": "/spuːn/",
+    "meaning": "cái thìa",
+    "voice": "",
+    "sentence": "I eat with a spoon."
+  },
+  {
+    "unit": "7",
+    "id": "Fork",
+    "word": "Fork",
+    "pronunciation": "/fɔːrk/",
+    "meaning": "cái dĩa",
+    "voice": "",
+    "sentence": "I use a fork."
+  },
+  {
+    "unit": "7",
+    "id": "Plate",
+    "word": "Plate",
+    "pronunciation": "/pleɪt/",
+    "meaning": "cái đĩa",
+    "voice": "",
+    "sentence": "The food is on the plate."
+  },
+  {
+    "unit": "7",
+    "id": "Knife",
+    "word": "Knife",
+    "pronunciation": "/naɪf/",
+    "meaning": "con dao",
+    "voice": "",
+    "sentence": "I cut with a knife."
+  },
+  {
+    "unit": "7",
+    "id": "Pot",
+    "word": "Pot",
+    "pronunciation": "/pɒt/",
+    "meaning": "nồi",
+    "voice": "",
+    "sentence": "The soup is in the pot."
+  },
+  {
+    "unit": "7",
+    "id": "Stove",
+    "word": "Stove",
+    "pronunciation": "/stəʊv/",
+    "meaning": "bếp",
+    "voice": "",
+    "sentence": "The pot is on the stove."
+  },
+  {
+    "unit": "7",
+    "id": "Fridge",
+    "word": "Fridge",
+    "pronunciation": "/frɪdʒ/",
+    "meaning": "tủ lạnh",
+    "voice": "",
+    "sentence": "The milk is in the fridge."
+  },
+  {
+    "unit": "8",
+    "id": "Village",
+    "word": "Village",
+    "pronunciation": "/ˈvɪlɪdʒ/",
+    "meaning": "làng",
+    "voice": "",
+    "sentence": "I live in a village."
+  },
+  {
+    "unit": "8",
+    "id": "Van",
+    "word": "Van",
+    "pronunciation": "/væn/",
+    "meaning": "xe tải nhỏ",
+    "voice": "",
+    "sentence": "The van is blue."
+  },
+  {
+    "unit": "8",
+    "id": "Volleyball",
+    "word": "Volleyball",
+    "pronunciation": "/ˈvɒlibɔːl/",
+    "meaning": "bóng chuyền",
+    "voice": "",
+    "sentence": "I play volleyball."
+  },
+  {
+    "unit": "8",
+    "id": "Road",
+    "word": "Road",
+    "pronunciation": "/rəʊd/",
+    "meaning": "con đường",
+    "voice": "",
+    "sentence": "The car drives on the road."
+  },
+  {
+    "unit": "8",
+    "id": "Tree",
+    "word": "Tree",
+    "pronunciation": "/triː/",
+    "meaning": "cây",
+    "voice": "",
+    "sentence": "A bird sits in the tree."
+  },
+  {
+    "unit": "8",
+    "id": "Shop",
+    "word": "Shop",
+    "pronunciation": "/ʃɒp/",
+    "meaning": "cửa hàng",
+    "voice": "",
+    "sentence": "I go to the shop."
+  },
+  {
+    "unit": "8",
+    "id": "Market",
+    "word": "Market",
+    "pronunciation": "/ˈmɑːrkɪt/",
+    "meaning": "chợ",
+    "voice": "",
+    "sentence": "My mom goes to the market."
+  },
+  {
+    "unit": "8",
+    "id": "Car",
+    "word": "Car",
+    "pronunciation": "/kɑːr/",
+    "meaning": "xe ô tô",
+    "voice": "",
+    "sentence": "The car is fast."
+  },
+  {
+    "unit": "8",
+    "id": "School",
+    "word": "School",
+    "pronunciation": "/skuːl/",
+    "meaning": "trường học",
+    "voice": "",
+    "sentence": "I go to school."
+  },
+  {
+    "unit": "9",
+    "id": "Yogurt",
+    "word": "Yogurt",
+    "pronunciation": "/ˈjoʊɡərt/",
+    "meaning": "sữa chua",
+    "voice": "",
+    "sentence": "I eat yogurt."
+  },
+  {
+    "unit": "9",
+    "id": "Yams",
+    "word": "Yams",
+    "pronunciation": "/jæmz/",
+    "meaning": "khoai lang",
+    "voice": "",
+    "sentence": "I eat yams."
+  },
+  {
+    "unit": "9",
+    "id": "Yo-yos",
+    "word": "Yo-yos",
+    "pronunciation": "/ˈjoʊjoʊz/",
+    "meaning": "đồ chơi yo-yo",
+    "voice": "",
+    "sentence": "I play with yo-yos."
+  },
+  {
+    "unit": "9",
+    "id": "Bread",
+    "word": "Bread",
+    "pronunciation": "/bred/",
+    "meaning": "bánh mì",
+    "voice": "",
+    "sentence": "I eat bread."
+  },
+  {
+    "unit": "9",
+    "id": "Milk",
+    "word": "Milk",
+    "pronunciation": "/mɪlk/",
+    "meaning": "sữa",
+    "voice": "",
+    "sentence": "I drink milk."
+  },
+  {
+    "unit": "9",
+    "id": "Apple",
+    "word": "Apple",
+    "pronunciation": "/ˈæpl/",
+    "meaning": "quả táo",
+    "voice": "",
+    "sentence": "I eat an apple."
+  },
+  {
+    "unit": "9",
+    "id": "Orange",
+    "word": "Orange",
+    "pronunciation": "/ˈɒrɪndʒ/",
+    "meaning": "quả cam",
+    "voice": "",
+    "sentence": "I eat an orange."
+  },
+  {
+    "unit": "9",
+    "id": "Butter",
+    "word": "Butter",
+    "pronunciation": "/ˈbʌtər/",
+    "meaning": "bơ",
+    "voice": "",
+    "sentence": "I put butter on bread."
+  },
+  {
+    "unit": "9",
+    "id": "Egg",
+    "word": "Egg",
+    "pronunciation": "/eɡ/",
+    "meaning": "trứng",
+    "voice": "",
+    "sentence": "I eat an egg."
+  },
+  {
+    "unit": "9",
+    "id": "Sugar",
+    "word": "Sugar",
+    "pronunciation": "/ˈʃʊɡər/",
+    "meaning": "đường",
+    "voice": "",
+    "sentence": "I add sugar to tea."
+  },
+  {
+    "unit": "10",
+    "id": "Zoo",
+    "word": "Zoo",
+    "pronunciation": "/zuː/",
+    "meaning": "sở thú",
+    "voice": "",
+    "sentence": "I go to the zoo."
+  },
+  {
+    "unit": "10",
+    "id": "Zebu",
+    "word": "Zebu",
+    "pronunciation": "/ˈziːbuː/",
+    "meaning": "bò zebu",
+    "voice": "",
+    "sentence": "The zebu lives on a farm."
+  },
+  {
+    "unit": "10",
+    "id": "Zebra",
+    "word": "Zebra",
+    "pronunciation": "/ˈziːbrə/",
+    "meaning": "ngựa vằn",
+    "voice": "",
+    "sentence": "The zebra has black stripes."
+  },
+  {
+    "unit": "10",
+    "id": "Lion",
+    "word": "Lion",
+    "pronunciation": "/ˈlaɪən/",
+    "meaning": "sư tử",
+    "voice": "",
+    "sentence": "The lion is strong."
+  },
+  {
+    "unit": "10",
+    "id": "Tiger",
+    "word": "Tiger",
+    "pronunciation": "/ˈtaɪɡər/",
+    "meaning": "hổ",
+    "voice": "",
+    "sentence": "The tiger is big."
+  },
+  {
+    "unit": "10",
+    "id": "Monkey",
+    "word": "Monkey",
+    "pronunciation": "/ˈmʌŋki/",
+    "meaning": "khỉ",
+    "voice": "",
+    "sentence": "The monkey climbs trees."
+  },
+  {
+    "unit": "10",
+    "id": "Elephant",
+    "word": "Elephant",
+    "pronunciation": "/ˈelɪfənt/",
+    "meaning": "voi",
+    "voice": "",
+    "sentence": "The elephant is very big."
+  },
+  {
+    "unit": "10",
+    "id": "Giraffe",
+    "word": "Giraffe",
+    "pronunciation": "/dʒɪˈræf/",
+    "meaning": "hươu cao cổ",
+    "voice": "",
+    "sentence": "The giraffe has a long neck."
+  },
+  {
+    "unit": "10",
+    "id": "Penguin",
+    "word": "Penguin",
+    "pronunciation": "/ˈpɛŋɡwɪn/",
+    "meaning": "chim cánh cụt",
+    "voice": "",
+    "sentence": "The penguin swims in water."
+  },
+  {
+    "unit": "11",
+    "id": "Eleven",
+    "word": "Eleven",
+    "pronunciation": "/ɪˈlɛvən/",
+    "meaning": "mười một",
+    "voice": "",
+    "sentence": "I see eleven stars."
+  },
+  {
+    "unit": "11",
+    "id": "Thirteen",
+    "word": "Thirteen",
+    "pronunciation": "/ˌθɜːrˈtiːn/",
+    "meaning": "mười ba",
+    "voice": "",
+    "sentence": "I count thirteen apples."
+  },
+  {
+    "unit": "11",
+    "id": "Fourteen",
+    "word": "Fourteen",
+    "pronunciation": "/ˌfɔːrˈtiːn/",
+    "meaning": "mười bốn",
+    "voice": "",
+    "sentence": "I see fourteen birds."
+  },
+  {
+    "unit": "11",
+    "id": "Fifteen",
+    "word": "Fifteen",
+    "pronunciation": "/ˌfɪfˈtiːn/",
+    "meaning": "mười lăm",
+    "voice": "",
+    "sentence": "I have fifteen candies."
+  },
+  {
+    "unit": "11",
+    "id": "Slide",
+    "word": "Slide",
+    "pronunciation": "/slaɪd/",
+    "meaning": "cầu trượt",
+    "voice": "",
+    "sentence": "I play on the slide."
+  },
+  {
+    "unit": "11",
+    "id": "Swing",
+    "word": "Swing",
+    "pronunciation": "/swɪŋ/",
+    "meaning": "xích đu",
+    "voice": "",
+    "sentence": "I play on the swing."
+  },
+  {
+    "unit": "11",
+    "id": "Seesaw",
+    "word": "Seesaw",
+    "pronunciation": "/ˈsiːsɔː/",
+    "meaning": "bập bênh",
+    "voice": "",
+    "sentence": "I play on the seesaw."
+  },
+  {
+    "unit": "11",
+    "id": "Sandbox",
+    "word": "Sandbox",
+    "pronunciation": "/ˈsændbɒks/",
+    "meaning": "hộp cát",
+    "voice": "",
+    "sentence": "I play in the sandbox."
+  },
+  {
+    "unit": "11",
+    "id": "Climbing frame",
+    "word": "Climbing frame",
+    "pronunciation": "/ˈklaɪmɪŋ freɪm/",
+    "meaning": "khung leo",
+    "voice": "",
+    "sentence": "I climb the climbing frame."
+  },
+  {
+    "unit": "11",
+    "id": "Merry-go-round",
+    "word": "Merry-go-round",
+    "pronunciation": "/ˈmɛri ɡoʊ raʊnd/",
+    "meaning": "vòng quay ngựa gỗ",
+    "voice": "",
+    "sentence": "I ride the merry-go-round."
+  },
+  {
+    "unit": "11",
+    "id": "Basketball",
+    "word": "Basketball",
+    "pronunciation": "/ˈbæskɪtbɔːl/",
+    "meaning": "bóng rổ",
+    "voice": "",
+    "sentence": "I play basketball."
+  },
+  {
+    "unit": "12",
+    "id": "Grapes",
+    "word": "Grapes",
+    "pronunciation": "/ɡreɪps/",
+    "meaning": "nho",
+    "voice": "",
+    "sentence": "I eat grapes."
+  },
+  {
+    "unit": "12",
+    "id": "Cake",
+    "word": "Cake",
+    "pronunciation": "/keɪk/",
+    "meaning": "bánh",
+    "voice": "",
+    "sentence": "I eat cake."
+  },
+  {
+    "unit": "12",
+    "id": "Table",
+    "word": "Table",
+    "pronunciation": "/ˈteɪbl/",
+    "meaning": "bàn",
+    "voice": "",
+    "sentence": "The food is on the table."
+  },
+  {
+    "unit": "12",
+    "id": "Coffee",
+    "word": "Coffee",
+    "pronunciation": "/ˈkɒfi/",
+    "meaning": "cà phê",
+    "voice": "",
+    "sentence": "My dad drinks coffee."
+  },
+  {
+    "unit": "12",
+    "id": "Tea",
+    "word": "Tea",
+    "pronunciation": "/tiː/",
+    "meaning": "trà",
+    "voice": "",
+    "sentence": "My mom drinks tea."
+  },
+  {
+    "unit": "12",
+    "id": "Juice",
+    "word": "Juice",
+    "pronunciation": "/dʒuːs/",
+    "meaning": "nước ép",
+    "voice": "",
+    "sentence": "I drink juice."
+  },
+  {
+    "unit": "12",
+    "id": "Sandwich",
+    "word": "Sandwich",
+    "pronunciation": "/ˈsænwɪtʃ/",
+    "meaning": "bánh sandwich",
+    "voice": "",
+    "sentence": "I eat a sandwich."
+  },
+  {
+    "unit": "12",
+    "id": "Waiter",
+    "word": "Waiter",
+    "pronunciation": "/ˈweɪtər/",
+    "meaning": "bồi bàn",
+    "voice": "",
+    "sentence": "The waiter brings food."
+  },
+  {
+    "unit": "12",
+    "id": "Menu",
+    "word": "Menu",
+    "pronunciation": "/ˈmenjuː/",
+    "meaning": "thực đơn",
+    "voice": "",
+    "sentence": "I read the menu."
+  },
+  {
+    "unit": "13",
+    "id": "Eleven",
+    "word": "Eleven",
+    "pronunciation": "/ɪˈlɛvən/",
+    "meaning": "mười một",
+    "voice": "",
+    "sentence": "I count eleven books."
+  },
+  {
+    "unit": "13",
+    "id": "Thirteen",
+    "word": "Thirteen",
+    "pronunciation": "/ˌθɜːrˈtiːn/",
+    "meaning": "mười ba",
+    "voice": "",
+    "sentence": "I see thirteen birds."
+  },
+  {
+    "unit": "13",
+    "id": "Fourteen",
+    "word": "Fourteen",
+    "pronunciation": "/ˌfɔːrˈtiːn/",
+    "meaning": "mười bốn",
+    "voice": "",
+    "sentence": "I see fourteen stars."
+  },
+  {
+    "unit": "13",
+    "id": "Fifteen",
+    "word": "Fifteen",
+    "pronunciation": "/ˌfɪfˈtiːn/",
+    "meaning": "mười lăm",
+    "voice": "",
+    "sentence": "I have fifteen pencils."
+  },
+  {
+    "unit": "13",
+    "id": "Number",
+    "word": "Number",
+    "pronunciation": "/ˈnʌmbər/",
+    "meaning": "số",
+    "voice": "",
+    "sentence": "I write a number."
+  },
+  {
+    "unit": "13",
+    "id": "Addition",
+    "word": "Addition",
+    "pronunciation": "/əˈdɪʃn/",
+    "meaning": "phép cộng",
+    "voice": "",
+    "sentence": "I learn addition."
+  },
+  {
+    "unit": "13",
+    "id": "Subtraction",
+    "word": "Subtraction",
+    "pronunciation": "/səbˈtrækʃn/",
+    "meaning": "phép trừ",
+    "voice": "",
+    "sentence": "I learn subtraction."
+  },
+  {
+    "unit": "13",
+    "id": "Multiplication",
+    "word": "Multiplication",
+    "pronunciation": "/ˌmʌltɪplɪˈkeɪʃn/",
+    "meaning": "phép nhân",
+    "voice": "",
+    "sentence": "I learn multiplication."
+  },
+  {
+    "unit": "13",
+    "id": "Division",
+    "word": "Division",
+    "pronunciation": "/dɪˈvɪʒən/",
+    "meaning": "phép chia",
+    "voice": "",
+    "sentence": "I learn division."
+  },
+  {
+    "unit": "13",
+    "id": "Equation",
+    "word": "Equation",
+    "pronunciation": "/ɪˈkweɪʒən/",
+    "meaning": "phương trình",
+    "voice": "",
+    "sentence": "I solve the equation."
+  },
+  {
+    "unit": "13",
+    "id": "Calculator",
+    "word": "Calculator",
+    "pronunciation": "/ˈkælkjʊleɪtər/",
+    "meaning": "máy tính",
+    "voice": "",
+    "sentence": "I use a calculator."
+  },
+  {
+    "unit": "14",
+    "id": "Brother",
+    "word": "Brother",
+    "pronunciation": "/ˈbrʌðər/",
+    "meaning": "anh trai",
+    "voice": "",
+    "sentence": "My brother plays with me."
+  },
+  {
+    "unit": "14",
+    "id": "Sister",
+    "word": "Sister",
+    "pronunciation": "/ˈsɪstər/",
+    "meaning": "chị gái hoặc em gái",
+    "voice": "",
+    "sentence": "My sister reads a book."
+  },
+  {
+    "unit": "14",
+    "id": "Grandmother",
+    "word": "Grandmother",
+    "pronunciation": "/ˈɡrændˌmʌðər/",
+    "meaning": "bà",
+    "voice": "",
+    "sentence": "My grandmother tells stories."
+  },
+  {
+    "unit": "14",
+    "id": "Living room",
+    "word": "Living room",
+    "pronunciation": "/ˈlɪvɪŋ ruːm/",
+    "meaning": "phòng khách",
+    "voice": "",
+    "sentence": "We watch TV in the living room."
+  },
+  {
+    "unit": "14",
+    "id": "Bedroom",
+    "word": "Bedroom",
+    "pronunciation": "/ˈbɛdruːm/",
+    "meaning": "phòng ngủ",
+    "voice": "",
+    "sentence": "I sleep in the bedroom."
+  },
+  {
+    "unit": "14",
+    "id": "Kitchen",
+    "word": "Kitchen",
+    "pronunciation": "/ˈkɪtʃɪn/",
+    "meaning": "bếp",
+    "voice": "",
+    "sentence": "My mom cooks in the kitchen."
+  },
+  {
+    "unit": "14",
+    "id": "Bathroom",
+    "word": "Bathroom",
+    "pronunciation": "/ˈbæθruːm/",
+    "meaning": "phòng tắm",
+    "voice": "",
+    "sentence": "I wash my hands in the bathroom."
+  },
+  {
+    "unit": "14",
+    "id": "Garden",
+    "word": "Garden",
+    "pronunciation": "/ˈɡɑːrdən/",
+    "meaning": "vườn",
+    "voice": "",
+    "sentence": "Flowers grow in the garden."
+  },
+  {
+    "unit": "14",
+    "id": "Chair",
+    "word": "Chair",
+    "pronunciation": "/tʃɛr/",
+    "meaning": "ghế",
+    "voice": "",
+    "sentence": "I sit on a chair."
+  },
+  {
+    "unit": "14",
+    "id": "Table",
+    "word": "Table",
+    "pronunciation": "/ˈteɪbl/",
+    "meaning": "bàn",
+    "voice": "",
+    "sentence": "The book is on the table."
+  },
+  {
+    "unit": "15",
+    "id": "Shirts",
+    "word": "Shirts",
+    "pronunciation": "/ʃɜːrts/",
+    "meaning": "áo sơ mi",
+    "voice": "",
+    "sentence": "I wear shirts."
+  },
+  {
+    "unit": "15",
+    "id": "Shoes",
+    "word": "Shoes",
+    "pronunciation": "/ʃuːz/",
+    "meaning": "giày",
+    "voice": "",
+    "sentence": "My shoes are new."
+  },
+  {
+    "unit": "15",
+    "id": "Shorts",
+    "word": "Shorts",
+    "pronunciation": "/ʃɔːrts/",
+    "meaning": "quần đùi",
+    "voice": "",
+    "sentence": "I wear shorts in summer."
+  },
+  {
+    "unit": "15",
+    "id": "Pants",
+    "word": "Pants",
+    "pronunciation": "/pænts/",
+    "meaning": "quần",
+    "voice": "",
+    "sentence": "I wear pants."
+  },
+  {
+    "unit": "15",
+    "id": "Dress",
+    "word": "Dress",
+    "pronunciation": "/drɛs/",
+    "meaning": "váy",
+    "voice": "",
+    "sentence": "She wears a dress."
+  },
+  {
+    "unit": "15",
+    "id": "Shoes",
+    "word": "Shoes",
+    "pronunciation": "/ʃuːz/",
+    "meaning": "giày",
+    "voice": "",
+    "sentence": "I wear shoes."
+  },
+  {
+    "unit": "15",
+    "id": "Hat",
+    "word": "Hat",
+    "pronunciation": "/hæt/",
+    "meaning": "mũ",
+    "voice": "",
+    "sentence": "I wear a hat."
+  },
+  {
+    "unit": "15",
+    "id": "Coat",
+    "word": "Coat",
+    "pronunciation": "/koʊt/",
+    "meaning": "áo khoác",
+    "voice": "",
+    "sentence": "I wear a coat in winter."
+  },
+  {
+    "unit": "15",
+    "id": "Scarf",
+    "word": "Scarf",
+    "pronunciation": "/skɑːrf/",
+    "meaning": "khăn quàng cổ",
+    "voice": "",
+    "sentence": "I wear a scarf."
+  },
+  {
+    "unit": "16",
+    "id": "Tent",
+    "word": "Tent",
+    "pronunciation": "/tɛnt/",
+    "meaning": "lều",
+    "voice": "",
+    "sentence": "The tent is in the forest."
+  },
+  {
+    "unit": "16",
+    "id": "Teapot",
+    "word": "Teapot",
+    "pronunciation": "/ˈtiːpɒt/",
+    "meaning": "ấm trà",
+    "voice": "",
+    "sentence": "The tea is in the teapot."
+  },
+  {
+    "unit": "16",
+    "id": "Blanket",
+    "word": "Blanket",
+    "pronunciation": "/ˈblæŋkɪt/",
+    "meaning": "chăn",
+    "voice": "",
+    "sentence": "The blanket is warm."
+  },
+  {
+    "unit": "16",
+    "id": "Campfire",
+    "word": "Campfire",
+    "pronunciation": "/ˈkæmpfaɪər/",
+    "meaning": "lửa trại",
+    "voice": "",
+    "sentence": "The campfire is bright."
+  },
+  {
+    "unit": "16",
+    "id": "Sleeping bag",
+    "word": "Sleeping bag",
+    "pronunciation": "/ˈsliːpɪŋ bæɡ/",
+    "meaning": "túi ngủ",
+    "voice": "",
+    "sentence": "I sleep in a sleeping bag."
+  },
+  {
+    "unit": "16",
+    "id": "Flashlight",
+    "word": "Flashlight",
+    "pronunciation": "/ˈflæʃlaɪt/",
+    "meaning": "đèn pin",
+    "voice": "",
+    "sentence": "I use a flashlight at night."
+  },
+  {
+    "unit": "16",
+    "id": "Backpack",
+    "word": "Backpack",
+    "pronunciation": "/ˈbækpæk/",
+    "meaning": "ba lô",
+    "voice": "",
+    "sentence": "I carry a backpack."
+  },
+  {
+    "unit": "16",
+    "id": "Hike",
+    "word": "Hike",
+    "pronunciation": "/haɪk/",
+    "meaning": "đi bộ đường dài",
+    "voice": "",
+    "sentence": "We hike in the mountains."
+  },
+  {
+    "unit": "16",
+    "id": "Nature",
+    "word": "Nature",
+    "pronunciation": "/ˈneɪtʃər/",
+    "meaning": "thiên nhiên",
+    "voice": "",
+    "sentence": "I love nature."
+  }
+]
