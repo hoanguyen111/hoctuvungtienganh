@@ -6,7 +6,7 @@
     "pronunciation": "/həˈləʊ/",
     "meaning": "xin chào",
     "voice": "",
-    "sentence": "Hello,Marry"
+    "sentence": "Hello, Nam."
   },
   {
     "unit": "1",
@@ -15,25 +15,25 @@
     "pronunciation": "/aɪ/",
     "meaning": "mình",
     "voice": "",
-    "sentence": "Hi,I’m Minh."
+    "sentence": "I am a student."
   },
   {
     "unit": "1",
-    "id": "I’m",
-    "word": "I’m",
+    "id": "I’m..",
+    "word": "I’m..",
     "pronunciation": "/aɪ ei’em/",
     "meaning": "mình là…",
     "voice": "",
-    "sentence": "I’m Minh."
+    "sentence": "I’m happy."
   },
   {
     "unit": "1",
     "id": "how",
     "word": "how",
-    "pronunciation": "/həˈləʊ/",
+    "pronunciation": "/haʊ/",
     "meaning": "nhứ thế nào",
     "voice": "",
-    "sentence": "How are you, Bill?"
+    "sentence": "How are you?"
   },
   {
     "unit": "1",
@@ -42,25 +42,25 @@
     "pronunciation": "/faɪn/",
     "meaning": "tốt, khoẻ",
     "voice": "",
-    "sentence": "Fine,thank you"
+    "sentence": "I am fine."
   },
   {
     "unit": "1",
     "id": "you",
     "word": "you",
-    "pronunciation": "/ juː/",
+    "pronunciation": "/ ju/",
     "meaning": "bạn",
     "voice": "",
-    "sentence": "Fine,thank you"
+    "sentence": "How are you?"
   },
   {
     "unit": "1",
-    "id": "thank you",
+    "id": "",
     "word": "thank you",
-    "pronunciation": "/θæŋk juː/",
-    "meaning": "cảm ơn",
+    "pronunciation": "/θæŋk ju/",
+    "meaning": "cảm ơn = thanks /θæŋks/",
     "voice": "",
-    "sentence": "Fine,thank you"
+    "sentence": "Thank you, teacher."
   },
   {
     "unit": "1",
@@ -69,7 +69,7 @@
     "pronunciation": "/ˌɡʊdˈbaɪ/",
     "meaning": "tạm biệt",
     "voice": "",
-    "sentence": "Bye"
+    "sentence": "Goodbye, my friend."
   },
   {
     "unit": "2",
@@ -78,46 +78,46 @@
     "pronunciation": "/wɒt/",
     "meaning": "cái gì",
     "voice": "",
-    "sentence": "What’s your name  ?"
+    "sentence": "What is your name?"
   },
   {
-    "unit": "3",
+    "unit": "2",
     "id": "your",
     "word": "your",
     "pronunciation": "/jɔːr/",
     "meaning": "của bạn",
     "voice": "",
-    "sentence": "What’s your name  ?"
+    "sentence": "Your bag is blue."
   },
   {
-    "unit": "3",
+    "unit": "2",
     "id": "Our",
     "word": "Our",
     "pronunciation": "/ˈaʊər/",
     "meaning": "của chúng ta",
     "voice": "",
-    "sentence": ""
+    "sentence": "This is our classroom."
   },
   {
-    "unit": "3",
+    "unit": "2",
     "id": "Name",
     "word": "Name",
     "pronunciation": "/neɪm/",
     "meaning": "tên",
     "voice": "",
-    "sentence": "My name is Marry"
+    "sentence": "My name is Lan."
   },
   {
-    "unit": "3",
+    "unit": "2",
     "id": "my",
     "word": "my",
     "pronunciation": "/mai /",
     "meaning": "của tôi",
     "voice": "",
-    "sentence": "My name is Ben"
+    "sentence": "My book is new."
   },
   {
-    "unit": "3",
+    "unit": "2",
     "id": "How old",
     "word": "How old",
     "pronunciation": "/ haʊ əʊld /",
@@ -126,12 +126,750 @@
     "sentence": "How old are you ?"
   },
   {
-    "unit": "3",
+    "unit": "2",
     "id": "year",
     "word": "year",
     "pronunciation": "/jɪr/",
     "meaning": "tuổi/năm",
     "voice": "",
     "sentence": "I’m 9 years old."
+  },
+  {
+    "unit": "3",
+    "id": "This",
+    "word": "This",
+    "pronunciation": "/ðɪs/",
+    "meaning": "đây,này(số ít) That:/ ðæt/ kia, đó(số nhiều)",
+    "voice": "",
+    "sentence": "This is Bill"
+  },
+  {
+    "unit": "3",
+    "id": "That",
+    "word": "That",
+    "pronunciation": "/ðæt/",
+    "meaning": "kia, đó(số nhiều)",
+    "voice": "",
+    "sentence": "That is Mr Long."
+  },
+  {
+    "unit": "3",
+    "id": "Mr",
+    "word": "Mr",
+    "pronunciation": "/ˌ ˈmɪs.tɚ /",
+    "meaning": "thầy, ông",
+    "voice": "",
+    "sentence": "Mr Nam is my teacher."
+  },
+  {
+    "unit": "3",
+    "id": "Ms",
+    "word": "Ms",
+    "pronunciation": "/ mɪz /",
+    "meaning": "cô, bà",
+    "voice": "",
+    "sentence": "Ms Hoa is very kind."
+  },
+  {
+    "unit": "3",
+    "id": "teacher",
+    "word": "teacher",
+    "pronunciation": "/ ˈtiːtʃər/",
+    "meaning": "giáo viên",
+    "voice": "",
+    "sentence": "My teacher is nice."
+  },
+  {
+    "unit": "3",
+    "id": "friend",
+    "word": "friend",
+    "pronunciation": "/frend/",
+    "meaning": "bạn",
+    "voice": "",
+    "sentence": "Lan is my friend."
+  },
+  {
+    "unit": "3",
+    "id": "It",
+    "word": "It",
+    "pronunciation": "/it/",
+    "meaning": "nó",
+    "voice": "",
+    "sentence": "Is this Ms Hoa ?"
+  },
+  {
+    "unit": "3",
+    "id": "no",
+    "word": "no",
+    "pronunciation": "/nəʊ/",
+    "meaning": "không",
+    "voice": "",
+    "sentence": "No,it isn’t.It’s Minh"
+  },
+  {
+    "unit": "3",
+    "id": "yes",
+    "word": "yes",
+    "pronunciation": "/jes/",
+    "meaning": "vâng/có.",
+    "voice": "",
+    "sentence": "Yes, it is."
+  },
+  {
+    "unit": "4",
+    "id": "Ear",
+    "word": "Ear",
+    "pronunciation": "/ɪr/",
+    "meaning": "cái tai",
+    "voice": "",
+    "sentence": "This is my ear."
+  },
+  {
+    "unit": "4",
+    "id": "eye",
+    "word": "eye",
+    "pronunciation": "/aɪ/",
+    "meaning": "mắt",
+    "voice": "",
+    "sentence": "This is my eye."
+  },
+  {
+    "unit": "4",
+    "id": "Hair",
+    "word": "Hair",
+    "pronunciation": "/heər/",
+    "meaning": "tóc",
+    "voice": "",
+    "sentence": "Touch your hair."
+  },
+  {
+    "unit": "4",
+    "id": "hand",
+    "word": "hand",
+    "pronunciation": "/hænd/",
+    "meaning": "cái tay",
+    "voice": "",
+    "sentence": "It’s a hand ."
+  },
+  {
+    "unit": "4",
+    "id": "Body",
+    "word": "Body",
+    "pronunciation": "/ˈbɑːdi/",
+    "meaning": "cơ thể",
+    "voice": "",
+    "sentence": "This is my body."
+  },
+  {
+    "unit": "4",
+    "id": "nose",
+    "word": "nose",
+    "pronunciation": "/nəʊz/",
+    "meaning": "mũi.",
+    "voice": "",
+    "sentence": "It’s a nose ."
+  },
+  {
+    "unit": "4",
+    "id": "mouth",
+    "word": "mouth",
+    "pronunciation": "/ maʊθ /",
+    "meaning": "cái miệng",
+    "voice": "",
+    "sentence": "Open your mouth."
+  },
+  {
+    "unit": "4",
+    "id": "touch",
+    "word": "touch",
+    "pronunciation": "/tʌtʃ/",
+    "meaning": "chạm vào",
+    "voice": "",
+    "sentence": "Touch your nose"
+  },
+  {
+    "unit": "4",
+    "id": "open",
+    "word": "open",
+    "pronunciation": "/ ˈoʊ.pən /",
+    "meaning": "mở,há",
+    "voice": "",
+    "sentence": "Open your eyes."
+  },
+  {
+    "unit": "4",
+    "id": "face",
+    "word": "face",
+    "pronunciation": "/feɪs/",
+    "meaning": "khuôn mặt",
+    "voice": "",
+    "sentence": "This is my face."
+  },
+  {
+    "unit": "5",
+    "id": "hobby",
+    "word": "hobby",
+    "pronunciation": "/ˈhɑː.bi/",
+    "meaning": "sở thích",
+    "voice": "",
+    "sentence": "What’s your hobby ?"
+  },
+  {
+    "unit": "5",
+    "id": "dancing",
+    "word": "dancing",
+    "pronunciation": "/da:nsiŋ/",
+    "meaning": "nsiŋ/: nhảy",
+    "voice": "",
+    "sentence": "It’s dancing ."
+  },
+  {
+    "unit": "5",
+    "id": "singing",
+    "word": "singing",
+    "pronunciation": "/siŋiŋ /",
+    "meaning": "ca hát .",
+    "voice": "",
+    "sentence": "I like singing."
+  },
+  {
+    "unit": "5",
+    "id": "drawing",
+    "word": "drawing",
+    "pronunciation": "/drɔːiŋ/",
+    "meaning": "vẽ",
+    "voice": "",
+    "sentence": "I like drawing."
+  },
+  {
+    "unit": "5",
+    "id": "swimming",
+    "word": "swimming",
+    "pronunciation": "/swɪmiŋ/",
+    "meaning": "bơi lội",
+    "voice": "",
+    "sentence": "It’s swimming"
+  },
+  {
+    "unit": "5",
+    "id": "cooking",
+    "word": "cooking",
+    "pronunciation": "/ kʊkiŋ/",
+    "meaning": "nấu ăn",
+    "voice": "",
+    "sentence": "I like cooking."
+  },
+  {
+    "unit": "5",
+    "id": "painting",
+    "word": "painting",
+    "pronunciation": "/peɪntiŋ/",
+    "meaning": "tô màu",
+    "voice": "",
+    "sentence": "I like painting."
+  },
+  {
+    "unit": "5",
+    "id": "like",
+    "word": "like",
+    "pronunciation": "/laɪk/",
+    "meaning": "thích",
+    "voice": "",
+    "sentence": "I like apples."
+  },
+  {
+    "unit": "5",
+    "id": "running",
+    "word": "running",
+    "pronunciation": "/rʌniŋ /",
+    "meaning": "chạy bộ",
+    "voice": "",
+    "sentence": "I like running."
+  },
+  {
+    "unit": "5",
+    "id": "walking",
+    "word": "walking",
+    "pronunciation": "/wɔːkiŋ/",
+    "meaning": "đi bộ",
+    "voice": "",
+    "sentence": "I like walking ."
+  },
+  {
+    "unit": "6",
+    "id": "School",
+    "word": "School",
+    "pronunciation": "/sku:l/",
+    "meaning": "l/ :trường học",
+    "voice": "",
+    "sentence": "Is this your school?"
+  },
+  {
+    "unit": "6",
+    "id": "room",
+    "word": "room",
+    "pronunciation": "/ru:m/",
+    "meaning": "m/:phòng học",
+    "voice": "",
+    "sentence": "This is my room."
+  },
+  {
+    "unit": "6",
+    "id": "Classroom",
+    "word": "Classroom",
+    "pronunciation": "/ˈklɑːs.ruːm/",
+    "meaning": "phòng học",
+    "voice": "",
+    "sentence": "This is our classroom."
+  },
+  {
+    "unit": "6",
+    "id": "library",
+    "word": "library",
+    "pronunciation": "/ˈlaɪ.brər.i/",
+    "meaning": "thư viện",
+    "voice": "",
+    "sentence": "It that your library?"
+  },
+  {
+    "unit": "6",
+    "id": "playground",
+    "word": "playground",
+    "pronunciation": "/ˈpleɪ.ɡraʊnd /",
+    "meaning": "sân chơi",
+    "voice": "",
+    "sentence": "No,it isn’t. It’s the playground."
+  },
+  {
+    "unit": "6",
+    "id": "computer room",
+    "word": "computer room",
+    "pronunciation": "/kəmˈpjuːtə ruːm/",
+    "meaning": "phòng máy tính",
+    "voice": "",
+    "sentence": "This is the computer room."
+  },
+  {
+    "unit": "6",
+    "id": "art room",
+    "word": "art room",
+    "pronunciation": "/ ɑːrt ruːm /",
+    "meaning": "phòng mỹ thuật",
+    "voice": "",
+    "sentence": "Let’s go to the art room."
+  },
+  {
+    "unit": "6",
+    "id": "go",
+    "word": "go",
+    "pronunciation": "/ɡəʊ /",
+    "meaning": "đi",
+    "voice": "",
+    "sentence": "Ok, let’s go."
+  },
+  {
+    "unit": "6",
+    "id": "gym",
+    "word": "gym",
+    "pronunciation": "/ dʒɪm /",
+    "meaning": "phòng đa năng, phòng tập.",
+    "voice": "",
+    "sentence": "Let’s go to the gym."
+  },
+  {
+    "unit": "6",
+    "id": "music rooms",
+    "word": "music rooms",
+    "pronunciation": "/ˈmjuːzɪk ruːm /",
+    "meaning": "phòng âm nhạc",
+    "voice": "",
+    "sentence": "This is the music room"
+  },
+  {
+    "unit": "7",
+    "id": "Good morning",
+    "word": "Good morning",
+    "pronunciation": "/ ɡʊd ˈmɔːrnɪŋ /",
+    "meaning": "chào buổi sáng",
+    "voice": "",
+    "sentence": "Good morning, teacher."
+  },
+  {
+    "unit": "7",
+    "id": "Stand up",
+    "word": "Stand up",
+    "pronunciation": "/stænd ʌp/",
+    "meaning": "đứng lên",
+    "voice": "",
+    "sentence": "Stand up, please."
+  },
+  {
+    "unit": "7",
+    "id": "Sit down",
+    "word": "Sit down",
+    "pronunciation": "/sɪt daʊn/",
+    "meaning": "ngồi xuống.",
+    "voice": "",
+    "sentence": "Sit down, please."
+  },
+  {
+    "unit": "7",
+    "id": "open",
+    "word": "open",
+    "pronunciation": "/ˈəʊ.pən/",
+    "meaning": "mở",
+    "voice": "",
+    "sentence": "Open your book, please"
+  },
+  {
+    "unit": "7",
+    "id": "close",
+    "word": "close",
+    "pronunciation": "/kləʊz/",
+    "meaning": "đóng, khép",
+    "voice": "",
+    "sentence": "Close your book, please"
+  },
+  {
+    "unit": "7",
+    "id": "please",
+    "word": "please",
+    "pronunciation": "/ pliːz /",
+    "meaning": "xin vui lòng,xin mời",
+    "voice": "",
+    "sentence": "Open your book, please"
+  },
+  {
+    "unit": "7",
+    "id": "Vietnamese",
+    "word": "Vietnamese",
+    "pronunciation": "/ˌviːetnəˈmiːz/",
+    "meaning": "Tiếng Việt",
+    "voice": "",
+    "sentence": "May i speak Vietnamese?"
+  },
+  {
+    "unit": "7",
+    "id": "English",
+    "word": "English",
+    "pronunciation": "/ ɪŋglɪʃ/",
+    "meaning": "tiếng Anh",
+    "voice": "",
+    "sentence": "I like English."
+  },
+  {
+    "unit": "7",
+    "id": "Come in",
+    "word": "Come in",
+    "pronunciation": "/kʌm ɪn/",
+    "meaning": "mời vào",
+    "voice": "",
+    "sentence": "Come in, please."
+  },
+  {
+    "unit": "7",
+    "id": "go out",
+    "word": "go out",
+    "pronunciation": "/ɡəʊ aʊt/",
+    "meaning": "ra ngoài",
+    "voice": "",
+    "sentence": "Go out, please."
+  },
+  {
+    "unit": "7",
+    "id": "may",
+    "word": "may",
+    "pronunciation": "/meɪ/",
+    "meaning": "có thể",
+    "voice": "",
+    "sentence": "May i go out?"
+  },
+  {
+    "unit": "7",
+    "id": "speak",
+    "word": "speak",
+    "pronunciation": "/spiːk/",
+    "meaning": "nói.",
+    "voice": "",
+    "sentence": "Speak English, please."
+  },
+  {
+    "unit": "8",
+    "id": "Book",
+    "word": "Book",
+    "pronunciation": "/bʊk/",
+    "meaning": "quyển sách",
+    "voice": "",
+    "sentence": "This is my book."
+  },
+  {
+    "unit": "8",
+    "id": "pen",
+    "word": "pen",
+    "pronunciation": "/pen/",
+    "meaning": "cây bút mực",
+    "voice": "",
+    "sentence": "This is my pen."
+  },
+  {
+    "unit": "8",
+    "id": "Notebook",
+    "word": "Notebook",
+    "pronunciation": "/nəʊt.bʊk/",
+    "meaning": "quyển vở.",
+    "voice": "",
+    "sentence": "This is my notebook."
+  },
+  {
+    "unit": "8",
+    "id": "have",
+    "word": "have",
+    "pronunciation": "/hæv/",
+    "meaning": "có",
+    "voice": "",
+    "sentence": "I have a pen."
+  },
+  {
+    "unit": "8",
+    "id": "School bag",
+    "word": "School bag",
+    "pronunciation": "/sku:l bæɡ/",
+    "meaning": "l bæɡ/ : cái cặp.",
+    "voice": "",
+    "sentence": "I have a school bag."
+  },
+  {
+    "unit": "8",
+    "id": "ruler",
+    "word": "ruler",
+    "pronunciation": "/ˈruː.lər/",
+    "meaning": "cây thước",
+    "voice": "",
+    "sentence": "This is my ruler."
+  },
+  {
+    "unit": "8",
+    "id": "pencil",
+    "word": "pencil",
+    "pronunciation": "/ˈpen.səl/",
+    "meaning": "bút chì",
+    "voice": "",
+    "sentence": "Do you have a pencil?"
+  },
+  {
+    "unit": "8",
+    "id": "pencil case",
+    "word": "pencil case",
+    "pronunciation": "/ˈpen.səl keɪs/",
+    "meaning": "hộp bút",
+    "voice": "",
+    "sentence": "This is my pencil case."
+  },
+  {
+    "unit": "8",
+    "id": "eraser",
+    "word": "eraser",
+    "pronunciation": "/ɪˈreɪsər/",
+    "meaning": "cục tẩy",
+    "voice": "",
+    "sentence": "Do you have an eraser?"
+  },
+  {
+    "unit": "8",
+    "id": "Notebook",
+    "word": "Notebook",
+    "pronunciation": "/nəʊt.bʊk /",
+    "meaning": "quyển vở.",
+    "voice": "",
+    "sentence": "I have a notebook"
+  },
+  {
+    "unit": "9",
+    "id": "Color",
+    "word": "Color",
+    "pronunciation": "/colour /",
+    "meaning": "màu sắc",
+    "voice": "",
+    "sentence": "What color is it?"
+  },
+  {
+    "unit": "9",
+    "id": "brown",
+    "word": "brown",
+    "pronunciation": "/braʊn/",
+    "meaning": "màu nâu",
+    "voice": "",
+    "sentence": "The dog is brown."
+  },
+  {
+    "unit": "9",
+    "id": "blue",
+    "word": "blue",
+    "pronunciation": "/bluː/",
+    "meaning": "màu xanh nước biển.",
+    "voice": "",
+    "sentence": "It’s blue."
+  },
+  {
+    "unit": "9",
+    "id": "red",
+    "word": "red",
+    "pronunciation": "/red/",
+    "meaning": "màu đỏ",
+    "voice": "",
+    "sentence": "It’s red."
+  },
+  {
+    "unit": "9",
+    "id": "yellow",
+    "word": "yellow",
+    "pronunciation": "/ˈjel.əʊ/",
+    "meaning": "màu vàng.",
+    "voice": "",
+    "sentence": "It’s yellow ."
+  },
+  {
+    "unit": "9",
+    "id": "green",
+    "word": "green",
+    "pronunciation": "/gri:n/",
+    "meaning": "n/: màu xanh",
+    "voice": "",
+    "sentence": "The tree is green."
+  },
+  {
+    "unit": "9",
+    "id": "orange",
+    "word": "orange",
+    "pronunciation": "/ˈɒr.ɪndʒ/",
+    "meaning": "màu cam",
+    "voice": "",
+    "sentence": "The orange is orange."
+  },
+  {
+    "unit": "9",
+    "id": "purple",
+    "word": "purple",
+    "pronunciation": "/ˈpɜːrpl/",
+    "meaning": "màu tím .",
+    "voice": "",
+    "sentence": "The flower is purple."
+  },
+  {
+    "unit": "9",
+    "id": "white",
+    "word": "white",
+    "pronunciation": "/waɪt/",
+    "meaning": "màu trắng",
+    "voice": "",
+    "sentence": "The cat is white."
+  },
+  {
+    "unit": "9",
+    "id": "they",
+    "word": "they",
+    "pronunciation": "/ðeɪ/",
+    "meaning": "chúng/họ.",
+    "voice": "",
+    "sentence": "They are my friends."
+  },
+  {
+    "unit": "10",
+    "id": "black",
+    "word": "black",
+    "pronunciation": "/blæk/",
+    "meaning": "màu đen",
+    "voice": "",
+    "sentence": "The bag is black."
+  },
+  {
+    "unit": "10",
+    "id": "Break time",
+    "word": "Break time",
+    "pronunciation": "/breɪk taɪm/",
+    "meaning": "giờ giải lao.",
+    "voice": "",
+    "sentence": "I play chess at break time."
+  },
+  {
+    "unit": "10",
+    "id": "Play",
+    "word": "Play",
+    "pronunciation": "/plei/",
+    "meaning": "chơi",
+    "voice": "",
+    "sentence": "I play every day."
+  },
+  {
+    "unit": "10",
+    "id": "badminton",
+    "word": "badminton",
+    "pronunciation": "/ˈbæd.mɪn.tən/",
+    "meaning": "cầu lông.",
+    "voice": "",
+    "sentence": "I play badminton."
+  },
+  {
+    "unit": "10",
+    "id": "chess",
+    "word": "chess",
+    "pronunciation": "/ches/",
+    "meaning": "cờ",
+    "voice": "",
+    "sentence": "I play chess."
+  },
+  {
+    "unit": "10",
+    "id": "volleyball",
+    "word": "volleyball",
+    "pronunciation": "/ˈvɑːlibɔːl/",
+    "meaning": "bóng chuyền.",
+    "voice": "",
+    "sentence": "I play volleyball."
+  },
+  {
+    "unit": "10",
+    "id": "basketball",
+    "word": "basketball",
+    "pronunciation": "/ˈbɑː.skɪt.bɔːl/",
+    "meaning": "bóng rổ",
+    "voice": "",
+    "sentence": "I play basketball at break time."
+  },
+  {
+    "unit": "10",
+    "id": "Football",
+    "word": "Football",
+    "pronunciation": "/ˈfʊt.bɔːl/",
+    "meaning": "bóng đá.",
+    "voice": "",
+    "sentence": "I play football."
+  },
+  {
+    "unit": "10",
+    "id": "Table tennis",
+    "word": "Table tennis",
+    "pronunciation": "/ˈteɪ.bəl ˌten.ɪs/",
+    "meaning": "bóng bàn",
+    "voice": "",
+    "sentence": "I play table tennis."
+  },
+  {
+    "unit": "10",
+    "id": "Word puzzle",
+    "word": "Word puzzle",
+    "pronunciation": "/wɜːrd ˈpʌzl/",
+    "meaning": "Trò chơi ô chữ.",
+    "voice": "",
+    "sentence": "I do word puzzles"
+  },
+  {
+    "unit": "10",
+    "id": "Chat",
+    "word": "Chat",
+    "pronunciation": "/tʃæt/",
+    "meaning": "trò chuyện",
+    "voice": "",
+    "sentence": "I chat with my friends."
   }
 ]
