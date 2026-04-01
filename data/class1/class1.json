@@ -1,1 +1,929 @@
-
+[
+  {
+    "unit": "1",
+    "id": "ball",
+    "word": "ball",
+    "pronunciation": "/bɔːl/",
+    "meaning": "bóng",
+    "voice": "",
+    "sentence": "I see a ball."
+  },
+  {
+    "unit": "1",
+    "id": "bike",
+    "word": "bike",
+    "pronunciation": "/baɪk/",
+    "meaning": "xe đạp",
+    "voice": "",
+    "sentence": "I have a bike."
+  },
+  {
+    "unit": "1",
+    "id": "book",
+    "word": "book",
+    "pronunciation": "/bʊk/",
+    "meaning": "sách",
+    "voice": "",
+    "sentence": "I have a book."
+  },
+  {
+    "unit": "1",
+    "id": "school playground",
+    "word": "school playground",
+    "pronunciation": "/skuːl ˈpleɪɡraʊnd/",
+    "meaning": "sân chơi",
+    "voice": "",
+    "sentence": "I go to school."
+  },
+  {
+    "unit": "2",
+    "id": "cake",
+    "word": "cake",
+    "pronunciation": "/keɪk/",
+    "meaning": "bánh ngọt",
+    "voice": "",
+    "sentence": "I run in the playground."
+  },
+  {
+    "unit": "2",
+    "id": "car",
+    "word": "car",
+    "pronunciation": "/kɑːr/",
+    "meaning": "xe hơi",
+    "voice": "",
+    "sentence": "I eat a cake."
+  },
+  {
+    "unit": "2",
+    "id": "cat",
+    "word": "cat",
+    "pronunciation": "/kæt/",
+    "meaning": "mèo",
+    "voice": "",
+    "sentence": "I see a car."
+  },
+  {
+    "unit": "2",
+    "id": "cup",
+    "word": "cup",
+    "pronunciation": "/kʌp/",
+    "meaning": "cốc",
+    "voice": "",
+    "sentence": "I have a cup."
+  },
+  {
+    "unit": "2",
+    "id": "dining room",
+    "word": "dining room",
+    "pronunciation": "/ˈdaɪnɪŋ ruːm/",
+    "meaning": "phòng ăn",
+    "voice": "",
+    "sentence": "I eat in the dining room."
+  },
+  {
+    "unit": "2",
+    "id": "have",
+    "word": "have",
+    "pronunciation": "/hæv/",
+    "meaning": "có",
+    "voice": "",
+    "sentence": "I have a toy."
+  },
+  {
+    "unit": "3",
+    "id": "apple",
+    "word": "apple",
+    "pronunciation": "/ˈæp.əl/",
+    "meaning": "táo",
+    "voice": "",
+    "sentence": "I eat an apple."
+  },
+  {
+    "unit": "3",
+    "id": "bag",
+    "word": "bag",
+    "pronunciation": "/bæɡ/",
+    "meaning": "túi",
+    "voice": "",
+    "sentence": "I have a bag."
+  },
+  {
+    "unit": "3",
+    "id": "can",
+    "word": "can",
+    "pronunciation": "/kæn/",
+    "meaning": "lon",
+    "voice": "",
+    "sentence": "I can run."
+  },
+  {
+    "unit": "3",
+    "id": "hat",
+    "word": "hat",
+    "pronunciation": "/hæt/",
+    "meaning": "mũ",
+    "voice": "",
+    "sentence": "I have a hat."
+  },
+  {
+    "unit": "3",
+    "id": "street market",
+    "word": "street market",
+    "pronunciation": "/striːt ˈmɑːkɪt/",
+    "meaning": "chợ đường phố",
+    "voice": "",
+    "sentence": "I go to the street market."
+  },
+  {
+    "unit": "4",
+    "id": "bedroom",
+    "word": "bedroom",
+    "pronunciation": "/ˈbedrʊm/",
+    "meaning": "phòng ngủ",
+    "voice": "",
+    "sentence": "I sleep in the bedroom."
+  },
+  {
+    "unit": "4",
+    "id": "desk",
+    "word": "desk",
+    "pronunciation": "/desk/",
+    "meaning": "bàn làm việc",
+    "voice": "",
+    "sentence": "I sit at the desk."
+  },
+  {
+    "unit": "4",
+    "id": "dog",
+    "word": "dog",
+    "pronunciation": "/dɒɡ/",
+    "meaning": "chó",
+    "voice": "",
+    "sentence": "I see a dog."
+  },
+  {
+    "unit": "4",
+    "id": "door",
+    "word": "door",
+    "pronunciation": "/dɔːr/",
+    "meaning": "cửa",
+    "voice": "",
+    "sentence": "I open the door."
+  },
+  {
+    "unit": "4",
+    "id": "duck",
+    "word": "duck",
+    "pronunciation": "/dʌk/",
+    "meaning": "vịt",
+    "voice": "",
+    "sentence": "I see a duck."
+  },
+  {
+    "unit": "4",
+    "id": "near",
+    "word": "near",
+    "pronunciation": "/nɪr/",
+    "meaning": "gần",
+    "voice": "",
+    "sentence": "The cat is near me."
+  },
+  {
+    "unit": "5",
+    "id": "chicken",
+    "word": "chicken",
+    "pronunciation": "/ˈtʃɪk.ɪn/",
+    "meaning": "gà",
+    "voice": "",
+    "sentence": "I eat chicken."
+  },
+  {
+    "unit": "5",
+    "id": "chips",
+    "word": "chips",
+    "pronunciation": "/tʃɪps/",
+    "meaning": "khoai tây chiên",
+    "voice": "",
+    "sentence": "I eat chips."
+  },
+  {
+    "unit": "5",
+    "id": "fish",
+    "word": "fish",
+    "pronunciation": "/fɪʃ/",
+    "meaning": "cá",
+    "voice": "",
+    "sentence": "I eat fish."
+  },
+  {
+    "unit": "5",
+    "id": "fish and chips",
+    "word": "fish and chips",
+    "pronunciation": "/fɪʃ ənd tʃɪps/",
+    "meaning": "cá và khoai tây chiên",
+    "voice": "",
+    "sentence": "I eat fish and chips."
+  },
+  {
+    "unit": "5",
+    "id": "milk",
+    "word": "milk",
+    "pronunciation": "/mɪlk/",
+    "meaning": "sữa",
+    "voice": "",
+    "sentence": "I drink milk."
+  },
+  {
+    "unit": "5",
+    "id": "like",
+    "word": "like",
+    "pronunciation": "/laɪk/",
+    "meaning": "thích",
+    "voice": "",
+    "sentence": "I like milk."
+  },
+  {
+    "unit": "5",
+    "id": "shop",
+    "word": "shop",
+    "pronunciation": "/ʃɒp/",
+    "meaning": "cửa hàng",
+    "voice": "",
+    "sentence": "I go to the shop."
+  },
+  {
+    "unit": "6",
+    "id": "bell",
+    "word": "bell",
+    "pronunciation": "/bel/",
+    "meaning": "chuông",
+    "voice": "",
+    "sentence": "I hear the bell."
+  },
+  {
+    "unit": "6",
+    "id": "board",
+    "word": "board",
+    "pronunciation": "/bɔːd/",
+    "meaning": "bảng",
+    "voice": "",
+    "sentence": "I see the board."
+  },
+  {
+    "unit": "6",
+    "id": "classroom",
+    "word": "classroom",
+    "pronunciation": "/ˈklæsruːm/",
+    "meaning": "lớp học",
+    "voice": "",
+    "sentence": "I am in the classroom."
+  },
+  {
+    "unit": "6",
+    "id": "drawing",
+    "word": "drawing",
+    "pronunciation": "/ˈdrɔːɪŋ/",
+    "meaning": "bức vẽ",
+    "voice": "",
+    "sentence": "I like drawing."
+  },
+  {
+    "unit": "6",
+    "id": "pen",
+    "word": "pen",
+    "pronunciation": "/pen/",
+    "meaning": "bút",
+    "voice": "",
+    "sentence": "I have a pen."
+  },
+  {
+    "unit": "6",
+    "id": "pencil",
+    "word": "pencil",
+    "pronunciation": "/ˈpen.səl/",
+    "meaning": "bút chì",
+    "voice": "",
+    "sentence": "I have a pencil."
+  },
+  {
+    "unit": "6",
+    "id": "red",
+    "word": "red",
+    "pronunciation": "/red/",
+    "meaning": "đỏ",
+    "voice": "",
+    "sentence": "It is red."
+  },
+  {
+    "unit": "7",
+    "id": "in",
+    "word": "in",
+    "pronunciation": "/ɪn/",
+    "meaning": "bên trong",
+    "voice": "",
+    "sentence": "The cat is in the box."
+  },
+  {
+    "unit": "7",
+    "id": "garden",
+    "word": "garden",
+    "pronunciation": "/ˈɡɑːr.dən/",
+    "meaning": "vườn",
+    "voice": "",
+    "sentence": "I play in the garden."
+  },
+  {
+    "unit": "7",
+    "id": "gate",
+    "word": "gate",
+    "pronunciation": "/ɡeɪt/",
+    "meaning": "cổng",
+    "voice": "",
+    "sentence": "I open the gate."
+  },
+  {
+    "unit": "7",
+    "id": "girl",
+    "word": "girl",
+    "pronunciation": "/ɡɜːl/",
+    "meaning": "cô gái",
+    "voice": "",
+    "sentence": "The girl runs."
+  },
+  {
+    "unit": "7",
+    "id": "goat",
+    "word": "goat",
+    "pronunciation": "/ɡəʊt/",
+    "meaning": "dê",
+    "voice": "",
+    "sentence": "I see a goat."
+  },
+  {
+    "unit": "8",
+    "id": "hair",
+    "word": "hair",
+    "pronunciation": "/heər/",
+    "meaning": "tóc",
+    "voice": "",
+    "sentence": "My hair is black."
+  },
+  {
+    "unit": "8",
+    "id": "hand",
+    "word": "hand",
+    "pronunciation": "/hænd/",
+    "meaning": "tay",
+    "voice": "",
+    "sentence": "I wash my hand."
+  },
+  {
+    "unit": "8",
+    "id": "head",
+    "word": "head",
+    "pronunciation": "/hed/",
+    "meaning": "đầu",
+    "voice": "",
+    "sentence": "I touch my head."
+  },
+  {
+    "unit": "8",
+    "id": "horse",
+    "word": "horse",
+    "pronunciation": "/hɔːrs/",
+    "meaning": "ngựa",
+    "voice": "",
+    "sentence": "I see a horse."
+  },
+  {
+    "unit": "8",
+    "id": "park",
+    "word": "park",
+    "pronunciation": "/pɑːk/",
+    "meaning": "công viên",
+    "voice": "",
+    "sentence": "I play in the park."
+  },
+  {
+    "unit": "8",
+    "id": "touch",
+    "word": "touch",
+    "pronunciation": "/tʌtʃ/",
+    "meaning": "chạm",
+    "voice": "",
+    "sentence": "I touch the ball."
+  },
+  {
+    "unit": "9",
+    "id": "clock",
+    "word": "clock",
+    "pronunciation": "/klɒk/",
+    "meaning": "đồng hồ",
+    "voice": "",
+    "sentence": "I see the clock."
+  },
+  {
+    "unit": "9",
+    "id": "five",
+    "word": "five",
+    "pronunciation": "/faɪv/",
+    "meaning": "năm",
+    "voice": "",
+    "sentence": "I see five cats."
+  },
+  {
+    "unit": "9",
+    "id": "four",
+    "word": "four",
+    "pronunciation": "/fɔːr/",
+    "meaning": "bốn",
+    "voice": "",
+    "sentence": "I see four dogs."
+  },
+  {
+    "unit": "9",
+    "id": "lock",
+    "word": "lock",
+    "pronunciation": "/lɒk/",
+    "meaning": "khóa",
+    "voice": "",
+    "sentence": "I lock the door."
+  },
+  {
+    "unit": "9",
+    "id": "many",
+    "word": "many",
+    "pronunciation": "/ˈmɛni/",
+    "meaning": "nhiều",
+    "voice": "",
+    "sentence": "I see many birds."
+  },
+  {
+    "unit": "9",
+    "id": "mop",
+    "word": "mop",
+    "pronunciation": "/mɒp/",
+    "meaning": "cây lau nhà",
+    "voice": "",
+    "sentence": "I use a mop."
+  },
+  {
+    "unit": "9",
+    "id": "one",
+    "word": "one",
+    "pronunciation": "/wʌn/",
+    "meaning": "một",
+    "voice": "",
+    "sentence": "I see one cat."
+  },
+  {
+    "unit": "9",
+    "id": "pot",
+    "word": "pot",
+    "pronunciation": "/pɒt/",
+    "meaning": "nồi",
+    "voice": "",
+    "sentence": "I see a pot."
+  },
+  {
+    "unit": "9",
+    "id": "shop",
+    "word": "shop",
+    "pronunciation": "/ʃɒp/",
+    "meaning": "cửa hàng",
+    "voice": "",
+    "sentence": "I go to the shop."
+  },
+  {
+    "unit": "9",
+    "id": "three",
+    "word": "three",
+    "pronunciation": "/θriː/",
+    "meaning": "ba",
+    "voice": "",
+    "sentence": "I see three balls."
+  },
+  {
+    "unit": "9",
+    "id": "two",
+    "word": "two",
+    "pronunciation": "/tuː/",
+    "meaning": "hai",
+    "voice": "",
+    "sentence": "I see two birds."
+  },
+  {
+    "unit": "10",
+    "id": "monkey",
+    "word": "monkey",
+    "pronunciation": "/ˈmʌŋ.ki/",
+    "meaning": "khỉ",
+    "voice": "",
+    "sentence": "I see a monkey."
+  },
+  {
+    "unit": "10",
+    "id": "mango",
+    "word": "mango",
+    "pronunciation": "/ˈmæŋ.ɡəʊ/",
+    "meaning": "xoài",
+    "voice": "",
+    "sentence": "I eat a mango."
+  },
+  {
+    "unit": "10",
+    "id": "mother",
+    "word": "mother",
+    "pronunciation": "/ˈmʌð.ər/",
+    "meaning": "mẹ",
+    "voice": "",
+    "sentence": "My mother is here."
+  },
+  {
+    "unit": "10",
+    "id": "mouse",
+    "word": "mouse",
+    "pronunciation": "/maʊs/",
+    "meaning": "chuột",
+    "voice": "",
+    "sentence": "I see a mouse."
+  },
+  {
+    "unit": "10",
+    "id": "zoo",
+    "word": "zoo",
+    "pronunciation": "/zuː/",
+    "meaning": "vườn thú",
+    "voice": "",
+    "sentence": "I go to the zoo."
+  },
+  {
+    "unit": "11",
+    "id": "boy",
+    "word": "boy",
+    "pronunciation": "/bɔɪ/",
+    "meaning": "cậu bé",
+    "voice": "",
+    "sentence": "The boy runs."
+  },
+  {
+    "unit": "11",
+    "id": "bus",
+    "word": "bus",
+    "pronunciation": "/bʌs/",
+    "meaning": "xe buýt",
+    "voice": "",
+    "sentence": "I see a bus."
+  },
+  {
+    "unit": "11",
+    "id": "bus stop",
+    "word": "bus stop",
+    "pronunciation": "/bʌs stɒp/",
+    "meaning": "trạm dừng xe buýt",
+    "voice": "",
+    "sentence": "I wait at the bus stop."
+  },
+  {
+    "unit": "11",
+    "id": "move",
+    "word": "move",
+    "pronunciation": "/muːv/",
+    "meaning": "chuyển động",
+    "voice": "",
+    "sentence": "I move my hand."
+  },
+  {
+    "unit": "11",
+    "id": "run",
+    "word": "run",
+    "pronunciation": "/rʌn/",
+    "meaning": "chạy",
+    "voice": "",
+    "sentence": "I run fast."
+  },
+  {
+    "unit": "11",
+    "id": "sun",
+    "word": "sun",
+    "pronunciation": "/sʌn/",
+    "meaning": "mặt trời",
+    "voice": "",
+    "sentence": "I see the sun."
+  },
+  {
+    "unit": "11",
+    "id": "truck",
+    "word": "truck",
+    "pronunciation": "/trʌk/",
+    "meaning": "xe tải",
+    "voice": "",
+    "sentence": "I see a truck."
+  },
+  {
+    "unit": "12",
+    "id": "fall",
+    "word": "fall",
+    "pronunciation": "/fɔːl/",
+    "meaning": "rơi",
+    "voice": "",
+    "sentence": "The leaf falls."
+  },
+  {
+    "unit": "12",
+    "id": "lake",
+    "word": "lake",
+    "pronunciation": "/leɪk/",
+    "meaning": "hồ",
+    "voice": "",
+    "sentence": "I see a lake."
+  },
+  {
+    "unit": "12",
+    "id": "leaf",
+    "word": "leaf",
+    "pronunciation": "/liːf/",
+    "meaning": "lá",
+    "voice": "",
+    "sentence": "I see a leaf."
+  },
+  {
+    "unit": "12",
+    "id": "lemon",
+    "word": "lemon",
+    "pronunciation": "/ˈlem.ən/",
+    "meaning": "chanh",
+    "voice": "",
+    "sentence": "I eat a lemon."
+  },
+  {
+    "unit": "13",
+    "id": "banana",
+    "word": "banana",
+    "pronunciation": "/bəˈnæn.ə/",
+    "meaning": "chuối",
+    "voice": "",
+    "sentence": "I eat a banana."
+  },
+  {
+    "unit": "13",
+    "id": "canteen",
+    "word": "canteen",
+    "pronunciation": "/kænˈtiːn/",
+    "meaning": "nhà ăn trường học",
+    "voice": "",
+    "sentence": "I eat in the canteen."
+  },
+  {
+    "unit": "13",
+    "id": "noodles",
+    "word": "noodles",
+    "pronunciation": "/ˈnuː.dəlz/",
+    "meaning": "mì",
+    "voice": "",
+    "sentence": "I eat noodles."
+  },
+  {
+    "unit": "13",
+    "id": "nut",
+    "word": "nut",
+    "pronunciation": "/nʌt/",
+    "meaning": "hạt",
+    "voice": "",
+    "sentence": "I see a nut."
+  },
+  {
+    "unit": "13",
+    "id": "today",
+    "word": "today",
+    "pronunciation": "/təˈdeɪ/",
+    "meaning": "hôm nay",
+    "voice": "",
+    "sentence": "I go to school today."
+  },
+  {
+    "unit": "14",
+    "id": "hold",
+    "word": "hold",
+    "pronunciation": "/hoʊld/",
+    "meaning": "cầm",
+    "voice": "",
+    "sentence": "I hold the ball."
+  },
+  {
+    "unit": "14",
+    "id": "on",
+    "word": "on",
+    "pronunciation": "/ɒn/",
+    "meaning": "bên trên",
+    "voice": "",
+    "sentence": "The book is on the desk."
+  },
+  {
+    "unit": "14",
+    "id": "teddy bear",
+    "word": "teddy bear",
+    "pronunciation": "/ˈted.i beər/",
+    "meaning": "gấu bông",
+    "voice": "",
+    "sentence": "I have a teddy bear."
+  },
+  {
+    "unit": "14",
+    "id": "tiger",
+    "word": "tiger",
+    "pronunciation": "/ˈtaɪ.ɡər/",
+    "meaning": "hổ",
+    "voice": "",
+    "sentence": "I see a tiger."
+  },
+  {
+    "unit": "14",
+    "id": "top",
+    "word": "top",
+    "pronunciation": "/tɒp/",
+    "meaning": "đỉnh",
+    "voice": "",
+    "sentence": "I see the top."
+  },
+  {
+    "unit": "14",
+    "id": "toy shop",
+    "word": "toy shop",
+    "pronunciation": "/tɔɪ ʃɒp/",
+    "meaning": "cửa hàng đồ chơi",
+    "voice": "",
+    "sentence": "I go to the toy shop."
+  },
+  {
+    "unit": "14",
+    "id": "turtle",
+    "word": "turtle",
+    "pronunciation": "/ˈtɜː.təl/",
+    "meaning": "rùa",
+    "voice": "",
+    "sentence": "I see a turtle."
+  },
+  {
+    "unit": "14",
+    "id": "see",
+    "word": "see",
+    "pronunciation": "/siː/",
+    "meaning": "nhìn thấy",
+    "voice": "",
+    "sentence": "I see a cat."
+  },
+  {
+    "unit": "14",
+    "id": "shelf",
+    "word": "shelf",
+    "pronunciation": "/ʃɛlf/",
+    "meaning": "giá đựng đồ",
+    "voice": "",
+    "sentence": "The book is on the shelf."
+  },
+  {
+    "unit": "15",
+    "id": "face",
+    "word": "face",
+    "pronunciation": "/feɪs/",
+    "meaning": "mặt",
+    "voice": "",
+    "sentence": "I wash my face."
+  },
+  {
+    "unit": "15",
+    "id": "father",
+    "word": "father",
+    "pronunciation": "/ˈfɑː.ðər/",
+    "meaning": "cha",
+    "voice": "",
+    "sentence": "My father is here."
+  },
+  {
+    "unit": "15",
+    "id": "foot",
+    "word": "foot",
+    "pronunciation": "/fʊt/",
+    "meaning": "chân",
+    "voice": "",
+    "sentence": "I wash my foot."
+  },
+  {
+    "unit": "15",
+    "id": "football",
+    "word": "football",
+    "pronunciation": "/ˈfʊt.bɔːl/",
+    "meaning": "bóng đá",
+    "voice": "",
+    "sentence": "I play football."
+  },
+  {
+    "unit": "15",
+    "id": "match",
+    "word": "match",
+    "pronunciation": "/mætʃ/",
+    "meaning": "trận đấu",
+    "voice": "",
+    "sentence": "I watch the match."
+  },
+  {
+    "unit": "15",
+    "id": "point",
+    "word": "point",
+    "pronunciation": "/pɔɪnt/",
+    "meaning": "chỉ vào",
+    "voice": "",
+    "sentence": "I point to the board."
+  },
+  {
+    "unit": "15",
+    "id": "watch",
+    "word": "watch",
+    "pronunciation": "/wɒtʃ/",
+    "meaning": "xem",
+    "voice": "",
+    "sentence": "I watch TV."
+  },
+  {
+    "unit": "16",
+    "id": "eight",
+    "word": "eight",
+    "pronunciation": "/eɪt/",
+    "meaning": "tám",
+    "voice": "",
+    "sentence": "I see eight ducks."
+  },
+  {
+    "unit": "16",
+    "id": "home",
+    "word": "home",
+    "pronunciation": "/həʊm/",
+    "meaning": "nhà",
+    "voice": "",
+    "sentence": "I go home."
+  },
+  {
+    "unit": "16",
+    "id": "nine",
+    "word": "nine",
+    "pronunciation": "/naɪn/",
+    "meaning": "chín",
+    "voice": "",
+    "sentence": "I see nine birds."
+  },
+  {
+    "unit": "16",
+    "id": "seven",
+    "word": "seven",
+    "pronunciation": "/ˈsev.ən/",
+    "meaning": "bảy",
+    "voice": "",
+    "sentence": "I see seven cats."
+  },
+  {
+    "unit": "16",
+    "id": "six",
+    "word": "six",
+    "pronunciation": "/sɪks/",
+    "meaning": "sáu",
+    "voice": "",
+    "sentence": "I see six dogs."
+  },
+  {
+    "unit": "16",
+    "id": "ten",
+    "word": "ten",
+    "pronunciation": "/ten/",
+    "meaning": "mười",
+    "voice": "",
+    "sentence": "I see ten balls."
+  },
+  {
+    "unit": "16",
+    "id": "wash",
+    "word": "wash",
+    "pronunciation": "/wɒʃ/",
+    "meaning": "rửa",
+    "voice": "",
+    "sentence": "I wash my hands."
+  },
+  {
+    "unit": "16",
+    "id": "water",
+    "word": "water",
+    "pronunciation": "/ˈwɔː.tər/",
+    "meaning": "nước",
+    "voice": "",
+    "sentence": "I drink water."
+  },
+  {
+    "unit": "16",
+    "id": "window",
+    "word": "window",
+    "pronunciation": "/ˈwɪn.dəʊ/",
+    "meaning": "cửa sổ",
+    "voice": "",
+    "sentence": "I open the window."
+  }
+]
