@@ -1,866 +1,972 @@
 [
   {
-    "1": "1",
-    "hello": "bye",
-    "interjection": "interjection",
-    "/həˈloʊ/": "/baɪ/",
-    "Xin chào": "Tạm biệt",
-    "": "",
-    "Hello, Nam.": "Bye, see you tomorrow."
-  },
-  {
-    "1": "1",
-    "hello": "thank",
-    "interjection": "verb",
-    "/həˈloʊ/": "/θæŋk/",
-    "Xin chào": "Cảm ơn",
-    "": "",
-    "Hello, Nam.": "Thank you, teacher."
-  },
-  {
-    "1": "1",
-    "hello": "how",
-    "interjection": "adverb",
-    "/həˈloʊ/": "/haʊ/",
-    "Xin chào": "Như thế nào",
-    "": "",
-    "Hello, Nam.": "How are you?"
-  },
-  {
-    "1": "2",
-    "hello": "name",
-    "interjection": "noun",
-    "/həˈloʊ/": "/neɪm/",
-    "Xin chào": "Tên",
-    "": "",
-    "Hello, Nam.": "My name is Lan."
-  },
-  {
-    "1": "2",
-    "hello": "old",
-    "interjection": "adjective",
-    "/həˈloʊ/": "/oʊld/",
-    "Xin chào": "Cũ, già",
-    "": "",
-    "Hello, Nam.": "I am eight years old."
-  },
-  {
-    "1": "2",
-    "hello": "your",
-    "interjection": "determiner",
-    "/həˈloʊ/": "/jɔːr/",
-    "Xin chào": "Của bạn",
-    "": "",
-    "Hello, Nam.": "What is your name?"
-  },
-  {
-    "1": "2",
-    "hello": "my",
-    "interjection": "determiner",
-    "/həˈloʊ/": "/maɪ/",
-    "Xin chào": "Của tôi",
-    "": "",
-    "Hello, Nam.": "My bag is blue."
-  },
-  {
-    "1": "3",
-    "hello": "friend",
-    "interjection": "noun",
-    "/həˈloʊ/": "/frɛnd/",
-    "Xin chào": "bạn bè",
-    "": "",
-    "Hello, Nam.": "Lan is my friend."
-  },
-  {
-    "1": "3",
-    "hello": "teacher",
-    "interjection": "noun",
-    "/həˈloʊ/": "/ˈtiːtʃər/",
-    "Xin chào": "giáo viên",
-    "": "",
-    "Hello, Nam.": "My teacher is kind."
-  },
-  {
-    "1": "3",
-    "hello": "this",
-    "interjection": "determiner",
-    "/həˈloʊ/": "/ðɪs/",
-    "Xin chào": "cái này, này",
-    "": "",
-    "Hello, Nam.": "This is my book."
-  },
-  {
-    "1": "3",
-    "hello": "that",
-    "interjection": "determiner",
-    "/həˈloʊ/": "/ðæt/",
-    "Xin chào": "cái kia, kia",
-    "": "",
-    "Hello, Nam.": "That is my school."
-  },
-  {
-    "1": "4",
-    "hello": "eye",
-    "interjection": "noun",
-    "/həˈloʊ/": "/aɪ/",
-    "Xin chào": "mắt",
-    "": "",
-    "Hello, Nam.": "I have two eyes."
-  },
-  {
-    "1": "4",
-    "hello": "face",
-    "interjection": "noun",
-    "/həˈloʊ/": "/feɪs/",
-    "Xin chào": "khuôn mặt",
-    "": "",
-    "Hello, Nam.": "My face is clean."
-  },
-  {
-    "1": "4",
-    "hello": "hair",
-    "interjection": "noun",
-    "/həˈloʊ/": "/hɛər/",
-    "Xin chào": "tóc",
-    "": "",
-    "Hello, Nam.": "Her hair is long."
-  },
-  {
-    "1": "4",
-    "hello": "hand",
-    "interjection": "noun",
-    "/həˈloʊ/": "/hænd/",
-    "Xin chào": "bàn tay",
-    "": "",
-    "Hello, Nam.": "I wash my hands."
-  },
-  {
-    "1": "4",
-    "hello": "mouth",
-    "interjection": "noun",
-    "/həˈloʊ/": "/maʊθ/",
-    "Xin chào": "miệng",
-    "": "",
-    "Hello, Nam.": "I open my mouth."
-  },
-  {
-    "1": "4",
-    "hello": "nose",
-    "interjection": "noun",
-    "/həˈloʊ/": "/noʊz/",
-    "Xin chào": "mũi",
-    "": "",
-    "Hello, Nam.": "My nose is small."
-  },
-  {
-    "1": "5",
-    "hello": "dancing",
-    "interjection": "noun",
-    "/həˈloʊ/": "/ˈdænsɪŋ/",
-    "Xin chào": "nhảy múa",
-    "": "",
-    "Hello, Nam.": "I like dancing."
-  },
-  {
-    "1": "5",
-    "hello": "drawing",
-    "interjection": "noun",
-    "/həˈloʊ/": "/ˈdrɔːɪŋ/",
-    "Xin chào": "vẽ",
-    "": "",
-    "Hello, Nam.": "I like drawing."
-  },
-  {
-    "1": "5",
-    "hello": "running",
-    "interjection": "noun",
-    "/həˈloʊ/": "/ˈrʌnɪŋ/",
-    "Xin chào": "chạy",
-    "": "",
-    "Hello, Nam.": "I like running."
-  },
-  {
-    "1": "5",
-    "hello": "singing",
-    "interjection": "noun",
-    "/həˈloʊ/": "/ˈsɪŋɪŋ/",
-    "Xin chào": "hát",
-    "": "",
-    "Hello, Nam.": "I like singing."
-  },
-  {
-    "1": "5",
-    "hello": "swimming",
-    "interjection": "noun",
-    "/həˈloʊ/": "/ˈswɪmɪŋ/",
-    "Xin chào": "bơi lội",
-    "": "",
-    "Hello, Nam.": "I like swimming."
-  },
-  {
-    "1": "6",
-    "hello": "classroom",
-    "interjection": "noun",
-    "/həˈloʊ/": "/ˈklɑːs.rʊm/",
-    "Xin chào": "phòng học",
-    "": "",
-    "Hello, Nam.": "My classroom is big."
-  },
-  {
-    "1": "6",
-    "hello": "school",
-    "interjection": "noun",
-    "/həˈloʊ/": "/skuːl/",
-    "Xin chào": "trường học",
-    "": "",
-    "Hello, Nam.": "I go to school."
-  },
-  {
-    "1": "6",
-    "hello": "playground",
-    "interjection": "noun",
-    "/həˈloʊ/": "/ˈpleɪ.ɡraʊnd/",
-    "Xin chào": "sân chơi",
-    "": "",
-    "Hello, Nam.": "I play in the playground."
-  },
-  {
-    "1": "6",
-    "hello": "library",
-    "interjection": "noun",
-    "/həˈloʊ/": "/ˈlaɪ.brer.i/",
-    "Xin chào": "thư viện",
-    "": "",
-    "Hello, Nam.": "I read books in the library."
-  },
-  {
-    "1": "7",
-    "hello": "open",
-    "interjection": "verb",
-    "/həˈloʊ/": "/ˈoʊ.pən/",
-    "Xin chào": "mở",
-    "": "",
-    "Hello, Nam.": "Open your book."
-  },
-  {
-    "1": "7",
-    "hello": "close",
-    "interjection": "verb",
-    "/həˈloʊ/": "/kloʊz/",
-    "Xin chào": "đóng",
-    "": "",
-    "Hello, Nam.": "Close the door."
-  },
-  {
-    "1": "7",
-    "hello": "stand up",
-    "interjection": "verb",
-    "/həˈloʊ/": "/stænd ʌp/",
-    "Xin chào": "đứng lên",
-    "": "",
-    "Hello, Nam.": "Stand up, please."
-  },
-  {
-    "1": "7",
-    "hello": "sit down",
-    "interjection": "verb",
-    "/həˈloʊ/": "/sɪt daʊn/",
-    "Xin chào": "ngồi xuống",
-    "": "",
-    "Hello, Nam.": "Sit down, please."
-  },
-  {
-    "1": "8",
-    "hello": "pencil case",
-    "interjection": "noun",
-    "/həˈloʊ/": "/ˈpɛn.səl keɪs/",
-    "Xin chào": "hộp bút",
-    "": "",
-    "Hello, Nam.": "This is my pencil case."
-  },
-  {
-    "1": "8",
-    "hello": "ruler",
-    "interjection": "noun",
-    "/həˈloʊ/": "/ˈruː.lər/",
-    "Xin chào": "thước kẻ",
-    "": "",
-    "Hello, Nam.": "I have a ruler."
-  },
-  {
-    "1": "8",
-    "hello": "notebook",
-    "interjection": "noun",
-    "/həˈloʊ/": "/ˈnoʊt.bʊk/",
-    "Xin chào": "vở",
-    "": "",
-    "Hello, Nam.": "I write in my notebook."
-  },
-  {
-    "1": "8",
-    "hello": "bag",
-    "interjection": "noun",
-    "/həˈloʊ/": "/bæɡ/",
-    "Xin chào": "cặp sách",
-    "": "",
-    "Hello, Nam.": "My bag is new."
-  },
-  {
-    "1": "9",
-    "hello": "red",
-    "interjection": "adjective",
-    "/həˈloʊ/": "/rɛd/",
-    "Xin chào": "đỏ",
-    "": "",
-    "Hello, Nam.": "The apple is red."
-  },
-  {
-    "1": "9",
-    "hello": "blue",
-    "interjection": "adjective",
-    "/həˈloʊ/": "/bluː/",
-    "Xin chào": "xanh dương",
-    "": "",
-    "Hello, Nam.": "The sky is blue."
-  },
-  {
-    "1": "9",
-    "hello": "yellow",
-    "interjection": "adjective",
-    "/həˈloʊ/": "/ˈjɛ.loʊ/",
-    "Xin chào": "vàng",
-    "": "",
-    "Hello, Nam.": "The banana is yellow."
-  },
-  {
-    "1": "9",
-    "hello": "green",
-    "interjection": "adjective",
-    "/həˈloʊ/": "/ɡriːn/",
-    "Xin chào": "xanh lá",
-    "": "",
-    "Hello, Nam.": "The tree is green."
-  },
-  {
-    "1": "9",
-    "hello": "black",
-    "interjection": "adjective",
-    "/həˈloʊ/": "/blæk/",
-    "Xin chào": "đen",
-    "": "",
-    "Hello, Nam.": "My bag is black."
-  },
-  {
-    "1": "9",
-    "hello": "white",
-    "interjection": "adjective",
-    "/həˈloʊ/": "/waɪt/",
-    "Xin chào": "trắng",
-    "": "",
-    "Hello, Nam.": "The cat is white."
-  },
-  {
-    "1": "10",
-    "hello": "play",
-    "interjection": "verb",
-    "/həˈloʊ/": "/pleɪ/",
-    "Xin chào": "chơi",
-    "": "",
-    "Hello, Nam.": "I play football."
-  },
-  {
-    "1": "10",
-    "hello": "chat",
-    "interjection": "verb",
-    "/həˈloʊ/": "/tʃæt/",
-    "Xin chào": "trò chuyện",
-    "": "",
-    "Hello, Nam.": "I chat with my friend."
-  },
-  {
-    "1": "10",
-    "hello": "break time",
-    "interjection": "noun",
-    "/həˈloʊ/": "/ˈbreɪk ˌtaɪm/",
-    "Xin chào": "giờ ra chơi",
-    "": "",
-    "Hello, Nam.": "I play at break time."
-  },
-  {
-    "1": "10",
-    "hello": "badminton",
-    "interjection": "noun",
-    "/həˈloʊ/": "/ˈbæd.mɪn.tən/",
-    "Xin chào": "cầu lông",
-    "": "",
-    "Hello, Nam.": "I play badminton."
-  },
-  {
-    "1": "10",
-    "hello": "volleyball",
-    "interjection": "noun",
-    "/həˈloʊ/": "/ˈvɑː.li.bɑːl/",
-    "Xin chào": "bóng chuyền",
-    "": "",
-    "Hello, Nam.": "I play volleyball."
-  },
-  {
-    "1": "11",
-    "hello": "brother",
-    "interjection": "noun",
-    "/həˈloʊ/": "/ˈbrʌðər/",
-    "Xin chào": "anh/em trai",
-    "": "",
-    "Hello, Nam.": "My brother is tall."
-  },
-  {
-    "1": "11",
-    "hello": "father",
-    "interjection": "noun",
-    "/həˈloʊ/": "/ˈfɑːðər/",
-    "Xin chào": "cha",
-    "": "",
-    "Hello, Nam.": "My father is kind."
-  },
-  {
-    "1": "11",
-    "hello": "mother",
-    "interjection": "noun",
-    "/həˈloʊ/": "/ˈmʌðər/",
-    "Xin chào": "mẹ",
-    "": "",
-    "Hello, Nam.": "My mother cooks well."
-  },
-  {
-    "1": "11",
-    "hello": "sister",
-    "interjection": "noun",
-    "/həˈloʊ/": "/ˈsɪstər/",
-    "Xin chào": "chị/em gái",
-    "": "",
-    "Hello, Nam.": "My sister reads a book."
-  },
-  {
-    "1": "12",
-    "hello": "doctor",
-    "interjection": "noun",
-    "/həˈloʊ/": "/ˈdɑːktər/",
-    "Xin chào": "bác sĩ",
-    "": "",
-    "Hello, Nam.": "The doctor helps people."
-  },
-  {
-    "1": "12",
-    "hello": "teacher",
-    "interjection": "noun",
-    "/həˈloʊ/": "/ˈtiːʧər/",
-    "Xin chào": "giáo viên",
-    "": "",
-    "Hello, Nam.": "My teacher teaches English."
-  },
-  {
-    "1": "12",
-    "hello": "nurse",
-    "interjection": "noun",
-    "/həˈloʊ/": "/nɜːrs/",
-    "Xin chào": "y tá",
-    "": "",
-    "Hello, Nam.": "The nurse works in a hospital."
-  },
-  {
-    "1": "12",
-    "hello": "singer",
-    "interjection": "noun",
-    "/həˈloʊ/": "/ˈsɪŋər/",
-    "Xin chào": "ca sĩ",
-    "": "",
-    "Hello, Nam.": "The singer sings a song."
-  },
-  {
-    "1": "13",
-    "hello": "kitchen",
-    "interjection": "noun",
-    "/həˈloʊ/": "/ˈkɪʧən/",
-    "Xin chào": "nhà bếp",
-    "": "",
-    "Hello, Nam.": "My mom cooks in the kitchen."
-  },
-  {
-    "1": "13",
-    "hello": "bedroom",
-    "interjection": "noun",
-    "/həˈloʊ/": "/ˈbɛdruːm/",
-    "Xin chào": "phòng ngủ",
-    "": "",
-    "Hello, Nam.": "I sleep in the bedroom."
-  },
-  {
-    "1": "13",
-    "hello": "table",
-    "interjection": "noun",
-    "/həˈloʊ/": "/ˈteɪbəl/",
-    "Xin chào": "cái bàn",
-    "": "",
-    "Hello, Nam.": "The book is on the table."
-  },
-  {
-    "1": "13",
-    "hello": "chair",
-    "interjection": "noun",
-    "/həˈloʊ/": "/ʧɛr/",
-    "Xin chào": "ghế",
-    "": "",
-    "Hello, Nam.": "I sit on the chair."
-  },
-  {
-    "1": "14",
-    "hello": "bed",
-    "interjection": "noun",
-    "/həˈloʊ/": "/bɛd/",
-    "Xin chào": "giường",
-    "": "",
-    "Hello, Nam.": "My bed is soft."
-  },
-  {
-    "1": "14",
-    "hello": "desk",
-    "interjection": "noun",
-    "/həˈloʊ/": "/dɛsk/",
-    "Xin chào": "bàn học",
-    "": "",
-    "Hello, Nam.": "My book is on the desk."
-  },
-  {
-    "1": "14",
-    "hello": "window",
-    "interjection": "noun",
-    "/həˈloʊ/": "/ˈwɪndoʊ/",
-    "Xin chào": "cửa sổ",
-    "": "",
-    "Hello, Nam.": "The window is open."
-  },
-  {
-    "1": "14",
-    "hello": "room",
-    "interjection": "noun",
-    "/həˈloʊ/": "/ruːm/",
-    "Xin chào": "phòng",
-    "": "",
-    "Hello, Nam.": "My room is small."
-  },
-  {
-    "1": "15",
-    "hello": "meat",
-    "interjection": "noun",
-    "/həˈloʊ/": "/miːt/",
-    "Xin chào": "thịt",
-    "": "",
-    "Hello, Nam.": "I eat meat."
-  },
-  {
-    "1": "15",
-    "hello": "chicken",
-    "interjection": "noun",
-    "/həˈloʊ/": "/ˈʧɪkɪn/",
-    "Xin chào": "gà",
-    "": "",
-    "Hello, Nam.": "I eat chicken."
-  },
-  {
-    "1": "15",
-    "hello": "fish",
-    "interjection": "noun",
-    "/həˈloʊ/": "/fɪʃ/",
-    "Xin chào": "cá",
-    "": "",
-    "Hello, Nam.": "I eat fish."
-  },
-  {
-    "1": "15",
-    "hello": "drink",
-    "interjection": "verb",
-    "/həˈloʊ/": "/drɪŋk/",
-    "Xin chào": "uống",
-    "": "",
-    "Hello, Nam.": "I drink water."
-  },
-  {
-    "1": "15",
-    "hello": "eat",
-    "interjection": "verb",
-    "/həˈloʊ/": "/iːt/",
-    "Xin chào": "ăn",
-    "": "",
-    "Hello, Nam.": "I eat rice."
-  },
-  {
-    "1": "16",
-    "hello": "cat",
-    "interjection": "noun",
-    "/həˈloʊ/": "/kæt/",
-    "Xin chào": "mèo",
-    "": "",
-    "Hello, Nam.": "The cat is small."
-  },
-  {
-    "1": "16",
-    "hello": "dog",
-    "interjection": "noun",
-    "/həˈloʊ/": "/dɔːg/",
-    "Xin chào": "chó",
-    "": "",
-    "Hello, Nam.": "The dog runs fast."
-  },
-  {
-    "1": "16",
-    "hello": "rabbit",
-    "interjection": "noun",
-    "/həˈloʊ/": "/ˈræbɪt/",
-    "Xin chào": "thỏ",
-    "": "",
-    "Hello, Nam.": "The rabbit is white."
-  },
-  {
-    "1": "16",
-    "hello": "parrot",
-    "interjection": "noun",
-    "/həˈloʊ/": "/ˈper.ət/",
-    "Xin chào": "vẹt",
-    "": "",
-    "Hello, Nam.": "The parrot can fly."
-  },
-  {
-    "1": "17",
-    "hello": "doll",
-    "interjection": "noun",
-    "/həˈloʊ/": "/dɔːl/",
-    "Xin chào": "búp bê",
-    "": "",
-    "Hello, Nam.": "I have a doll."
-  },
-  {
-    "1": "17",
-    "hello": "toy",
-    "interjection": "noun",
-    "/həˈloʊ/": "/tɔɪ/",
-    "Xin chào": "đồ chơi",
-    "": "",
-    "Hello, Nam.": "This toy is fun."
-  },
-  {
-    "1": "17",
-    "hello": "teddy bear",
-    "interjection": "noun",
-    "/həˈloʊ/": "/ˈted·i ˌbeər/",
-    "Xin chào": "gấu bông",
-    "": "",
-    "Hello, Nam.": "I have a teddy bear."
-  },
-  {
-    "1": "17",
-    "hello": "kite",
-    "interjection": "noun",
-    "/həˈloʊ/": "/kaɪt/",
-    "Xin chào": "diều",
-    "": "",
-    "Hello, Nam.": "I fly a kite."
-  },
-  {
-    "1": "18",
-    "hello": "watching TV",
-    "interjection": "noun",
-    "/həˈloʊ/": "/ˈwɑːtʃɪŋ ˌtiːˈviː/",
-    "Xin chào": "xem TV",
-    "": "",
-    "Hello, Nam.": "I like watching TV."
-  },
-  {
-    "1": "18",
-    "hello": "drawing a picture",
-    "interjection": "noun",
-    "/həˈloʊ/": "/ˈdrɔːɪŋ ə ˈpɪkʧər/",
-    "Xin chào": "vẽ tranh",
-    "": "",
-    "Hello, Nam.": "I am drawing a picture."
-  },
-  {
-    "1": "18",
-    "hello": "playing basketball",
-    "interjection": "noun",
-    "/həˈloʊ/": "/ˈpleɪɪŋ ˈbæskɪtbɔːl/",
-    "Xin chào": "chơi bóng rổ",
-    "": "",
-    "Hello, Nam.": "I like playing basketball."
-  },
-  {
-    "1": "18",
-    "hello": "listening to music",
-    "interjection": "noun",
-    "/həˈloʊ/": "/ˈlɪsənɪŋ tuː ˈmjuːzɪk/",
-    "Xin chào": "nghe nhạc",
-    "": "",
-    "Hello, Nam.": "I like listening to music."
-  },
-  {
-    "1": "19",
-    "hello": "park",
-    "interjection": "noun",
-    "/həˈloʊ/": "/pɑːrk/",
-    "Xin chào": "công viên",
-    "": "",
-    "Hello, Nam.": "I play in the park."
-  },
-  {
-    "1": "19",
-    "hello": "flying a kite",
-    "interjection": "noun",
-    "/həˈloʊ/": "/ˈflaɪɪŋ ə kaɪt/",
-    "Xin chào": "thả diều",
-    "": "",
-    "Hello, Nam.": "I like flying a kite."
-  },
-  {
-    "1": "19",
-    "hello": "singing a song",
-    "interjection": "noun",
-    "/həˈloʊ/": "/ˈsɪŋɪŋ ə sɔːŋ/",
-    "Xin chào": "hát 1 bài hát",
-    "": "",
-    "Hello, Nam.": "I am singing a song."
-  },
-  {
-    "1": "20",
-    "hello": "monkey",
-    "interjection": "noun",
-    "/həˈloʊ/": "/ˈmʌŋki/",
-    "Xin chào": "khỉ",
-    "": "",
-    "Hello, Nam.": "The monkey climbs trees."
-  },
-  {
-    "1": "20",
-    "hello": "elephant",
-    "interjection": "noun",
-    "/həˈloʊ/": "/ˈɛlɪfənt/",
-    "Xin chào": "voi",
-    "": "",
-    "Hello, Nam.": "The elephant is big."
-  },
-  {
-    "1": "20",
-    "hello": "tiger",
-    "interjection": "noun",
-    "/həˈloʊ/": "/ˈtaɪɡər/",
-    "Xin chào": "hổ",
-    "": "",
-    "Hello, Nam.": "The tiger is strong."
-  },
-  {
-    "1": "20",
-    "hello": "peacock",
-    "interjection": "noun",
-    "/həˈloʊ/": "/ˈpiː.kɑːk/",
-    "Xin chào": "công",
-    "": "",
-    "Hello, Nam.": "The peacock is beautiful."
-  },
-  {
-    "1": "10",
-    "hello": "black",
-    "interjection": "",
-    "/həˈloʊ/": "/blæk/",
-    "Xin chào": "màu đen",
-    "": "",
-    "Hello, Nam.": "The bag is black."
-  },
-  {
-    "1": "10",
-    "hello": "Break time",
-    "interjection": "",
-    "/həˈloʊ/": "/breɪk taɪm/",
-    "Xin chào": "giờ giải lao.",
-    "": "",
-    "Hello, Nam.": "I play chess at break time."
-  },
-  {
-    "1": "10",
-    "hello": "Play",
-    "interjection": "",
-    "/həˈloʊ/": "/plei/",
-    "Xin chào": "chơi",
-    "": "",
-    "Hello, Nam.": "I play every day."
-  },
-  {
-    "1": "10",
-    "hello": "badminton",
-    "interjection": "",
-    "/həˈloʊ/": "/ˈbæd.mɪn.tən/",
-    "Xin chào": "cầu lông.",
-    "": "",
-    "Hello, Nam.": "I play badminton."
-  },
-  {
-    "1": "10",
-    "hello": "chess",
-    "interjection": "",
-    "/həˈloʊ/": "/ches/",
-    "Xin chào": "cờ",
-    "": "",
-    "Hello, Nam.": "I play chess."
-  },
-  {
-    "1": "10",
-    "hello": "volleyball",
-    "interjection": "",
-    "/həˈloʊ/": "/ˈvɑːlibɔːl/",
-    "Xin chào": "bóng chuyền.",
-    "": "",
-    "Hello, Nam.": "I play volleyball."
-  },
-  {
-    "1": "10",
-    "hello": "basketball",
-    "interjection": "",
-    "/həˈloʊ/": "/ˈbɑː.skɪt.bɔːl/",
-    "Xin chào": "bóng rổ",
-    "": "",
-    "Hello, Nam.": "I play basketball at break time."
-  },
-  {
-    "1": "10",
-    "hello": "Football",
-    "interjection": "",
-    "/həˈloʊ/": "/ˈfʊt.bɔːl/",
-    "Xin chào": "bóng đá.",
-    "": "",
-    "Hello, Nam.": "I play football."
-  },
-  {
-    "1": "10",
-    "hello": "Table tennis",
-    "interjection": "",
-    "/həˈloʊ/": "/ˈteɪ.bəl ˌten.ɪs/",
-    "Xin chào": "bóng bàn",
-    "": "",
-    "Hello, Nam.": "I play table tennis."
-  },
-  {
-    "1": "10",
-    "hello": "Word puzzle",
-    "interjection": "",
-    "/həˈloʊ/": "/wɜːrd ˈpʌzl/",
-    "Xin chào": "Trò chơi ô chữ.",
-    "": "",
-    "Hello, Nam.": "I do word puzzles"
-  },
-  {
-    "1": "10",
-    "hello": "Chat",
-    "interjection": "",
-    "/həˈloʊ/": "/tʃæt/",
-    "Xin chào": "trò chuyện",
-    "": "",
-    "Hello, Nam.": "I chat with my friends."
+    "unit": "1",
+    "id": "hello",
+    "word": "hello",
+    "type": "interjection",
+    "pronunciation": "/həˈloʊ/",
+    "meaning": "Xin chào",
+    "voice": "",
+    "sentence": "Hello, Nam."
+  },
+  {
+    "unit": "1",
+    "id": "bye",
+    "word": "bye",
+    "type": "interjection",
+    "pronunciation": "/baɪ/",
+    "meaning": "Tạm biệt",
+    "voice": "",
+    "sentence": "Bye, see you tomorrow."
+  },
+  {
+    "unit": "1",
+    "id": "thank",
+    "word": "thank",
+    "type": "verb",
+    "pronunciation": "/θæŋk/",
+    "meaning": "Cảm ơn",
+    "voice": "",
+    "sentence": "Thank you, teacher."
+  },
+  {
+    "unit": "1",
+    "id": "how",
+    "word": "how",
+    "type": "adverb",
+    "pronunciation": "/haʊ/",
+    "meaning": "Như thế nào",
+    "voice": "",
+    "sentence": "How are you?"
+  },
+  {
+    "unit": "2",
+    "id": "name",
+    "word": "name",
+    "type": "noun",
+    "pronunciation": "/neɪm/",
+    "meaning": "Tên",
+    "voice": "",
+    "sentence": "My name is Lan."
+  },
+  {
+    "unit": "2",
+    "id": "old",
+    "word": "old",
+    "type": "adjective",
+    "pronunciation": "/oʊld/",
+    "meaning": "Cũ, già",
+    "voice": "",
+    "sentence": "I am eight years old."
+  },
+  {
+    "unit": "2",
+    "id": "your",
+    "word": "your",
+    "type": "determiner",
+    "pronunciation": "/jɔːr/",
+    "meaning": "Của bạn",
+    "voice": "",
+    "sentence": "What is your name?"
+  },
+  {
+    "unit": "2",
+    "id": "my",
+    "word": "my",
+    "type": "determiner",
+    "pronunciation": "/maɪ/",
+    "meaning": "Của tôi",
+    "voice": "",
+    "sentence": "My bag is blue."
+  },
+  {
+    "unit": "3",
+    "id": "friend",
+    "word": "friend",
+    "type": "noun",
+    "pronunciation": "/frɛnd/",
+    "meaning": "bạn bè",
+    "voice": "",
+    "sentence": "Lan is my friend."
+  },
+  {
+    "unit": "3",
+    "id": "teacher",
+    "word": "teacher",
+    "type": "noun",
+    "pronunciation": "/ˈtiːtʃər/",
+    "meaning": "giáo viên",
+    "voice": "",
+    "sentence": "My teacher is kind."
+  },
+  {
+    "unit": "3",
+    "id": "this",
+    "word": "this",
+    "type": "determiner",
+    "pronunciation": "/ðɪs/",
+    "meaning": "cái này, này",
+    "voice": "",
+    "sentence": "This is my book."
+  },
+  {
+    "unit": "3",
+    "id": "that",
+    "word": "that",
+    "type": "determiner",
+    "pronunciation": "/ðæt/",
+    "meaning": "cái kia, kia",
+    "voice": "",
+    "sentence": "That is my school."
+  },
+  {
+    "unit": "4",
+    "id": "eye",
+    "word": "eye",
+    "type": "noun",
+    "pronunciation": "/aɪ/",
+    "meaning": "mắt",
+    "voice": "",
+    "sentence": "I have two eyes."
+  },
+  {
+    "unit": "4",
+    "id": "face",
+    "word": "face",
+    "type": "noun",
+    "pronunciation": "/feɪs/",
+    "meaning": "khuôn mặt",
+    "voice": "",
+    "sentence": "My face is clean."
+  },
+  {
+    "unit": "4",
+    "id": "hair",
+    "word": "hair",
+    "type": "noun",
+    "pronunciation": "/hɛər/",
+    "meaning": "tóc",
+    "voice": "",
+    "sentence": "Her hair is long."
+  },
+  {
+    "unit": "4",
+    "id": "hand",
+    "word": "hand",
+    "type": "noun",
+    "pronunciation": "/hænd/",
+    "meaning": "bàn tay",
+    "voice": "",
+    "sentence": "I wash my hands."
+  },
+  {
+    "unit": "4",
+    "id": "mouth",
+    "word": "mouth",
+    "type": "noun",
+    "pronunciation": "/maʊθ/",
+    "meaning": "miệng",
+    "voice": "",
+    "sentence": "I open my mouth."
+  },
+  {
+    "unit": "4",
+    "id": "nose",
+    "word": "nose",
+    "type": "noun",
+    "pronunciation": "/noʊz/",
+    "meaning": "mũi",
+    "voice": "",
+    "sentence": "My nose is small."
+  },
+  {
+    "unit": "5",
+    "id": "dancing",
+    "word": "dancing",
+    "type": "noun",
+    "pronunciation": "/ˈdænsɪŋ/",
+    "meaning": "nhảy múa",
+    "voice": "",
+    "sentence": "I like dancing."
+  },
+  {
+    "unit": "5",
+    "id": "drawing",
+    "word": "drawing",
+    "type": "noun",
+    "pronunciation": "/ˈdrɔːɪŋ/",
+    "meaning": "vẽ",
+    "voice": "",
+    "sentence": "I like drawing."
+  },
+  {
+    "unit": "5",
+    "id": "running",
+    "word": "running",
+    "type": "noun",
+    "pronunciation": "/ˈrʌnɪŋ/",
+    "meaning": "chạy",
+    "voice": "",
+    "sentence": "I like running."
+  },
+  {
+    "unit": "5",
+    "id": "singing",
+    "word": "singing",
+    "type": "noun",
+    "pronunciation": "/ˈsɪŋɪŋ/",
+    "meaning": "hát",
+    "voice": "",
+    "sentence": "I like singing."
+  },
+  {
+    "unit": "5",
+    "id": "swimming",
+    "word": "swimming",
+    "type": "noun",
+    "pronunciation": "/ˈswɪmɪŋ/",
+    "meaning": "bơi lội",
+    "voice": "",
+    "sentence": "I like swimming."
+  },
+  {
+    "unit": "6",
+    "id": "classroom",
+    "word": "classroom",
+    "type": "noun",
+    "pronunciation": "/ˈklɑːs.rʊm/",
+    "meaning": "phòng học",
+    "voice": "",
+    "sentence": "My classroom is big."
+  },
+  {
+    "unit": "6",
+    "id": "school",
+    "word": "school",
+    "type": "noun",
+    "pronunciation": "/skuːl/",
+    "meaning": "trường học",
+    "voice": "",
+    "sentence": "I go to school."
+  },
+  {
+    "unit": "6",
+    "id": "playground",
+    "word": "playground",
+    "type": "noun",
+    "pronunciation": "/ˈpleɪ.ɡraʊnd/",
+    "meaning": "sân chơi",
+    "voice": "",
+    "sentence": "I play in the playground."
+  },
+  {
+    "unit": "6",
+    "id": "library",
+    "word": "library",
+    "type": "noun",
+    "pronunciation": "/ˈlaɪ.brer.i/",
+    "meaning": "thư viện",
+    "voice": "",
+    "sentence": "I read books in the library."
+  },
+  {
+    "unit": "7",
+    "id": "open",
+    "word": "open",
+    "type": "verb",
+    "pronunciation": "/ˈoʊ.pən/",
+    "meaning": "mở",
+    "voice": "",
+    "sentence": "Open your book."
+  },
+  {
+    "unit": "7",
+    "id": "close",
+    "word": "close",
+    "type": "verb",
+    "pronunciation": "/kloʊz/",
+    "meaning": "đóng",
+    "voice": "",
+    "sentence": "Close the door."
+  },
+  {
+    "unit": "7",
+    "id": "stand up",
+    "word": "stand up",
+    "type": "verb",
+    "pronunciation": "/stænd ʌp/",
+    "meaning": "đứng lên",
+    "voice": "",
+    "sentence": "Stand up, please."
+  },
+  {
+    "unit": "7",
+    "id": "sit down",
+    "word": "sit down",
+    "type": "verb",
+    "pronunciation": "/sɪt daʊn/",
+    "meaning": "ngồi xuống",
+    "voice": "",
+    "sentence": "Sit down, please."
+  },
+  {
+    "unit": "8",
+    "id": "pencil case",
+    "word": "pencil case",
+    "type": "noun",
+    "pronunciation": "/ˈpɛn.səl keɪs/",
+    "meaning": "hộp bút",
+    "voice": "",
+    "sentence": "This is my pencil case."
+  },
+  {
+    "unit": "8",
+    "id": "ruler",
+    "word": "ruler",
+    "type": "noun",
+    "pronunciation": "/ˈruː.lər/",
+    "meaning": "thước kẻ",
+    "voice": "",
+    "sentence": "I have a ruler."
+  },
+  {
+    "unit": "8",
+    "id": "notebook",
+    "word": "notebook",
+    "type": "noun",
+    "pronunciation": "/ˈnoʊt.bʊk/",
+    "meaning": "vở",
+    "voice": "",
+    "sentence": "I write in my notebook."
+  },
+  {
+    "unit": "8",
+    "id": "bag",
+    "word": "bag",
+    "type": "noun",
+    "pronunciation": "/bæɡ/",
+    "meaning": "cặp sách",
+    "voice": "",
+    "sentence": "My bag is new."
+  },
+  {
+    "unit": "9",
+    "id": "red",
+    "word": "red",
+    "type": "adjective",
+    "pronunciation": "/rɛd/",
+    "meaning": "đỏ",
+    "voice": "",
+    "sentence": "The apple is red."
+  },
+  {
+    "unit": "9",
+    "id": "blue",
+    "word": "blue",
+    "type": "adjective",
+    "pronunciation": "/bluː/",
+    "meaning": "xanh dương",
+    "voice": "",
+    "sentence": "The sky is blue."
+  },
+  {
+    "unit": "9",
+    "id": "yellow",
+    "word": "yellow",
+    "type": "adjective",
+    "pronunciation": "/ˈjɛ.loʊ/",
+    "meaning": "vàng",
+    "voice": "",
+    "sentence": "The banana is yellow."
+  },
+  {
+    "unit": "9",
+    "id": "green",
+    "word": "green",
+    "type": "adjective",
+    "pronunciation": "/ɡriːn/",
+    "meaning": "xanh lá",
+    "voice": "",
+    "sentence": "The tree is green."
+  },
+  {
+    "unit": "9",
+    "id": "black",
+    "word": "black",
+    "type": "adjective",
+    "pronunciation": "/blæk/",
+    "meaning": "đen",
+    "voice": "",
+    "sentence": "My bag is black."
+  },
+  {
+    "unit": "9",
+    "id": "white",
+    "word": "white",
+    "type": "adjective",
+    "pronunciation": "/waɪt/",
+    "meaning": "trắng",
+    "voice": "",
+    "sentence": "The cat is white."
+  },
+  {
+    "unit": "10",
+    "id": "play",
+    "word": "play",
+    "type": "verb",
+    "pronunciation": "/pleɪ/",
+    "meaning": "chơi",
+    "voice": "",
+    "sentence": "I play football."
+  },
+  {
+    "unit": "10",
+    "id": "chat",
+    "word": "chat",
+    "type": "verb",
+    "pronunciation": "/tʃæt/",
+    "meaning": "trò chuyện",
+    "voice": "",
+    "sentence": "I chat with my friend."
+  },
+  {
+    "unit": "10",
+    "id": "break time",
+    "word": "break time",
+    "type": "noun",
+    "pronunciation": "/ˈbreɪk ˌtaɪm/",
+    "meaning": "giờ ra chơi",
+    "voice": "",
+    "sentence": "I play at break time."
+  },
+  {
+    "unit": "10",
+    "id": "badminton",
+    "word": "badminton",
+    "type": "noun",
+    "pronunciation": "/ˈbæd.mɪn.tən/",
+    "meaning": "cầu lông",
+    "voice": "",
+    "sentence": "I play badminton."
+  },
+  {
+    "unit": "10",
+    "id": "volleyball",
+    "word": "volleyball",
+    "type": "noun",
+    "pronunciation": "/ˈvɑː.li.bɑːl/",
+    "meaning": "bóng chuyền",
+    "voice": "",
+    "sentence": "I play volleyball."
+  },
+  {
+    "unit": "11",
+    "id": "brother",
+    "word": "brother",
+    "type": "noun",
+    "pronunciation": "/ˈbrʌðər/",
+    "meaning": "anh/em trai",
+    "voice": "",
+    "sentence": "My brother is tall."
+  },
+  {
+    "unit": "11",
+    "id": "father",
+    "word": "father",
+    "type": "noun",
+    "pronunciation": "/ˈfɑːðər/",
+    "meaning": "cha",
+    "voice": "",
+    "sentence": "My father is kind."
+  },
+  {
+    "unit": "11",
+    "id": "mother",
+    "word": "mother",
+    "type": "noun",
+    "pronunciation": "/ˈmʌðər/",
+    "meaning": "mẹ",
+    "voice": "",
+    "sentence": "My mother cooks well."
+  },
+  {
+    "unit": "11",
+    "id": "sister",
+    "word": "sister",
+    "type": "noun",
+    "pronunciation": "/ˈsɪstər/",
+    "meaning": "chị/em gái",
+    "voice": "",
+    "sentence": "My sister reads a book."
+  },
+  {
+    "unit": "12",
+    "id": "doctor",
+    "word": "doctor",
+    "type": "noun",
+    "pronunciation": "/ˈdɑːktər/",
+    "meaning": "bác sĩ",
+    "voice": "",
+    "sentence": "The doctor helps people."
+  },
+  {
+    "unit": "12",
+    "id": "teacher",
+    "word": "teacher",
+    "type": "noun",
+    "pronunciation": "/ˈtiːʧər/",
+    "meaning": "giáo viên",
+    "voice": "",
+    "sentence": "My teacher teaches English."
+  },
+  {
+    "unit": "12",
+    "id": "nurse",
+    "word": "nurse",
+    "type": "noun",
+    "pronunciation": "/nɜːrs/",
+    "meaning": "y tá",
+    "voice": "",
+    "sentence": "The nurse works in a hospital."
+  },
+  {
+    "unit": "12",
+    "id": "singer",
+    "word": "singer",
+    "type": "noun",
+    "pronunciation": "/ˈsɪŋər/",
+    "meaning": "ca sĩ",
+    "voice": "",
+    "sentence": "The singer sings a song."
+  },
+  {
+    "unit": "13",
+    "id": "kitchen",
+    "word": "kitchen",
+    "type": "noun",
+    "pronunciation": "/ˈkɪʧən/",
+    "meaning": "nhà bếp",
+    "voice": "",
+    "sentence": "My mom cooks in the kitchen."
+  },
+  {
+    "unit": "13",
+    "id": "bedroom",
+    "word": "bedroom",
+    "type": "noun",
+    "pronunciation": "/ˈbɛdruːm/",
+    "meaning": "phòng ngủ",
+    "voice": "",
+    "sentence": "I sleep in the bedroom."
+  },
+  {
+    "unit": "13",
+    "id": "table",
+    "word": "table",
+    "type": "noun",
+    "pronunciation": "/ˈteɪbəl/",
+    "meaning": "cái bàn",
+    "voice": "",
+    "sentence": "The book is on the table."
+  },
+  {
+    "unit": "13",
+    "id": "chair",
+    "word": "chair",
+    "type": "noun",
+    "pronunciation": "/ʧɛr/",
+    "meaning": "ghế",
+    "voice": "",
+    "sentence": "I sit on the chair."
+  },
+  {
+    "unit": "14",
+    "id": "bed",
+    "word": "bed",
+    "type": "noun",
+    "pronunciation": "/bɛd/",
+    "meaning": "giường",
+    "voice": "",
+    "sentence": "My bed is soft."
+  },
+  {
+    "unit": "14",
+    "id": "desk",
+    "word": "desk",
+    "type": "noun",
+    "pronunciation": "/dɛsk/",
+    "meaning": "bàn học",
+    "voice": "",
+    "sentence": "My book is on the desk."
+  },
+  {
+    "unit": "14",
+    "id": "window",
+    "word": "window",
+    "type": "noun",
+    "pronunciation": "/ˈwɪndoʊ/",
+    "meaning": "cửa sổ",
+    "voice": "",
+    "sentence": "The window is open."
+  },
+  {
+    "unit": "14",
+    "id": "room",
+    "word": "room",
+    "type": "noun",
+    "pronunciation": "/ruːm/",
+    "meaning": "phòng",
+    "voice": "",
+    "sentence": "My room is small."
+  },
+  {
+    "unit": "15",
+    "id": "meat",
+    "word": "meat",
+    "type": "noun",
+    "pronunciation": "/miːt/",
+    "meaning": "thịt",
+    "voice": "",
+    "sentence": "I eat meat."
+  },
+  {
+    "unit": "15",
+    "id": "chicken",
+    "word": "chicken",
+    "type": "noun",
+    "pronunciation": "/ˈʧɪkɪn/",
+    "meaning": "gà",
+    "voice": "",
+    "sentence": "I eat chicken."
+  },
+  {
+    "unit": "15",
+    "id": "fish",
+    "word": "fish",
+    "type": "noun",
+    "pronunciation": "/fɪʃ/",
+    "meaning": "cá",
+    "voice": "",
+    "sentence": "I eat fish."
+  },
+  {
+    "unit": "15",
+    "id": "drink",
+    "word": "drink",
+    "type": "verb",
+    "pronunciation": "/drɪŋk/",
+    "meaning": "uống",
+    "voice": "",
+    "sentence": "I drink water."
+  },
+  {
+    "unit": "15",
+    "id": "eat",
+    "word": "eat",
+    "type": "verb",
+    "pronunciation": "/iːt/",
+    "meaning": "ăn",
+    "voice": "",
+    "sentence": "I eat rice."
+  },
+  {
+    "unit": "16",
+    "id": "cat",
+    "word": "cat",
+    "type": "noun",
+    "pronunciation": "/kæt/",
+    "meaning": "mèo",
+    "voice": "",
+    "sentence": "The cat is small."
+  },
+  {
+    "unit": "16",
+    "id": "dog",
+    "word": "dog",
+    "type": "noun",
+    "pronunciation": "/dɔːg/",
+    "meaning": "chó",
+    "voice": "",
+    "sentence": "The dog runs fast."
+  },
+  {
+    "unit": "16",
+    "id": "rabbit",
+    "word": "rabbit",
+    "type": "noun",
+    "pronunciation": "/ˈræbɪt/",
+    "meaning": "thỏ",
+    "voice": "",
+    "sentence": "The rabbit is white."
+  },
+  {
+    "unit": "16",
+    "id": "parrot",
+    "word": "parrot",
+    "type": "noun",
+    "pronunciation": "/ˈper.ət/",
+    "meaning": "vẹt",
+    "voice": "",
+    "sentence": "The parrot can fly."
+  },
+  {
+    "unit": "17",
+    "id": "doll",
+    "word": "doll",
+    "type": "noun",
+    "pronunciation": "/dɔːl/",
+    "meaning": "búp bê",
+    "voice": "",
+    "sentence": "I have a doll."
+  },
+  {
+    "unit": "17",
+    "id": "toy",
+    "word": "toy",
+    "type": "noun",
+    "pronunciation": "/tɔɪ/",
+    "meaning": "đồ chơi",
+    "voice": "",
+    "sentence": "This toy is fun."
+  },
+  {
+    "unit": "17",
+    "id": "teddy bear",
+    "word": "teddy bear",
+    "type": "noun",
+    "pronunciation": "/ˈted·i ˌbeər/",
+    "meaning": "gấu bông",
+    "voice": "",
+    "sentence": "I have a teddy bear."
+  },
+  {
+    "unit": "17",
+    "id": "kite",
+    "word": "kite",
+    "type": "noun",
+    "pronunciation": "/kaɪt/",
+    "meaning": "diều",
+    "voice": "",
+    "sentence": "I fly a kite."
+  },
+  {
+    "unit": "18",
+    "id": "watching TV",
+    "word": "watching TV",
+    "type": "noun",
+    "pronunciation": "/ˈwɑːtʃɪŋ ˌtiːˈviː/",
+    "meaning": "xem TV",
+    "voice": "",
+    "sentence": "I like watching TV."
+  },
+  {
+    "unit": "18",
+    "id": "drawing a picture",
+    "word": "drawing a picture",
+    "type": "noun",
+    "pronunciation": "/ˈdrɔːɪŋ ə ˈpɪkʧər/",
+    "meaning": "vẽ tranh",
+    "voice": "",
+    "sentence": "I am drawing a picture."
+  },
+  {
+    "unit": "18",
+    "id": "playing basketball",
+    "word": "playing basketball",
+    "type": "noun",
+    "pronunciation": "/ˈpleɪɪŋ ˈbæskɪtbɔːl/",
+    "meaning": "chơi bóng rổ",
+    "voice": "",
+    "sentence": "I like playing basketball."
+  },
+  {
+    "unit": "18",
+    "id": "listening to music",
+    "word": "listening to music",
+    "type": "noun",
+    "pronunciation": "/ˈlɪsənɪŋ tuː ˈmjuːzɪk/",
+    "meaning": "nghe nhạc",
+    "voice": "",
+    "sentence": "I like listening to music."
+  },
+  {
+    "unit": "19",
+    "id": "park",
+    "word": "park",
+    "type": "noun",
+    "pronunciation": "/pɑːrk/",
+    "meaning": "công viên",
+    "voice": "",
+    "sentence": "I play in the park."
+  },
+  {
+    "unit": "19",
+    "id": "flying a kite",
+    "word": "flying a kite",
+    "type": "noun",
+    "pronunciation": "/ˈflaɪɪŋ ə kaɪt/",
+    "meaning": "thả diều",
+    "voice": "",
+    "sentence": "I like flying a kite."
+  },
+  {
+    "unit": "19",
+    "id": "singing a song",
+    "word": "singing a song",
+    "type": "noun",
+    "pronunciation": "/ˈsɪŋɪŋ ə sɔːŋ/",
+    "meaning": "hát 1 bài hát",
+    "voice": "",
+    "sentence": "I am singing a song."
+  },
+  {
+    "unit": "20",
+    "id": "monkey",
+    "word": "monkey",
+    "type": "noun",
+    "pronunciation": "/ˈmʌŋki/",
+    "meaning": "khỉ",
+    "voice": "",
+    "sentence": "The monkey climbs trees."
+  },
+  {
+    "unit": "20",
+    "id": "elephant",
+    "word": "elephant",
+    "type": "noun",
+    "pronunciation": "/ˈɛlɪfənt/",
+    "meaning": "voi",
+    "voice": "",
+    "sentence": "The elephant is big."
+  },
+  {
+    "unit": "20",
+    "id": "tiger",
+    "word": "tiger",
+    "type": "noun",
+    "pronunciation": "/ˈtaɪɡər/",
+    "meaning": "hổ",
+    "voice": "",
+    "sentence": "The tiger is strong."
+  },
+  {
+    "unit": "20",
+    "id": "peacock",
+    "word": "peacock",
+    "type": "noun",
+    "pronunciation": "/ˈpiː.kɑːk/",
+    "meaning": "công",
+    "voice": "",
+    "sentence": "The peacock is beautiful."
+  },
+  {
+    "unit": "10",
+    "id": "black",
+    "word": "black",
+    "type": "",
+    "pronunciation": "/blæk/",
+    "meaning": "màu đen",
+    "voice": "",
+    "sentence": "The bag is black."
+  },
+  {
+    "unit": "10",
+    "id": "Break time",
+    "word": "Break time",
+    "type": "",
+    "pronunciation": "/breɪk taɪm/",
+    "meaning": "giờ giải lao.",
+    "voice": "",
+    "sentence": "I play chess at break time."
+  },
+  {
+    "unit": "10",
+    "id": "Play",
+    "word": "Play",
+    "type": "",
+    "pronunciation": "/plei/",
+    "meaning": "chơi",
+    "voice": "",
+    "sentence": "I play every day."
+  },
+  {
+    "unit": "10",
+    "id": "badminton",
+    "word": "badminton",
+    "type": "",
+    "pronunciation": "/ˈbæd.mɪn.tən/",
+    "meaning": "cầu lông.",
+    "voice": "",
+    "sentence": "I play badminton."
+  },
+  {
+    "unit": "10",
+    "id": "chess",
+    "word": "chess",
+    "type": "",
+    "pronunciation": "/ches/",
+    "meaning": "cờ",
+    "voice": "",
+    "sentence": "I play chess."
+  },
+  {
+    "unit": "10",
+    "id": "volleyball",
+    "word": "volleyball",
+    "type": "",
+    "pronunciation": "/ˈvɑːlibɔːl/",
+    "meaning": "bóng chuyền.",
+    "voice": "",
+    "sentence": "I play volleyball."
+  },
+  {
+    "unit": "10",
+    "id": "basketball",
+    "word": "basketball",
+    "type": "",
+    "pronunciation": "/ˈbɑː.skɪt.bɔːl/",
+    "meaning": "bóng rổ",
+    "voice": "",
+    "sentence": "I play basketball at break time."
+  },
+  {
+    "unit": "10",
+    "id": "Football",
+    "word": "Football",
+    "type": "",
+    "pronunciation": "/ˈfʊt.bɔːl/",
+    "meaning": "bóng đá.",
+    "voice": "",
+    "sentence": "I play football."
+  },
+  {
+    "unit": "10",
+    "id": "Table tennis",
+    "word": "Table tennis",
+    "type": "",
+    "pronunciation": "/ˈteɪ.bəl ˌten.ɪs/",
+    "meaning": "bóng bàn",
+    "voice": "",
+    "sentence": "I play table tennis."
+  },
+  {
+    "unit": "10",
+    "id": "Word puzzle",
+    "word": "Word puzzle",
+    "type": "",
+    "pronunciation": "/wɜːrd ˈpʌzl/",
+    "meaning": "Trò chơi ô chữ.",
+    "voice": "",
+    "sentence": "I do word puzzles"
+  },
+  {
+    "unit": "10",
+    "id": "Chat",
+    "word": "Chat",
+    "type": "",
+    "pronunciation": "/tʃæt/",
+    "meaning": "trò chuyện",
+    "voice": "",
+    "sentence": "I chat with my friends."
   }
 ]
